@@ -1,4 +1,14 @@
-# **SOC - User Management**
+---
+layout: page
+title: SOC User Management
+author: Eastbanc Technologies
+name: Eastbanc Technologies
+email: contact@eastbanctech.com
+---
+
+
+
+## Table of Content
 
 - [User Management](#-User-Management)
   * [Filters](#-Filters)
@@ -6,17 +16,17 @@
   * [Editing User Information](#-Editing-User-Information)
   * [Deactivating and Reactivating Users](#-Deactivating-and-Reactivating-Users)
 
-# **User Management**
+# User Management <a name="-User-Management"></a>
 
 The User Management view allows the Admin user to view all the users currently uploaded into the system as well as upload Excel files with new users, edit individual users, Deactivate/ Reactivate users in the system.
 
-## **Filters**
+## Filters <a name="-Filters"></a>
 
 Using the filters at the top of the application allows the Admin user to narrow down the users displayed on the list. The following filters are available: User Login ID, Name, Roles (Admin, Driver, Inspector, Supervisor), Supervisor or Inspector assigned to the user, and the company the user works for. 
 
 ![Screenshot 2021-03-05 112634](https://user-images.githubusercontent.com/79857237/110144001-d9146380-7da5-11eb-8f53-87acd6f2178b.png)
 
-## **Upload Users**
+## Upload Users <a name="-Upload-Users"></a>
 
 The Upload Users function allows Admin users to add users to the system by following the steps below (this feature isn't used as Montgomery County does this on their end and therefore this feature may be deprecated in future releases.)
 
@@ -30,7 +40,7 @@ The Upload Users function allows Admin users to add users to the system by follo
 * Click 'Upload'
 * The system will add the new users to the list.
 
-## **Editing User Information**
+## Editing User Information <a name="-Editing-User-Information"></a>
 
 An Admin user can edit the personal information of users after they have been uploaded by following the steps below.
 
@@ -42,7 +52,7 @@ An Admin user can edit the personal information of users after they have been up
 * Make edits
 * Click 'Save Changes' to reflect them in the user record.
 
-## **Deactivating and Reactivating Users**
+## Deactivating and Reactivating Users <a name="-Deactivating-and-Reactivating-Users"></a>
 
 An Admin user can Deactivate users when they are no longer needed in the system or no longer needed to fulfill duties. This would remove the user from showing up in selection lists throughout the application (e.g. task assignment). To deactivate the user, locate the user and click on 'Deactivate' button (shown below) and follow with a 'Yes' to the next prompt. The user has been deactivated once the button now says 'Reactivate' for that user. To reactivate is the same process, click on 'Reactivate' and the user is live in the system again.
 
