@@ -101,7 +101,7 @@ A Supervisor can create an Assignment related to a specific address by following
 
 * This will add the assignment to (NEED MORE INFO)
 
-## Completing Assignments for Multi-Passes <a name="-Completing-Assignments-for-Multi-Passes"></a>
+## Completing Assignments for Multi-Passes <a name="-Completing-Assignment-for-Multi-Passes"></a>
 
 A multi-pass Assignment (when assignment was created, the multi-pass toggled was switched to On) requires a Supervisor to determine the next step after each pass completed by the Driver. Once the Driver completes a pass, a Supervisor receives a 'Pass Completion Notice' prompt with the details about the assignment, including the number of passes made, as seen below. A Supervisor has two options: either 
 1. Tap 'Another Pass' to notify the Driver to continue working on the assignment or
