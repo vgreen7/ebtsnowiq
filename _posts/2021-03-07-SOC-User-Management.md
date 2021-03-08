@@ -1,10 +1,12 @@
 ---
-layout: Post
-title: Soc User Management
-catagories: demo
+layout: page
+title: SOC User Management
+author: Eastbanc Technologies
+name: Eastbanc Technologies
+email: contact@eastbanctech.com
 ---
 
-# **SOC - User Management**
+ Table of Content
 
 - [User Management](#-User-Management)
   * [Filters](#-Filters)
