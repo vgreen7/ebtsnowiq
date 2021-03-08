@@ -1,6 +1,8 @@
 ---
 layout: home
 ---
+
+
 - [What is SNOWiQ ?](#-What-is-SNOWiQ-?)
  - [Application Summaries](#-Application-Summaries)
    * [Storm Operations Center (SOC)](#-Storm-Operation-Center-(SOC))
@@ -30,7 +32,7 @@ layout: home
 
 
 
-    # **What is SNOWiQ ?** <a name= "What is SNOWiQ"></a>
+    # **What is SNOWiQ ?** 
     SNOWiQ is a snowplow fleet management and reporting tool for municipalities, snow plow operators, and the public.Based on our TERRAiQ platform, SNOWiQ uses a combination of smartphone-based GPS and cloud technology, delivering a 360-degree view of individual contractor vehicles and your overall snow removal fleet, without costly hardware investments.  Your team and drivers simply log into the SNOWiQ app from the smartphones and devices they already own.   
     SNOWiQ is a Software as a Service (SaaS) solution that combines your internal reporting needs with the convenience of a public dashboard—two mobile applications and a citizen web portal that satisfies all your vehicle tracking, business intelligence, and communication needs. 
     SNOWiQ is designed to meet the unique needs of fleet supervisors, snowplow operators, and the public they serve.
@@ -42,7 +44,7 @@ layout: home
     **For the Public** - SNOWiQ’s public portal provides residents and businesses with much-needed transparency into snow removal efforts. One portal shows when streets will be plowed, weather updates, and snow removal statistics.
 
 
-# **Application Summaries** <a name= "Application Summaries"></a>
+# **Application Summaries** 
  ## **Storm Operations Center (SOC)**
  **Audience: Strom Operations Managers and Supervisors**
 
