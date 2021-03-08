@@ -25,15 +25,15 @@ email: contact@eastbanctech.com
 
  ![Screenshot 2021-03-05 125933](https://user-images.githubusercontent.com/79857237/110154855-c3f20180-7db2-11eb-8ac6-520e060ad1eb.png)
 
- ## **Route Filters**
+ ## Route Filters <a name="-Route-Filters"></a>
 
  Using the filters above the route list allows users to narrow down what is seen on the map. Setting a filter can add or remove map elements such as route outlines, routes of different types (priorities), or routes with different statuses. The filters and their options are listed below:
 
- ### **Depot**
+ ### Depot <a name="-Depot"></a>
 
  The depot filter defaults to the depot the Supervisor is assigned to and only the routes associated with that depot will be displayed. 
 
- ### **Route Type (Priority)**
+ ### Route Type (Priority) <a name="-Route-Type-(Priority)"></a>
 
 The Route Type filter allows users to filter out route outlines that belong to specific route priorities (not to be confused with route segment type). Route is a combination of route segments with one or more segment type (emergency, primary or neighborhood).
 
@@ -41,7 +41,7 @@ The Route Type filter allows users to filter out route outlines that belong to s
 
 **Residential:** These routes have lower priority and are to be worked after Emergency routes are completed. Depending on the active route plan settings, residential route could be represented by either just neighborhood (orange) road segments or combination of neighborhood (orange) road segments and primary (blue) road segments.
 
-### **Route Status**
+### Route Status <a name="-Route-Status"></a>
 
 The Route Status filter allows users to view any routes set to a specific status during an assignment.
 
@@ -50,7 +50,7 @@ The Route Status filter allows users to view any routes set to a specific status
 * Completed – The route has had its assignment(s) completed by assigned driver(s) or the inspector/supervisor manually set the route to 'Completed' 
 * Inspected – The route has had its assignment verified and finalized by an inspector.
 
-## **Route Details**
+## Route Details <a name="-Route-Details"></a>
 
 Selecting a route label from the list focuses on that single route on the map, as shown below and brings up the 'Route Details' panel on the left. The panel includes percentage of completion for a route if it's being worked on, progress bar of completion, the driver(s) assigned to the route, the driver's contact information, and the status of the route along with a timestamp of that status. On this 'Route Details' panel, the user is also able to 'Assign new drivers' to this route and review the near-real time progress of the driver by looking at the breadcrumbs on the route. Breadcrumbs appear as the driver completes the route as seen below. 
 
