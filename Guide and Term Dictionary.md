@@ -1,4 +1,4 @@
-# **SNOWiQ - Guide and Term Dictionary**
+
 
  - [What is SNOWiQ ?](#-What-is-SNOWiQ-?)
  - [Application Summaries](#-Application-Summaries)
