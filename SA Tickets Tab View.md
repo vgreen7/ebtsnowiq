@@ -16,7 +16,7 @@ email: contact@eastbanctech.com
     + [Route](#-Route)
     + [Ticket Status](#-Ticket-Status)
     + [Ticket Type](#-Ticket-Type)
-  * [Ticket Details](#Ticket-Details)
+  * [Ticket Details](#-Ticket-Details)
 
   ## Tickets Tab <a name="-Tickets-Tab"></a>
 
