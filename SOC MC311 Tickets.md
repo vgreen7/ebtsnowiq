@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SOC User Management
+title: SOC MC311 Tickets
 author: Eastbanc Technologies
 name: Eastbanc Technologies
 email: contact@eastbanctech.com
