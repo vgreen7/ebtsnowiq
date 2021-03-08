@@ -13,7 +13,7 @@ email: contact@eastbanctech.com
 - [Tickets Tab](#-Tickets-Tab)
   * [Tickets Filters](#-Tickets-Filters)
     + [Depot](#-Depot)
-    + [Route](#-Rouute)
+    + [Route](#-Route)
     + [Ticket Status](#-Ticket-Status)
     + [Ticket Type](#-Ticket-Type)
   * [Ticket Details](#Ticket-Details)
