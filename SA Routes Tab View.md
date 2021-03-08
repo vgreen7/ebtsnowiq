@@ -17,7 +17,7 @@ email: contact@eastbanctech.com
     + [Route Status](#-Route-Status)
   * [Route Details](#-Route-Details)
 
-  # **Routes Tab** <a name="-Routes-Tab"></a>
+  ## Routes Tab <a name="-Routes-Tab"></a>
 
  A panel on the left has three tabs: Routes, Drivers, and Tickets. The app opens to Routes, as seen below.
 
