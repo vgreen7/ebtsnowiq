@@ -1,4 +1,4 @@
-# User Manual
+# Driver App
 
 - [ Driver App](#-Driver App)
 - [Login](#-Login)
@@ -22,7 +22,6 @@
    * [Deleting-Road-Hazard](#-Deleting-Road-Hazard)
    
    
-## Driver App 
 **Both the Android and iOS applications have the same functionality.** <!-- and the screenshots below are a combination of both.**-->
 
 ## Login 
