@@ -1,6 +1,6 @@
 ---
 layout: home
-title: SOC User Management
+title: SNOWiQ 
 author: Eastbanc Technologies
 name: Eastbanc Technologies
 email: contact@eastbanctech.com
