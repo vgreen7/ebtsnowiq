@@ -17,9 +17,9 @@ email: contact@eastbanctech.com
     + [Driver Status](#-Driver-Status)
   * [Driver Details](#-Driver-Details)
 
-  ## Drivers Tab <a name="-Driver-Tab"></a>
+  ## Drivers Tab <a name="-Drivers-Tab"></a>
 
-  The Drivers panel displays a list of drivers active in the system with their names and current statuses. The driver marker is displayed on the map (color coded based on status). Above the list there is a set of filters: by Depot, Route Type, and Route Status. Pressing on the name of the driver in the panel on the left takes the user to the **Driver Details panel**.
+  The Drivers panel displays a list of drivers active in the system with their names and current statuses. The driver marker is displayed on the map (color coded based on status). Above the list there is a set of filters: by Depot, Route Type, and Route Status. Pressing on the name of the driver in the panel on the left takes the user to the [Driver Details Panel](https://github.com/EBTSnowiQ/ebtsnowiq.github.io/blob/main/SA%20Drivers%20Tab%20View.md#-Driver-Details).
 
   ![Screenshot 2021-03-05 132229](https://user-images.githubusercontent.com/79857237/110157319-0701a400-7db6-11eb-9493-e230d019c5df.png)
 
@@ -27,7 +27,7 @@ email: contact@eastbanctech.com
 
   ![Screenshot 2021-03-05 132249](https://user-images.githubusercontent.com/79857237/110157328-0963fe00-7db6-11eb-9d3c-b0f826ee05ee.png)
 
-  ## Driver Filters <a name="-Driver-Filters"></a>
+  ## Drivers Filters <a name="-Drivers-Filters"></a>
 
   Using the filters above the drivers list allows users to narrow down what is seen on the map. Setting a filter can add or remove map elements such as driver types or drivers with different statuses. The filters and their options are listed below:
 
