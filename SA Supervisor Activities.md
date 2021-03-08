@@ -1,3 +1,15 @@
+---
+layout: page
+title: SA Supervisor Activities
+author: Eastbanc Technologies
+name: Eastbanc Technologies
+email: contact@eastbanctech.com
+---
+
+
+
+## Table of Content
+
 
 - [Assignments](#-Assignments)
   * [Creating New Assignments](#-Creating-New-Assignments)
@@ -15,16 +27,17 @@
 - [Road Hazards](#-Road-Hazards)
   * [Creating Road Hazards](#-Creating-Road-Hazards)
   * [Deleting Road Hazards](#-Deleting-Road-Hazards)
+  
 
-# **Assignments**
-## **Creating New Assignments**
+## Assignments <a name="-Assignments"></a>
+## Creating New Assignments <a name="-Creating-New-Assignments"></a>
 
 There are three ways of creating new assignments within the SA: 
 1. From Routes tab by pressing 'Assign new drivers'. 
 2. From the Driver Details panel by pressing 'Add Task'.  
 3. From Map Monitoring view on either the Routes or Drivers
 
-### **Assigning New Drivers**
+### Assigning New Drivers <a name="-Assigning-New-Drivers"></a>
 
 A Supervisor can assign a new driver to a route, by following the steps below:
 
@@ -46,7 +59,7 @@ A Supervisor can assign a new driver to a route, by following the steps below:
 
 * This will add the assignment to the Route Details with the name of the Driver and the Assignment status of 'Pending' to indicate that the Assignment has been sent to the Driver but not accepted yet. It also adds the Assignment to the Future list of Assignments for the Driver, as can in the next section. It also prompts the Driver in the Driver App (DA) to accept the Assignment
 
-### **Adding Tasks**
+### Adding Tasks <a name="-Adding-Tasks"></a>
 
 A Supervisor can add a new task to a Driver, by the following the steps below:
 
@@ -68,7 +81,7 @@ A Supervisor can add a new task to a Driver, by the following the steps below:
 
 ![Screenshot 2021-03-08 083910](https://user-images.githubusercontent.com/79857237/110329826-1ae21b80-7feb-11eb-86a8-6347086959c9.png)
 
-### **Creating Address Specific Assignment**
+### Creating Address Specific Assignment <a name="-Creating-Address-Specific-Assignment"></a>
 
 A Supervisor can create an Assignment related to a specific address by following the steps below:
 
@@ -88,7 +101,7 @@ A Supervisor can create an Assignment related to a specific address by following
 
 * This will add the assignment to (NEED MORE INFO)
 
-## **Completing Assignments for Multi-Passes**
+## Completing Assignments for Multi-Passes <a name="-Completing-Assignments-ford-Multi-Passes"></a>
 
 A multi-pass Assignment (when assignment was created, the multi-pass toggled was switched to On) requires a Supervisor to determine the next step after each pass completed by the Driver. Once the Driver completes a pass, a Supervisor receives a 'Pass Completion Notice' prompt with the details about the assignment, including the number of passes made, as seen below. A Supervisor has two options: either 
 1. Tap 'Another Pass' to notify the Driver to continue working on the assignment or
@@ -98,7 +111,7 @@ If a Supervisor selects 'Option 1' the system notifies the Driver to continue wo
 
  ![Screenshot 2021-03-08 084022](https://user-images.githubusercontent.com/79857237/110329854-22a1c000-7feb-11eb-866e-18f0600bd75e.png)
 
- ## **Cancelling Assignments**
+ ## Cancelling Assignments <a name="-Cancelling-Assignments"></a>
 
  Supervisor can cancel assignments following these steps:
 
@@ -110,16 +123,16 @@ If a Supervisor selects 'Option 1' the system notifies the Driver to continue wo
   ![Screenshot 2021-03-08 084054](https://user-images.githubusercontent.com/79857237/110329859-23d2ed00-7feb-11eb-9a83-9010ed4aa258.png)
   ![Screenshot 2021-03-08 084114](https://user-images.githubusercontent.com/79857237/110329865-259cb080-7feb-11eb-90ef-9ff5e4b38ac6.png)
 
-# **Routes**
-## **Inspecting Routes**
+## Routes <a name="-Routes"></a>
+## Inspecting Routes <a name="-Inspecting-Routes"></a>
 
 Once a Route has all its assignments completed, a Supervisor needs to change the status of that route to 'Inspected' to verify that the route is finished, by navigating to the Route Details panel and pressing 'Change Status' and pressing 'Inspected' on the prompt.
  
  ![Screenshot 2021-03-08 084142](https://user-images.githubusercontent.com/79857237/110329881-29303780-7feb-11eb-8964-dd90e4bde579.png)
 
-# **Drivers**
-## **Changing Driver Status**
-## **Assigning Drivers to Tickets**
+## Drivers <a name="-Drivers"></a>
+## Changing Driver Status <a name="-Changing-Driver-Status"></a>
+## Assigning Drivers to Tickets <a name="-Assigning-Drivers-to-Tickets"></a>
 
 A Supervisor can assign an existing ticket to a Driver, by following the steps below:
 
@@ -140,7 +153,7 @@ A Supervisor can assign an existing ticket to a Driver, by following the steps b
 
 This will remove the 'New' tag from the ticket on the ticket list and modify the color of the ticket marker on the map to yellow ![Screenshot 2021-03-08 094149](https://user-images.githubusercontent.com/79857237/110336154-94c9d300-7ff2-11eb-971c-42a57cadfa6a.png) to indicate that the ticket status is 'Assigned' but not accepted by the Driver yet. It will also notify the Driver to accept the ticket assignment. (The process can be seen here.) 
 
-## **Pausing or Resuming Drivers**
+## Pausing or Resuming Drivers <a name="-Pausing-or-Resuming-Drivers"></a>
 
 A Supervisor can pause an active Assignment that a Driver is working on or resume by following the steps below: (the reasons to pause: refil salt or go to gas station to document that no work is being performed on the route – no breadcrumbs are accumulated) 
 
@@ -155,8 +168,8 @@ When the Driver status is 'In Service', a Supervisor can pause an Active Assignm
 
  ![Screenshot 2021-03-08 084307](https://user-images.githubusercontent.com/79857237/110329915-32210900-7feb-11eb-9d94-8704b37ac7fd.png)
  
-# **Road Hazards**
-## **Creating Road Hazards**
+## Road Hazards <a name="-Road-Hazards"></a>
+## Creating Road Hazards <a name="-Creating-Road-Hazards"></a>
 
 A Supervisor can create a road hazard on the map to warn Drivers of the hazards on their routes, by following the steps below:
 * From the Map Monitoring view (either tab: Routes, Drivers, or Tickets), tap on the map where teh road hazard is located
@@ -172,7 +185,7 @@ A Supervisor can create a road hazard on the map to warn Drivers of the hazards 
 
  ![Screenshot 2021-03-08 084357](https://user-images.githubusercontent.com/79857237/110339740-7c5bb780-7ff6-11eb-84ad-e70abd257831.png)
 
- ## **Deleting Road Hazards**
+ ## Deleting Road Hazards <a name="-Deleting-Road-Hazards"></a>
 
  A Supervisor can delete an existing road hazard from the map if it doesn't exist anymore:
 
