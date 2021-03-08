@@ -18,9 +18,9 @@ email: contact@eastbanctech.com
   * [Event Log](#-Event-Log)
   * [Event Report](#-Event-Report)
 
-  ## Event Management <a name="-Event-Management"></a>
+## Event Management <a name="-Event-Management"></a>
 
-  The Event Management page allows Admin users to create new storm events, edit Event details, create Phases, Activities for Depots during an event, as well as view Event Logs and Reports for each Event. 
+The Event Management page allows Admin users to create new storm events, edit Event details, create Phases, Activities for Depots during an event, as well as view Event Logs and Reports for each Event. 
 
 
  ![Screenshot 2021-03-05 080423](https://user-images.githubusercontent.com/79857237/110120198-ba54a380-7d8a-11eb-8895-a9574449ca29.png)
