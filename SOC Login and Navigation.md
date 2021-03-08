@@ -56,7 +56,7 @@ The Active Storm Report page allows Admin users to look at the details of the Ev
 
 ![Screenshot 2021-03-04 105910](https://user-images.githubusercontent.com/79857237/109992227-0e9f4b00-7cd9-11eb-92be-55ef8cfdd3a0.png)
 
-  ## Event Management <a name="-Event-Management"></a>
+  ## Event Management <a name="-Event-Mangement"></a>
 
 The Event Management page allows users to create new Events as storms are announced, create Phases within those events, archive active storms, and view reports on specific storms as well.
 
