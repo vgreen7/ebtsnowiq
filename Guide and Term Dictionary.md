@@ -18,18 +18,19 @@
    * [Phase](#-Phase)
    * [Depot](#-Depot)
    * [Driver](#-Driver)
-     * [Driver Status](#-Driver-Status)
+     *[Driver Status](#-Driver-Status)
    * [Route](#-Route)
-     * [Route Type](#-Route-Type)
-     * [Route Status](#-Route-Status)
+     *[Route Type](#-Route-Type)
+     *[Route Status](#-Route-Status)
    * [Assignment](#-Assignment)
-     * [Assignment Status](#-Assignment-Status)
+     *[Assignment Status](#-Assignment-Status)
    * [M311 Request and Emergency Tickets](#-M311-Request-and-Emergency-Status)
-     * [Ticket Status](#-Ticket-Status)
+     *[Ticket Status](#-Ticket-Status)
 
 
 
     # **What is SNOWiQ ?** <a name= "What is SNOWiQ"></a>
+    
     SNOWiQ is a snowplow fleet management and reporting tool for municipalities, snow plow operators, and the public.Based on our TERRAiQ platform, SNOWiQ uses a combination of smartphone-based GPS and cloud technology, delivering a 360-degree view of individual contractor vehicles and your overall snow removal fleet, without costly hardware investments.  Your team and drivers simply log into the SNOWiQ app from the smartphones and devices they already own.   
     SNOWiQ is a Software as a Service (SaaS) solution that combines your internal reporting needs with the convenience of a public dashboard—two mobile applications and a citizen web portal that satisfies all your vehicle tracking, business intelligence, and communication needs. 
     SNOWiQ is designed to meet the unique needs of fleet supervisors, snowplow operators, and the public they serve.
