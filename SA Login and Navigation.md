@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SA Supervisor Activities
+title: SA Login and Navigation
 author: Eastbanc Technologies
 name: Eastbanc Technologies
 email: contact@eastbanctech.com
@@ -9,6 +9,7 @@ email: contact@eastbanctech.com
 
 
 ## Table of Content
+
 - [Login](#-Login)
 - [Navigation](#-Navigation)
   * [Setting-Menu](#-Setting-Menu)
