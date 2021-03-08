@@ -6,6 +6,6 @@ description: "SnowiQ app user manual on GH-Pages"
 email: contact@eastbanctech.com
 
 # Build settings
-remote_theme: jekyll/hyde
+remote_theme: jekyll/cayman
 
 
