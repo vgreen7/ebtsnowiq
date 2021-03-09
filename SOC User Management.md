@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dark
 title: SOC User Management
 author: Eastbanc Technologies
 name: Eastbanc Technologies
