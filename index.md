@@ -7,6 +7,10 @@ email: contact@eastbanctech.com
 ---
 
 # **Welcome to SNOWiQ APP**
+
+![Screenshot 2021-03-09 105249](https://user-images.githubusercontent.com/79857237/110498850-afb94780-80c5-11eb-8e2c-53f2f558a278.png)
+
+
 SNOWiQ is a snowplow fleet management and reporting tool for municipalities, snow plow operators, and the public.  
 
 Based on our TERRAiQ platform, SNOWiQ uses a combination of smartphone-based GPS and cloud technology, delivering a 360-degree view of individual contractor vehicles and your overall snow removal fleet, without costly hardware investments.  Your team and drivers simply log into the SNOWiQ app from the smartphones and devices they already own.  
