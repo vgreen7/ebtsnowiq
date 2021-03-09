@@ -31,6 +31,9 @@ The Map Monitoring view is the first page that users see when logging in, which 
   * A set of filters above the map that allow to narrow or expand what is displayed on the map
 
   ![Screenshot 2021-03-04 130851](https://user-images.githubusercontent.com/79857237/110009697-5c24b380-7ceb-11eb-9e08-bf29fbbbb6e4.png)
+  
+
+  ![SNOWiQ Splash screen](/GitHub/images/Screenshot%202021-03-09%20105249.png)
 
   ## Filters <a name="-Filters"></a>
 
