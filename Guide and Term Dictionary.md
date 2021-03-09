@@ -30,12 +30,12 @@ email: contact@eastbanctech.com
    * [Driver](#-Driver)
      *[Driver Status](#-Driver-Status)
    * [Route](#-Route)
-     * [Route Type](#-Route-Type)
-     * [Route Status](#-Route-Status)
+     *[Route Type](#-Route-Type)
+     *[Route Status](#-Route-Status)
    * [Assignment](#-Assignment)
-     * [Assignment Status](#-Assignment-Status)
+     *[Assignment Status](#-Assignment-Status)
    * [M311 Request and Emergency Tickets](#-M311-Request-and-Emergency-Status)
-     * [Ticket Status](#-Ticket-Status)
+     *[Ticket Status](#-Ticket-Status)
 
 
 
