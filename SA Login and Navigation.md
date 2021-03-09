@@ -20,7 +20,7 @@ email: contact@eastbanctech.com
   * [Clusters](#-Clusters)
 
 
-## Login <a name="Login"></a>
+# Login <a name="Login"></a>
 
 The login screen below allows Supervisor users to enter into
  the SnowIQ Supervisor Application. Click the 'Login' button
@@ -35,7 +35,7 @@ The login screen below allows Supervisor users to enter into
 
  ![Screenshot 2021-03-03 130131](https://user-images.githubusercontent.com/79857237/109851081-4054db00-7c21-11eb-9d67-0db47f67ce83.png)
 
- ## Navigation <a name="-Navigation"></a>
+ # Navigation <a name="-Navigation"></a>
  
  The diagram below highlights basic navigation controls and map elements of the Supervisor App 
 
@@ -69,15 +69,15 @@ The login screen below allows Supervisor users to enter into
 
  ![Screenshot 2021-03-03 130221](https://user-images.githubusercontent.com/79857237/109851092-43e86200-7c21-11eb-929d-708935a2c9b5.png)
 
- ## My Profile <a name="-My-Profile"></a>
+ ### My Profile <a name="-My-Profile"></a>
  
  A user can edit their own profile by pressing 'Edit Profile' in the top right corner, as can be seen in the screenshot above, which would allow the user to edit their own information such as name, phone number and email.
 
- ## About <a name="-About"></a>
+ ### About <a name="-About"></a>
  
  Displays the current version of the app.
 
- ## Event Log <a name="-Event-Log"></a>
+ ### Event Log <a name="-Event-Log"></a>
  
  The Event Log allows Supervisor users a closer look in the actions, the users and the timestamps of the actions for the current actice Event. As seen below, the log shows the time the action occurred in the system, what the action was, and who performed the action (user name or system). Actions may include creating an Assignment, activating a new Phase for a Depot.
 
