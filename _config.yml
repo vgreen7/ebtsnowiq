@@ -8,6 +8,6 @@ email: contact@eastbanctech.com
 # Build settings
 remote_theme: jekyll/minima
 minima:
-  skin: solarized
+  skin: solarized-dark
 
 
