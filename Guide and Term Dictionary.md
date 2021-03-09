@@ -182,7 +182,7 @@ See ‘Driver’ Definition under the ‘Roles’ section above. When logged int
   * Depot - the depot this ticket belongs to. 
   * Route ID - which route is associated with the ticket.
 
-  ### Ticket Status <a name="-Ticket-Status"></a>
+  ###Ticket Status <a name="-Ticket-Status"></a>
 
   * New - The system checked that the 311 ticket is valid for assignment or a new emergency ticket was created but not sent out for assignment yet.
   * Sent - The Admin user reviewed the ticket and sent it to Supervisor App (SA) for assignment creation.
