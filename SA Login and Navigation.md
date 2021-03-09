@@ -83,12 +83,12 @@ The login screen below allows Supervisor users to enter into
 
  ![Screenshot 2021-03-03 130248](https://user-images.githubusercontent.com/79857237/109851103-477be900-7c21-11eb-875b-eb317f27273c.png)
 
- # Map Layers <a name="-Map-Layers"></a>
+ ## Map Layers <a name="-Map-Layers"></a>
  
  A user can access the Map Layers panel by pressing the Map Layers icon on the map (stack of layers icon as seen below). By selecting the elements from the panel, a user can specify which markers or segments to be displayed on the map, subjected to filters selected in the left-hand panel.
 
  ![Screenshot 2021-03-03 130313](https://user-images.githubusercontent.com/79857237/109851111-4945ac80-7c21-11eb-82be-4de629453545.png)
 
- # Clusters <a name="-Clusters"></a>
+ ## Clusters <a name="-Clusters"></a>
  
  On the Map Monitoring view, When a user zooms outs, markers with numbers inside them appear called 'clusters' that de-clutter the map and group together like markers. Clicking on a cluster allows to user to zoom in on that area and view the separated markers on the map.
