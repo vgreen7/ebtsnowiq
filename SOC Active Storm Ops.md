@@ -50,7 +50,7 @@ The Route Status filter allows users to view any routes set to a specific status
 
 ![Screenshot 2021-03-04 130914](https://user-images.githubusercontent.com/79857237/110009702-5e870d80-7ceb-11eb-9df6-4c299472e76c.png)  
 
-### Priority <a name="-Priority"><>
+### Priority <a name="-Priority"></a>
 
 The Priority filter allows users to view only specific route details and segments based on their priority. The route segments are displayed as color coded lines on the map.
 
