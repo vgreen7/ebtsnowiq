@@ -11,7 +11,7 @@ email: contact@eastbanctech.com
 ## Table of Content
 
 
-- [ Driver App](#-Driver App)
+- [Driver App](#-Driver-App)
 - [Login](#-Login)
 - [Navigation](#-Navigation)
 - [Navigation-Drawer](#-Navigation-Drawer)
