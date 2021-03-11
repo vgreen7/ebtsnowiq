@@ -1,12 +1,24 @@
+---
+layout: page
+title: DA Drivers App
+author: Eastbanc Technologies
+name: Eastbanc Technologies
+email: contact@eastbanctech.com
+---
 
 
-- [ Driver App](#-Driver App)
+
+## Table of Content
+
+
+- [Driver App](#-Driver-App)
 - [Login](#-Login)
 - [Navigation](#-Navigation)
 - [Navigation-Drawer](#-Navigation-Drawer)
    * [User-Profile-details](#-User-Profile-details)
    * [Supervisor-details](#-Supervisor-details)
    * [Operations-menu](#-Operations-menu)
+   * [Assignments](#-Assignments)
    * [Profile](#-Profile)
    * [Salt-Management](#-Salt-Management)
    * [About](#-About)
@@ -21,10 +33,10 @@
    * [Creating-Road-Hazard](#-Creating-Road-Hazard)
    * [Deleting-Road-Hazard](#-Deleting-Road-Hazard)
    
-  # Driver App 
+# Driver App <a name="-Driver-App"></a>
 **Both the Android and iOS applications have the same functionality.** <!-- and the screenshots below are a combination of both.**-->
 
-## Login 
+## Login <a name="-Login"></a>
 The login screen below allows Driver users to enter the SnowIQ Driver Application (DA). Click the appropriate 'Login' button to be re-routed to enter the assigned User Name and Password for the application.
 
 ![Screenshot 2021-03-02 131014](https://user-images.githubusercontent.com/79857237/109695112-8cd4e380-7b59-11eb-8c83-716743ad6fdf.png)
@@ -34,7 +46,7 @@ Once logged into the DA, Drivers will see the screen below. The screens display 
 ![Screenshot 2021-03-03 100742](https://user-images.githubusercontent.com/79857237/109826057-6cb02d80-7c08-11eb-963d-7aa5d8c4175c.png)
 ![Screenshot 2021-03-03 100807](https://user-images.githubusercontent.com/79857237/109826066-6f128780-7c08-11eb-8104-982e42fc8283.png)
 
-## Navigation 
+## Navigation <a name="-Navigation"></a>
 The diagram below highlights basic navigation controls and map elements of the Driver App.
 
 ![Screenshot 2021-03-02 131342](https://user-images.githubusercontent.com/79857237/109694808-3667a500-7b59-11eb-8c58-4471ea1129be.png)
@@ -42,7 +54,8 @@ The diagram below highlights basic navigation controls and map elements of the D
 1. User Profile Picture, Name, and Status – pressing on the Profile picture opens the Navigation Drawer 
 2. Weather widget – automatically updated based on location
 3. Status bar  
-   3.1 If it is on active assignment, as seen in this diagram, the status bar includes the route number or address being worked, number of miles on the assignment, percentage          completed, status of the assignment and progress bar
+   3.1 If it is on active assignment, as seen in this diagram, the status bar includes the route number or address being worked, number of miles on the assignment, percentage completed, status of the assignment and progress bar
+
    3.2 If it is in between assignments or no assignments, the system will display the appropriate notification to the user. 
 5. Map – based on the TBD
 6. "My current location on the map" pin
@@ -54,40 +67,45 @@ The diagram below highlights basic navigation controls and map elements of the D
 12. Road hazard marker
 13. Button "Find my location on the map"
 
-## Navigation Drawer
+## Navigation Drawer <a name="-Navigation-Drawer"></a>
 Users can open the Navigation Drawer by pressing the User Profile picture icon as specified in the diagram above. The panel is divided into three sections:
-#### 1. User Profile details:
+#### User Profile details: <a name="-User-Profile-details"></a>
 This section lists the profile details of logged in driver. To edit them, the user can press 'Profile' in the section below.
 
-#### 2. Supervisor details:
+#### Supervisor details: <a name="-Supervisor-details"></a>
 Each driver has a Supervisor they report to and who assigns them work. The Supervisor's name and phone number are listed in this section, with the ability to contact the Supervisor directly from within the app, by pressing the green phone icon.
 
-#### 3. Operations menu:
+#### Operations menu: <a name="-Operations"></a>
 The Operations Menu as seen above is for a Driver without any active or future assignments. If a driver receives an assignment or needs to complete an active assignment, an actionable option will be added to the menu, which can be seen here.
 
 ![Screenshot 2021-03-02 132549](https://user-images.githubusercontent.com/79857237/109696248-d671fe00-7b5a-11eb-8e2a-61ad4544589e.png)
 
-## Profile
+## Assignments <a name="-Assignments"></a>
+A user can press on Assignments' to view the Active Assignment, if there is one, any Future Assignments in the queue, and the History of assignments the driver worked on.
+
+![Screenshot 2021-03-10 122607](https://user-images.githubusercontent.com/79857237/110672601-cfbc3a00-819d-11eb-9622-a5153ba5c232.png)
+
+## Profile <a name="-Profile"></a>
 A user can press on 'Profile' to edit their name, phone number, and User Picture.
 
 ![Screenshot 2021-03-02 134830](https://user-images.githubusercontent.com/79857237/109698975-ffe05900-7b5d-11eb-8ea6-13c55b2c8a66.png)
 
-## Salt Management
+## Salt Management <a name="-Salt-Management"></a>
 A Driver user can press on 'Salt Management' to record how much salt was loaded and returned by pressing 'Add Salt Usage Info.' The historical usage is saved in the list, as seen below. 
 
 ![Screenshot 2021-03-02 135028](https://user-images.githubusercontent.com/79857237/109699211-46ce4e80-7b5e-11eb-8005-cbc2a66637a7.png)
 
-## About
+## About <a name="-About"></a>
 Displays the current version of the app.
 
-## Logout
+## Logout <a name="-Logout"></a>
 A user must logout at the end of each workday.  
 
 
 
-## Driver's Activity
-##   Assignments
-##   Accepting and Working Assignments
+## Driver's Activity <a name="-Driver's-Activity"></a>
+##   Assignments <a name="-Assignments"></a>
+##   Accepting and Working Assignments <a name="-Accepting-and-Working-Assignments"></a>
 When a Supervisor assigns a route, a ticket, or an address-specific assignment, the Driver receives a notification as seen below. Press 'Ok' and follow the steps below:
 
 ![Screenshot 2021-03-02 142731](https://user-images.githubusercontent.com/79857237/109703426-759af380-7b63-11eb-9560-a2b63700389c.png)
@@ -96,7 +114,7 @@ When a Supervisor assigns a route, a ticket, or an address-specific assignment, 
 - Once the system starts tracking that the Driver is working on the assignment, i.e. the Driver's GPS location is on the assigned route or address, the system will change the       status of the Active Assignment to 'Started' in the status bar and begin displaying breadcrumbs to indicate the route that was worked on, as seen below. 
 - Alternatively, the Driver can manually go to the Navigation drawer and press 'Start Assignment' as seen below. 
 
-##   Completing Assignment 
+## Completing Assignment <a name="-Completing-Assignment"></a> 
 A Driver can complete their Active Assignment by opening the Navigation drawer and pressing 'Complete Assignment' as seen below.
 
 ![Screenshot 2021-03-02 143149](https://user-images.githubusercontent.com/79857237/109703943-0eca0a00-7b64-11eb-8e8f-0314c9d1cc98.png)
@@ -105,7 +123,7 @@ This removes the assignment from the Status bar and also moves it from Active As
 
 ![Screenshot 2021-03-02 152604](https://user-images.githubusercontent.com/79857237/109710430-a7b05380-7b6b-11eb-8bae-3e85b576ac49.png)
 
-##   Completing Multi-Pass Assignment
+## Completing Multi-Pass Assignment <a name="-Completing-Multi-Pass-Assignment"></a>
 If a Driver receives an Assignment with Multi-pass toggle on, it will be indicated in the notification and once the Driver completes a pass, they will press 'Complete Pass' in the Navigation drawer and will await further instructions from the supervisor as specified in the status bar as seen below. 
   - If a Supervisor chooses another pass for this assignment, the Driver will receive the following notification to proceed work on the multi-pass assignment until completed         with the pass and repeat the steps as specified above.
 
@@ -116,13 +134,13 @@ If a Driver receives an Assignment with Multi-pass toggle on, it will be indicat
 ![Screenshot 2021-03-02 153140](https://user-images.githubusercontent.com/79857237/109711112-7dab6100-7b6c-11eb-8522-9080ca93f77f.png)
 ![Screenshot 2021-03-02 153202](https://user-images.githubusercontent.com/79857237/109711121-813ee800-7b6c-11eb-98ab-3ad769315369.png)
 
-##   Paused/Resumed Assignment
+## Paused/Resumed Assignment <a name="-Paused/Resumed-Assignment"></a>
 When a Supervisor pauses a Driver, the Driver's status changes to 'Paused' and the status bar is updated, as shown below. Once the Supervisor resumes the Driver, the previous Assignment is started again and the status returns to 'In Service.'
 
 ![Screenshot 2021-03-02 153644](https://user-images.githubusercontent.com/79857237/109711680-2063df80-7b6d-11eb-8a71-4a969581a18d.png)
 
-#  Road Hazards <a name="-Road Hazards"></a>
-##   Creating Road Hazard
+# Road Hazards <a name="-Road Hazards"></a>
+## Creating Road Hazard <a name="-Creating-Road-Hazard"></a>
 A Driver can create a road hazard on the map to warn other Drivers of the hazards on their routes, by following the steps below:
   - On the map, press the road hazard plus icon
   - The system will display the following 'New road hazard' prompt
@@ -136,7 +154,7 @@ A Driver can create a road hazard on the map to warn other Drivers of the hazard
 ![Screenshot 2021-03-02 154417](https://user-images.githubusercontent.com/79857237/109712638-46d64a80-7b6e-11eb-99c8-de3918cd153e.png)
 ![Screenshot 2021-03-02 154441](https://user-images.githubusercontent.com/79857237/109712647-48a00e00-7b6e-11eb-8b88-f76186aa2895.png)
 
-##    Deleting Road Hazard
+## Deleting Road Hazard <a name="-Deleting-Road-Hazard"></a>
 A Driver can delete an existing road hazard from the map if it doesn't exist anymore: 
   - Press on an existing road hazard on the map
   - The system will display the following 'Road hazard info' prompt
