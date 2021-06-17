@@ -8,13 +8,14 @@ email: contact@eastbanctech.com
 
 
 
-## Table of Content
-
-- [User Management](#-User-Management)
-  * [Filters](#-Filters)
-  * [Upload Users](#-Upload-Users)
-  * [Editing User Information](#-Editing-User-Information)
-  * [Deactivating and Reactivating Users](#-Deactivating-and-Reactivating-Users)
+<details markdown="block">
+  <summary>
+    <b>Table of contents</b>
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 # User Management <a name="-User-Management"></a>
 

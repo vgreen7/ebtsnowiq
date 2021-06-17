@@ -4,6 +4,7 @@ title: SNOWiQ
 author: Eastbanc Technologies
 name: Eastbanc Technologies
 email: contact@eastbanctech.com
+nav_order: 1
 ---
 
 # **Welcome to SNOWiQ APP**

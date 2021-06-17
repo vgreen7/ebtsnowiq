@@ -8,11 +8,14 @@ email: contact@eastbanctech.com
 
 
 
-## Table of Content
-
-- [Route Plans](#-Route-Plans)
-  * [Uploading Route Plans](#-Uploading-Route-Plans)
-  * [Viewing Archived Routes](#-Viewing-Archived-Routes)
+<details markdown="block">
+  <summary>
+    <b>Table of contents</b>
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 ## Route Plans <a name="-Route-Plans"></a>
 

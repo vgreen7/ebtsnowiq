@@ -8,30 +8,14 @@ email: contact@eastbanctech.com
 
 
 
-## Table of Content
-
-
-- [Driver App](#-Driver-App)
-- [Login](#-Login)
-- [Navigation](#-Navigation)
-- [Navigation-Drawer](#-Navigation-Drawer)
-   * [User-Profile-details](#-User-Profile-details)
-   * [Supervisor-details](#-Supervisor-details)
-   * [Operations-menu](#-Operations-menu)
-   * [Assignments](#-Assignments)
-   * [Profile](#-Profile)
-   * [Salt-Management](#-Salt-Management)
-   * [About](#-About)
-   * [Logout](#-Logout)
-- [DA-Driver's-Activity](#-DA-Driver's-Activity)
-   * [Assignments](#-Assignments)
-   * [Accepting-and-Working-Assignments](#-Accepting-and-Working-Assignment)
-   * [Completing-Assignment](#-Completing-Assignment)
-   * [Completing-Multi-Pass-Assignment](#-Completing-Multi-Pass-Assignment)
-   * [Paused/Resumed-Assignment](#-Paused/Resumed-Assignment)
-- [Road-Hazards](#-Road-Hazards)
-   * [Creating-Road-Hazard](#-Creating-Road-Hazard)
-   * [Deleting-Road-Hazard](#-Deleting-Road-Hazard)
+<details markdown="block">
+  <summary>
+    <b>Table of contents</b>
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
    
 # Driver App <a name="-Driver-App"></a>
 **Both the Android and iOS applications have the same functionality.** <!-- and the screenshots below are a combination of both.**-->

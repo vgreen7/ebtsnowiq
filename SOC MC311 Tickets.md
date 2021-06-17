@@ -8,30 +8,26 @@ email: contact@eastbanctech.com
 
 
 
-## Table of Content
+<details markdown="block">
+  <summary>
+    <b>Table of contents</b>
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
-- [M311 Ticket Request Management](#-M311-Ticket-Request-Management)
-  * [Tickets List View](#-Tickets-List-View)
-    + [Ticket Type](#-Ticket-Type)
-    + [Ticket Status](#-Ticket-Status)
-    + [Ticket Import Validation Rules](#-Ticket-Import-Validation-Rules)
-  * [Tickets Map View](#-Tickets-Map-View)
-    + [Clusters](#-Clusters)
-  * [Sending Ticket Requests](#-Sending-Ticket-Requests)
-  * [Closing Tickets](#-Closing-Tickets)
-  * [Creating Emergency Ticket Requests](#-Creating-Emergency-Ticket-Requests)
+## M311 Ticket Request Management <a name="-Ticket-Request-Management"></a>
 
-  ## M311 Ticket Request Management <a name="-Ticket-Request-Management"></a>
+The MC311 system is used by Montgomery County, MD to process ticket requests that come in during the snow storm. The SNOWiQ's MC311 Tickets page allows Admin users to send  the ticket requests imported from MC311 to Supervisors who will in turn assign them to Drivers during an event. Additionally, users are able to create emergency request tickets for specific addresses.
 
- The MC311 system is used by Montgomery County, MD to process ticket requests that come in during the snow storm. The SNOWiQ's MC311 Tickets page allows Admin users to send  the ticket requests imported from MC311 to Supervisors who will in turn assign them to Drivers during an event. Additionally, users are able to create emergency request tickets for specific addresses.
+There are two ways to view the tickets: the List view and the Map View, as shown below:
 
- There are two ways to view the tickets: the List view and the Map View, as shown below:
+## Ticket List View <a name="-Ticket-List-View"></a>
 
- ## Ticket List View <a name="-Ticket-List-View"></a>
+This view is a standard table that allows users to close (blue 'Close' button) or assign (blue 'Send' button) tickets to Supervisors. Additionally, there are multiple filters available to narrow down the list displayed: Service Request (SR) ID, Route Name/Number, Depot, Supervisors the ticket is assigned to, Status Indicator, and Type of Ticket. A user can also filter the tickets by the time they were opened and/or closed.  
 
-  This view is a standard table that allows users to close (blue 'Close' button) or assign (blue 'Send' button) tickets to Supervisors. Additionally, there are multiple filters available to narrow down the list displayed: Service Request (SR) ID, Route Name/Number, Depot, Supervisors the ticket is assigned to, Status Indicator, and Type of Ticket. A user can also filter the tickets by the time they were opened and/or closed.  
-
- ![Screenshot 2021-03-05 100248](https://user-images.githubusercontent.com/79857237/110134030-f98af080-7d9a-11eb-9414-189512fa59c1.png)
+![Screenshot 2021-03-05 100248](https://user-images.githubusercontent.com/79857237/110134030-f98af080-7d9a-11eb-9414-189512fa59c1.png)
 
 ### Ticket Type <a name="-Ticket-Type"></a>
 
@@ -42,9 +38,9 @@ Ticket Type filter allows users to view the two different types of tickets.
 
 A checkmark on either type of ticket indicates that the ticket is closed and has a Closed date and who closed the ticket. 
 
- ![Screenshot 2021-03-05 100309](https://user-images.githubusercontent.com/79857237/110134039-fb54b400-7d9a-11eb-99b9-1d6ccc8fcb6f.png)
+![Screenshot 2021-03-05 100309](https://user-images.githubusercontent.com/79857237/110134039-fb54b400-7d9a-11eb-99b9-1d6ccc8fcb6f.png)
 
- ### Ticket Status <a name="-Ticket-Status"></a>
+### Ticket Status <a name="-Ticket-Status"></a>
 
 Ticket Status filter allows users to view any ticket set to a specific status. 
 
