@@ -7,21 +7,16 @@ email: contact@eastbanctech.com
 ---
 
 
+<details markdown="block">
+  <summary>
+    <b>Table of contents</b>
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
-## Table of Content
-
-
-- [Map-Monitoring-View](#-Map-Monitoring-View)
-  * [Filters](#-Filters)
-    * [Route-Status](#-Route-Status)
-    * [Priority](#-Priority)
-    * [Depot](#-Depot)
-  * [Routes-Tab](#-Routes-Tab)
-  * [Drivers-Tab](#-Drivers-Tab)
-  * [Markers](#-Markers)
-  * [Clusters](#-Clusters)
-
- ## Map Monitoring View <a name="-Map-Monitoring-View"></a>
+## Map Monitoring View <a name="-Map-Monitoring-View"></a>
 
 The Map Monitoring view is the first page that users see when logging in, which can also be accessed from the navigation menu on the left under 'Active Storm Ops' option. This page is used to view near-real time visual updates during a storm event. The Map Monitoring view consists of the following elements:
 
@@ -32,11 +27,11 @@ The Map Monitoring view is the first page that users see when logging in, which 
 
   ![Screenshot 2021-03-04 130851](https://user-images.githubusercontent.com/79857237/110009697-5c24b380-7ceb-11eb-9e08-bf29fbbbb6e4.png)  
 
-  ## Filters <a name="-Filters"></a>
+## Filters <a name="-Filters"></a>
 
-  Using the filters at the top of the Map Monitoring view allows users to narrow down what is seen on the map. Setting a filter can add or remove map elements such as route outlines, routes of different priorities, and routes/drivers that belong to a specific depot. Below are the filters and their options:
+Using the filters at the top of the Map Monitoring view allows users to narrow down what is seen on the map. Setting a filter can add or remove map elements such as route outlines, routes of different priorities, and routes/drivers that belong to a specific depot. Below are the filters and their options:
 
-  ### Route Status <a name="-Route-Status"></a>
+### Route Status <a name="-Route-Status"></a>
 
 The Route Status filter allows users to view any routes set to a specific status during an assignment.
 
@@ -59,7 +54,7 @@ Route segments (map layer). Routes are represented by different type of route se
 
 ![Screenshot 2021-03-04 130935](https://user-images.githubusercontent.com/79857237/110009706-6050d100-7ceb-11eb-8ab8-430500fb1003.png)
 
-  ### Depot <a name="-Depot"></a>
+### Depot <a name="-Depot"></a>
 
 The Depot filter allows users to select a depot within the county which narrows down what drivers and routes are displayed on the map and on the tabs to the left of the map.
 

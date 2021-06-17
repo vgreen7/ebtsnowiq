@@ -8,32 +8,32 @@ email: contact@eastbanctech.com
 
 
 
-## Table of Content
+<details markdown="block">
+  <summary>
+    <b>Table of contents</b>
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
-- [Routes Tab](#-Routes-Tab)
-  * [Route Filters](#-Route-Filters)
-    + [Depot](#-Depot)
-    + [Route Type (Priority)](#-Route-Type-(Priority))
-    + [Route Status](#-Route-Status)
-  * [Route Details](#-Route-Details)
+## Routes Tab <a name="-Routes-Tab"></a>
 
-  ## Routes Tab <a name="-Routes-Tab"></a>
+A panel on the left has three tabs: Routes, Drivers, and Tickets. The app opens to Routes, as seen below.
 
- A panel on the left has three tabs: Routes, Drivers, and Tickets. The app opens to Routes, as seen below.
+The Route panel displays a list of routes with their corresponding route name/number, percentage of completion if there is an active assignment, the total number of miles on the route, and status indicator (color coded on the map). Above the list there is a set of filters: by Depot, Route Type, and Route Status.  
 
- The Route panel displays a list of routes with their corresponding route name/number, percentage of completion if there is an active assignment, the total number of miles on the route, and status indicator (color coded on the map). Above the list there is a set of filters: by Depot, Route Type, and Route Status.  
+![Screenshot 2021-03-05 125933](https://user-images.githubusercontent.com/79857237/110154855-c3f20180-7db2-11eb-8ac6-520e060ad1eb.png)
 
- ![Screenshot 2021-03-05 125933](https://user-images.githubusercontent.com/79857237/110154855-c3f20180-7db2-11eb-8ac6-520e060ad1eb.png)
+## Route Filters <a name="-Route-Filters"></a>
 
- ## Route Filters <a name="-Route-Filters"></a>
+Using the filters above the route list allows users to narrow down what is seen on the map. Setting a filter can add or remove map elements such as route outlines, routes of different types (priorities), or routes with different statuses. The filters and their options are listed below:
 
- Using the filters above the route list allows users to narrow down what is seen on the map. Setting a filter can add or remove map elements such as route outlines, routes of different types (priorities), or routes with different statuses. The filters and their options are listed below:
+### Depot <a name="-Depot"></a>
 
- ### Depot <a name="-Depot"></a>
+The depot filter defaults to the depot the Supervisor is assigned to and only the routes associated with that depot will be displayed. 
 
- The depot filter defaults to the depot the Supervisor is assigned to and only the routes associated with that depot will be displayed. 
-
- ### Route Type (Priority) <a name="-Route-Type-(Priority)"></a>
+### Route Type (Priority) <a name="-Route-Type-(Priority)"></a>
 
 The Route Type filter allows users to filter out route outlines that belong to specific route priorities (not to be confused with route segment type). Route is a combination of route segments with one or more segment type (emergency, primary or neighborhood).
 
