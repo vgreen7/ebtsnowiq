@@ -17,7 +17,7 @@ email: contact@eastbanctech.com
 {:toc}
 </details>
    
-# Driver App <a name="-Driver-App"></a>
+## Driver App <a name="-Driver-App"></a>
 **Both the Android and iOS applications have the same functionality.** <!-- and the screenshots below are a combination of both.**-->
 
 ## Login <a name="-Login"></a>
