@@ -17,7 +17,7 @@ email: contact@eastbanctech.com
 {:toc}
 </details>
 
-# User Management <a name="-User-Management"></a>
+## User Management <a name="-User-Management"></a>
 
 The User Management view allows the Admin user to view all the users currently uploaded into the system as well as upload Excel files with new users, edit individual users, Deactivate/ Reactivate users in the system.
 

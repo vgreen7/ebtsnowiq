@@ -18,7 +18,7 @@ email: contact@eastbanctech.com
 </details>
 
 
-# Login <a name="Login"></a>
+## Login <a name="Login"></a>
 
 The login screen below allows Supervisor users to enter into
 the SnowIQ Supervisor Application. Click the 'Login' button
@@ -33,7 +33,7 @@ with that depot.
 
 ![Screenshot 2021-03-03 130131](https://user-images.githubusercontent.com/79857237/109851081-4054db00-7c21-11eb-9d67-0db47f67ce83.png)
 
-# Navigation <a name="-Navigation"></a>
+## Navigation <a name="-Navigation"></a>
  
 The diagram below highlights basic navigation controls and map elements of the Supervisor App 
 
