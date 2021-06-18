@@ -20,6 +20,8 @@ aux_links:
 aux_links_new_tab: true
 
 search_enabled: true
-search.previews: 0
-search.rel_url: false
-search.button: true
+search:
+  previews: 0
+  # Display the relative url in search results
+  # Supports true (default) or false
+  rel_url: false
