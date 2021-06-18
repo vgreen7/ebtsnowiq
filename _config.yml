@@ -9,7 +9,7 @@ webpage: https://eastbanctech.com/
 # Build settings
 remote_theme: pmarsceill/just-the-docs
 
-color_scheme: foo.scss
+color_scheme: foo
 
 # Aux links for the upper right navigation
 aux_links:
