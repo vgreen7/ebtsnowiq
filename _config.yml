@@ -26,4 +26,4 @@ search:
   # Supports true (default) or false
   rel_url: false
 
-logo: "/image/favicon/favicon-32x32.png"
+logo: "https://danhealey.github.io/ebtsnowiq/image/favicon/favicon-32x32.png"
