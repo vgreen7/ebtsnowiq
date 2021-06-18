@@ -4,9 +4,17 @@ author:
 name: Eastbanc Technologies
 description: "SnowiQ app user manual on GH-Pages contact@eastbanctech.com"
 email: contact@eastbanctech.com
+webpage: https://eastbanctech.com/
 
 # Build settings
 remote_theme: pmarsceill/just-the-docs
 
+color_scheme: foo
 
+# Aux links for the upper right navigation
+aux_links:
+  "EastBanc Technologies":
+    - "https://eastbanctech.com/"
 
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
