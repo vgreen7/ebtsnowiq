@@ -20,7 +20,6 @@ aux_links:
 aux_links_new_tab: true
 
 search_enabled: true
-search.previews: "0"
-search.preview_words_before: "1"
-search.rel_url: "false"
-search.button: "true"
+search.previews: 0
+search.rel_url: false
+search.button: true
