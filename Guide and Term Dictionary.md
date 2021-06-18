@@ -21,11 +21,9 @@ nav_order: 2
 
 ## What is SNOWiQ? <a name="-What-is-SNOWiQ?"></a>
     
-SNOWiQ is a snowplow fleet management and reporting tool for municipalities, snow plow operators, and the public.Based on our TERRAiQ platform, SNOWiQ uses a combination of smartphone-based GPS and cloud technology, delivering a 360-degree view of individual contractor vehicles and your overall snow removal fleet, without costly hardware investments.  Your team and drivers simply log into the SNOWiQ app from the smartphones and devices they already own.   
-SNOWiQ is a Software as a Service (SaaS) solution that combines your internal reporting needs with the convenience of a public dashboard—two mobile applications and a citizen web portal that satisfies all your vehicle tracking, business intelligence, and communication needs. 
-SNOWiQ is designed to meet the unique needs of fleet supervisors, snowplow operators, and the public they serve.
+SNOWiQ is a snowplow fleet management and reporting tool for municipalities, snow plow operators, and the public. Based on our TERRAiQ platform, SNOWiQ uses a combination of smartphone-based GPS and cloud technology, delivering a 360-degree view of individual contractor vehicles and your overall snow removal fleet, without costly hardware investments.  Your team and drivers simply log into the SNOWiQ app from the smartphones and devices they already own. SNOWiQ is a Software as a Service (SaaS) solution that combines your internal reporting needs with the convenience of a public dashboard—two mobile applications and a citizen web portal that satisfies all your vehicle tracking, business intelligence, and communication needs. SNOWiQ is designed to meet the unique needs of fleet supervisors, snowplow operators, and the public they serve.
 
-**For Storm Opeations Managers/Supervisors** - SNOWiQ’s easy-to-use application lets you visualize your contractor fleet in real-time, from city-wide fleet activity, down to individual neighborhoods. Prioritize fleet movements, dynamically assign, re-route, redeploy, or add drivers, from within the app. You can also enforce quality control, improve performance, time management, and customer service. 
+**For Storm Operations Managers/Supervisors** - SNOWiQ’s easy-to-use application lets you visualize your contractor fleet in real-time, from city-wide fleet activity, down to individual neighborhoods. Prioritize fleet movements, dynamically assign, re-route, redeploy, or add drivers, from within the app. You can also enforce quality control, improve performance, time management, and customer service. 
 
 **For Snowplow Operators** - Municipal and contractor drivers can use smartphones they already own to advertise their availability, receive notifications when routes are assigned to them, seamlessly switch to Google maps for directions, and confirm when routes are completed.  
 
@@ -34,7 +32,7 @@ SNOWiQ is designed to meet the unique needs of fleet supervisors, snowplow opera
 
 ## Application Summaries <a name= "Application-Summaries"></a>
 ## Storm Operations Center (SOC) <a name="-Storm-Operations-Center-(SOC)"></a> 
-**Audience: Strom Operations Managers and Supervisors**
+**Audience: Storm Operations Managers and Supervisors**
 
 This application is primarily used for planning purposes by the SOC Manager to plan and create storm events, review and send 311 tickets to their respective depots, and view the current progress of all actions currently involved in the county. This application is Web-based but can be accessed on mobile devices (iPads, tablets, etc.), if needed. Old documentation refers to this web applications as Admin Portal.
 
@@ -74,7 +72,7 @@ Drivers are responsible for assignments sent to them by Storm Operations Manager
 
 ## Resident <a name="-Resident"></a>
 
-Residents have the ability to log into the SNOWiQ Resident Portal to view statistics of the current storm event for the entire county, a specific service area (depot), or a route that their address us associated with. This allows users to get a better understanding of what actions are currently underway in reference to the current situation.
+Residents have the ability to log into the SNOWiQ Resident Portal to view statistics of the current storm event for the entire county, a specific service area (depot), or a route that their address is associated with. This allows users to get a better understanding of what actions are currently underway in reference to the current situation.
 
 
 ## SNOWiQ Vocabulary <a name="-SNOWiQ-Vocabulary"></a>
@@ -126,7 +124,7 @@ A numbered geo-located path line within a depot that was previously uploaded int
     * Assigned - When there is at least one accepted assignment for the route.
     * Started - When there is at least one started assignment for the route.
     * Complete Pending - When there is at least one completed pass on a multi-pass assignment and it's awaiting action from Supervisor.
-* Completed - The route has had its assignment(S) completed by assigned driver(s) or the inspector/supervisor manually set the route to 'completed'.
+* Completed - The route has had its assignment(s) completed by assigned driver(s) or the inspector/supervisor manually set the route to 'completed'.
 * Inspected - The route has had its assignment verified and finilized by an inspector.
 
 
