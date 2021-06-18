@@ -4,6 +4,7 @@ title: Guide and Term Dictionary
 author: Eastbanc Technologies
 name: Eastbanc Technologies
 email: contact@eastbanctech.com
+nav_order: 2
 ---
 
 
@@ -32,8 +33,8 @@ SNOWiQ is designed to meet the unique needs of fleet supervisors, snowplow opera
 
 
 ## Application Summaries <a name= "Application-Summaries"></a>
- ## Storm Operations Center (SOC) <a name="-Storm-Operations-Center-(SOC)"></a> 
- **Audience: Strom Operations Managers and Supervisors**
+## Storm Operations Center (SOC) <a name="-Storm-Operations-Center-(SOC)"></a> 
+**Audience: Strom Operations Managers and Supervisors**
 
 This application is primarily used for planning purposes by the SOC Manager to plan and create storm events, review and send 311 tickets to their respective depots, and view the current progress of all actions currently involved in the county. This application is Web-based but can be accessed on mobile devices (iPads, tablets, etc.), if needed. Old documentation refers to this web applications as Admin Portal.
 
