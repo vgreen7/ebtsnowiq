@@ -1,3 +1,4 @@
+
 ---
 layout: page
 title: SOC Event Management
@@ -72,18 +73,18 @@ Phases are used during a storm Event to define specific Activities that allow pr
 
   ![Screenshot 2021-03-05 080651](https://user-images.githubusercontent.com/79857237/110120244-cb051980-7d8a-11eb-9ec7-2a8932935a2c.png) 
 
-    * Plan: the dropdown currently includes two static plans with no ability to create others. A plan specifies to the system the types of roads to highlight on the route map and provides the ability to create assignments on the routes.
+ **Plan:** The dropdown currently includes two static plans with no ability to create others. A plan specifies to the system the types of roads to highlight on the route map and provides the ability to create assignments on the routes.
 
-      * Plan I - Salting
-        * Step 1: Emergency+Primary
-        * Step 2: Secondary
-      * Plan II - Plowing
-        * Step 1: Emergency
-        * Step 2: Primary+Secondary 
+* Plan I - Salting
+  * Step 1: Emergency+Primary
+  * Step 2: Secondary
+* Plan II - Plowing
+   * Step 1: Emergency
+    * Step 2: Primary+Secondary 
 
-    * Start Date and Completion Date: Phases cannot overlap, so select the date and time of the new phase so it doesn't overlap with an already existing Phase (in this case, it would be the Monitoring Phase, but there can be more than just one existing Phase). Completion Date is an estimate in the system.
+**Start Date and Completion Date:** Phases cannot overlap, so select the date and time of the new phase so it doesn't overlap with an already existing Phase (in this case, it would be the Monitoring Phase, but there can be more than just one existing Phase). Completion Date is an estimate in the system.
 
-    ![Screenshot 2021-03-05 080720](https://user-images.githubusercontent.com/79857237/110120273-d35d5480-7d8a-11eb-9175-f397b76399fd.png)
+   ![Screenshot 2021-03-05 080720](https://user-images.githubusercontent.com/79857237/110120273-d35d5480-7d8a-11eb-9175-f397b76399fd.png)
 
   * On the next prompt 'Edit Driver Assignments,' click 'Add' to assign a specific Route to Drivers attached to the Depot. Routes are pre-populated based on the selected Depot from the previous step. Select multiple Drivers where appropriate.
     * If a Route Assignment may require several passes of the same activity, then check the 'Multi-Pass' box. Routes can be filtered by Emergency or Residential.
@@ -150,6 +151,3 @@ The Event Log buttonm as shown below, allows users to view all actions taken dur
 The Reports button, as shown below, provides a visual representation of statistical data in a dashboard format for the selected Event. More details can be found on **SOC - Active Storm Log/Report**
 
 ![Screenshot 2021-03-05 081310](https://user-images.githubusercontent.com/79857237/110120351-eff98c80-7d8a-11eb-9b88-dddc173993cd.png)
-
-
-
