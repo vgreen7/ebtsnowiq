@@ -13,7 +13,7 @@
     background-color: $sidebar-color;
   
     @include mq(md) {
-      flex-wrap: nowrap;
+      //flex-wrap: nowrap;
       position: fixed;
       width: $nav-width-md;
       height: 100%;
@@ -27,5 +27,4 @@
       min-width: $nav-width;
     }
 }
-  
-  
+
