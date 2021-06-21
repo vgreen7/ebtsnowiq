@@ -8,11 +8,12 @@ parent: SNOWiQ Overview
 nav_order: 1
 ---
 
-
+# Guide and Term Dictionary
+{: .no_toc }
 
 <details open markdown="block">
   <summary>
-    <b>Table of contents</b>
+    <h2>Table of contents</h2>
   </summary>
   {: .text-delta }
 - TOC
