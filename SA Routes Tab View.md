@@ -37,9 +37,9 @@ The depot filter defaults to the depot the Supervisor is assigned to and only th
 
 The Route Type filter allows users to filter out route outlines that belong to specific route priorities (not to be confused with route segment type). Route is a combination of route segments with one or more segment type (emergency, primary or neighborhood).
 
-**Emergency:** These routes have priority over Residential routes - when selected in an assignment these routes are to be worked first. Depending on the active route plan settings, emergency route could be represented by either just emergency (red) road segments or  combination of emergency (red) road segments and primary (blue) road segments.
+**Emergency:** These routes have priority over Residential routes - when selected in an assignment these routes are to be worked first. Depending on the active route plan settings, emergency routes could be represented by either just emergency (red) road segments or a combination of emergency (red) road segments and primary (blue) road segments.
 
-**Residential:** These routes have lower priority and are to be worked after Emergency routes are completed. Depending on the active route plan settings, residential route could be represented by either just neighborhood (orange) road segments or combination of neighborhood (orange) road segments and primary (blue) road segments.
+**Residential:** These routes have lower priority and are to be worked on after Emergency routes are completed. Depending on the active route plan settings, residential route could be represented by either just neighborhood (orange) road segments or combination of neighborhood (orange) road segments and primary (blue) road segments.
 
 ### Route Status <a name="-Route-Status"></a>
 
@@ -52,6 +52,6 @@ The Route Status filter allows users to view any routes set to a specific status
 
 ## Route Details <a name="-Route-Details"></a>
 
-Selecting a route label from the list focuses on that single route on the map, as shown below and brings up the 'Route Details' panel on the left. The panel includes percentage of completion for a route if it's being worked on, progress bar of completion, the driver(s) assigned to the route, the driver's contact information, and the status of the route along with a timestamp of that status. On this 'Route Details' panel, the user is also able to 'Assign new drivers' to this route and review the near-real time progress of the driver by looking at the breadcrumbs on the route. Breadcrumbs appear as the driver completes the route as seen below. 
+Selecting a route label from the list focuses on that single route on the map, as shown below, and brings up the 'Route Details' panel on the left. The panel includes percentage of completion for a route if it's being worked on, progress bar of completion, the driver(s) assigned to the route, the driver's contact information, and the status of the route along with a timestamp of that status. On this 'Route Details' panel, the user is also able to 'Assign new drivers' to this route and review the near-real time progress of the driver by looking at the breadcrumbs on the route. Breadcrumbs appear as the driver completes the route as shown below. 
 
 ![Screenshot 2021-03-05 130014](https://user-images.githubusercontent.com/79857237/110154859-c5bbc500-7db2-11eb-8069-dfff2db1ed25.png)
