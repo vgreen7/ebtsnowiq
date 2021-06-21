@@ -1,8 +1,8 @@
 ---
 layout: page
 title: SA Supervisor Activities
-author: Eastbanc Technologies
-name: Eastbanc Technologies
+author: EastBanc Technologies
+name: EastBanc Technologies
 email: contact@eastbanctech.com
 ---
 
