@@ -9,6 +9,7 @@ nav_order: 1
 ---
 
 # Login and Navigation
+{: .no_toc }
 
 <details open markdown="block">
   <summary>
