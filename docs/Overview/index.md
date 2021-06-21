@@ -1,10 +1,11 @@
 ---
 layout: home
-title: SNOWiQ 
+title: SNOWiQ Overview
 author: Eastbanc Technologies
 name: Eastbanc Technologies
 email: contact@eastbanctech.com
 nav_order: 1
+has_children: true
 ---
 
 # **Welcome to SNOWiQ APP**
