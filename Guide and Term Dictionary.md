@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Guide and Term Dictionary
-author: Eastbanc Technologies
-name: Eastbanc Technologies
+author: EastBanc Technologies
+name: EastBanc Technologies
 email: contact@eastbanctech.com
 nav_order: 2
 ---

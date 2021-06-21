@@ -1,8 +1,8 @@
 ---
 layout: page
 title: SOC Login and Navigation
-author: Eastbanc Technologies
-name: Eastbanc Technologies
+author: EastBanc Technologies
+name: EastBanc Technologies
 email: contact@eastbanctech.com
 ---
 
@@ -31,7 +31,7 @@ Once logged into the SOC, all users will see the Map Monitoring view as seen bel
 
 ## Navigation <a name="-Navigation"></a>
 
-Users can find the navigation menu to access the other pages in the portal by clicking the 'Menu' button (3 stacked lines) at the top left of the application. The options below are available in the left bar navigation menu:
+Users can find the navigation menu to access the other pages in the portal by clicking the 'Menu' button (3 stacked lines) at the top left of the application. The options below are available in the left navigation menu bar:
 
 ![Screenshot 2021-03-04 105800](https://user-images.githubusercontent.com/79857237/109992199-08a96a00-7cd9-11eb-84a2-26f648d4c786.png)
 

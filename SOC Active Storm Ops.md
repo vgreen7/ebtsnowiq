@@ -1,8 +1,8 @@
 ---
 layout: page
 title: SOC Active Storm Ops
-author: Eastbanc Technologies
-name: Eastbanc Technologies
+author: EastBanc Technologies
+name: EastBanc Technologies
 email: contact@eastbanctech.com
 ---
 
@@ -21,8 +21,8 @@ email: contact@eastbanctech.com
 The Map Monitoring view is the first page that users see when logging in, which can also be accessed from the navigation menu on the left under 'Active Storm Ops' option. This page is used to view near-real time visual updates during a storm event. The Map Monitoring view consists of the following elements:
 
   * A map based on the service area that is covered, with the borders and boundaries of a county (or other entity such as district, city, state, etc.), along with borders of depots within that entity
-  * A visual on the map of markers that represent drivers, routes, road hazards, tickets, and clusters when the map is zoomed out
-  * A panel to the left of the map with two tabs of Routes and their current status and Drivers and their status
+  * A visual of markers on the map that represent drivers, routes, road hazards, tickets, and clusters when the map is zoomed out
+  * A panel to the left of the map with two tabs for Routes and their current status and Drivers and their status
   * A set of filters above the map that allow to narrow or expand what is displayed on the map
 
   ![Screenshot 2021-03-04 130851](https://user-images.githubusercontent.com/79857237/110009697-5c24b380-7ceb-11eb-9e08-bf29fbbbb6e4.png)  
@@ -46,7 +46,7 @@ The Route Status filter allows users to view any routes set to a specific status
 
 The Priority filter allows users to view only specific route details and segments based on their priority. The route segments are displayed as color coded lines on the map.
 
-Emergency (Red) – These routes have priority over Residential routes. When selected in an assignment must be worked on first. 
+Emergency (Red) – These routes have priority over Residential routes. When selected in an assignment, it must be worked on first. 
 
 Residential (Orange - neighborhood and Blue - primary) – These routes are for all route boundaries not included in the emergency selection.
 
@@ -62,13 +62,13 @@ The Depot filter allows users to select a depot within the county which narrows 
 
 ## Routes Tab <a name="-Routes-Tab"></a>
 
-The Routes tab located to the left of the map, as seen below, displays a list of routes with their corresponding route name/number and a status indicator (color coded – see markers), the total number of miles on the route, and the percentage of completion if there is an active assignment. Applying Filters above the map will filters the routes on this tab as well. Clicking on any of the route labels within the tab focuses on that single route on the map.
+The Routes tab located to the left of the map, as seen below, displays a list of routes with their corresponding route name/number and a status indicator (color coded – see markers), the total number of miles on the route, and the percentage of completion if there is an active assignment. Applying Filters above the map will filter the routes on this tab as well. Clicking on any of the route labels within the tab focuses on that single route on the map.
 
 ![Screenshot 2021-03-04 131025](https://user-images.githubusercontent.com/79857237/110009718-647cee80-7ceb-11eb-934e-506f98f1c3f0.png)
 
 ## Drivers Tab <a name="-Drivers-Tab"></a>
 
-The Driver tab to the right of the Routes tab, as seen below, displays a list of Drivers with their names and statuses (color coded – see markers and Status Descriptions). When selecting a Driver from a list, their details will be shown above their icon located on the map as seen below. It provides additional details like the Driver's photo, Supervisor name, and the last time the Driver was seen using the Driver App (DA). 
+The Drivers tab to the right of the Routes tab, as seen below, displays a list of Drivers with their names and statuses (color coded – see markers and Status Descriptions). When selecting a Driver from the list, their details will be shown above their icon located on the map as seen below. It provides additional details like the Driver's photo, Supervisor name, and the last time the Driver was seen using the Driver App (DA). 
 
 ![Screenshot 2021-03-04 131047](https://user-images.githubusercontent.com/79857237/110009729-68107580-7ceb-11eb-9615-c1f38acd75fa.png)
 
@@ -82,5 +82,5 @@ Clicking on the Blue arrow to the right of the Driver name produces the Driver's
 
 ## Clusters <a name="-Clusters"></a>
 
-On the Map Monitoring view,  when a user zooms outs, markers with numbers inside them appear called 'clusters' that de-clutter the map and group together like markers. Clicking on a cluster allows to user to zoom in on that area and view the separated markers on the map. 
+On the Map Monitoring view,  when a user zooms outs, markers with numbers inside them appear called 'clusters' that de-clutter the map and group together like markers. Clicking on a cluster allows the user to zoom in on that area and view the separated markers on the map. 
 
