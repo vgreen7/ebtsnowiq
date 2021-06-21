@@ -8,7 +8,8 @@ parent: Supervisor App
 nav_order: 3
 ---
 
-
+# Routes Tab View
+{: .no_toc }
 
 <details open markdown="block">
   <summary>
