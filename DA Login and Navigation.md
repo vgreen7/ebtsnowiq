@@ -19,7 +19,7 @@ nav_order: 1
 
 # Login and Navigation
 ## Login <a name="-Login"></a>
-The login screen below allows Driver users to enter the SnowIQ Driver Application (DA). Click the appropriate 'Login' button to be re-routed to enter the assigned username and password for the application.
+The login screen below allows Driver users to enter the SNOWiQ Driver Application (DA). Click the appropriate 'Login' button to be re-routed to enter the assigned username and password for the application.
 
 ![Screenshot 2021-03-02 131014](https://user-images.githubusercontent.com/79857237/109695112-8cd4e380-7b59-11eb-8c83-716743ad6fdf.png)
 

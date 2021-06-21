@@ -6,6 +6,7 @@ name: EastBanc Technologies
 email: contact@eastbanctech.com
 parent: Supervisor App
 nav_order: 1
+
 ---
 
 
@@ -23,7 +24,7 @@ nav_order: 1
 ## Login <a name="Login"></a>
 
 The login screen below allows Supervisor users to enter into
-the SnowIQ Supervisor Application. Click the 'Login' button
+the SNOWiQ Supervisor Application. Click the 'Login' button
 to be re-routed to enter the assigned userame and password
 for the application.
 

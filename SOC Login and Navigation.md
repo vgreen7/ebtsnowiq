@@ -21,7 +21,7 @@ nav_order: 1
 
 ## Login <a name="-Login"></a>
 
-The login screen below allows users to enter into the SnowIQ Storm Operations Center (SOC) web portal. Click the appropriate 'Login' button to be re-routed to enter the assigned User Name and Password for the application.
+The login screen below allows users to enter into the SNOWiQ Storm Operations Center (SOC) web portal. Click the appropriate 'Login' button to be re-routed to enter the assigned User Name and Password for the application.
 
 ![Screenshot 2021-03-04 105714](https://user-images.githubusercontent.com/79857237/109992186-05ae7980-7cd9-11eb-913d-f1f08273fdf2.png)
 
@@ -51,7 +51,7 @@ The Active Storm Log page is an Event Log that allows Admin users to view all th
 
 ## Active Storm Report <a name="-Active-Storm-Report"></a>
 
-The Active Storm Report page allows Admin users to look at the details of the Event progress in the SnowIQ Statistics Dashboard. The main tab 'Storm Event' includes statistics such as miles plowed, active staff, snow fall, and salt usage. More granular reporting can be found in other tabs: Phase, Route, Driver, and Salt Usage.
+The Active Storm Report page allows Admin users to look at the details of the Event progress in the SNOWiQ Statistics Dashboard. The main tab 'Storm Event' includes statistics such as miles plowed, active staff, snow fall, and salt usage. More granular reporting can be found in other tabs: Phase, Route, Driver, and Salt Usage.
 
 ![Screenshot 2021-03-04 105910](https://user-images.githubusercontent.com/79857237/109992227-0e9f4b00-7cd9-11eb-92be-55ef8cfdd3a0.png)
 
