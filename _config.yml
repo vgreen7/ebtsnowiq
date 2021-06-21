@@ -1,8 +1,8 @@
 # Site settings
-title: SnowiQ App User Manual
+title: SNOWiQ App User Manual
 author: 
-name: Eastbanc Technologies
-description: "SnowiQ app user manual on GH-Pages contact@eastbanctech.com"
+name: EastBanc Technologies
+description: "SNOWiQ app user manual on GH-Pages contact@eastbanctech.com"
 email: contact@eastbanctech.com
 webpage: https://eastbanctech.com/
 
@@ -13,8 +13,8 @@ color_scheme: foo
 
 # Aux links for the upper right navigation
 aux_links:
-  "EastBanc Technologies":
-    - "https://eastbanctech.com/"
+  "SNOWiQ":
+    - "https://eastbanctech.com/products/snowiq/"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
@@ -25,3 +25,5 @@ search:
   # Display the relative url in search results
   # Supports true (default) or false
   rel_url: false
+
+#logo: "https://danhealey.github.io/ebtsnowiq/image/favicon/favicon-32x32.png"
