@@ -1,8 +1,8 @@
 ---
 layout: page
 title: DA Drivers App
-author: Eastbanc Technologies
-name: Eastbanc Technologies
+author: EastBanc Technologies
+name: EastBanc Technologies
 email: contact@eastbanctech.com
 ---
 
