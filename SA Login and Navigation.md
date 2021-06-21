@@ -22,7 +22,7 @@ email: contact@eastbanctech.com
 
 The login screen below allows Supervisor users to enter into
 the SnowIQ Supervisor Application. Click the 'Login' button
-to be re-routed to enter the assigned User Name and Password
+to be re-routed to enter the assigned userame and password
 for the application.
 
 ![Screenshot 2021-03-03 122503](https://user-images.githubusercontent.com/79857237/109845806-84dd7800-7c1b-11eb-9143-8bbf7c4624fc.png)
@@ -41,29 +41,29 @@ The diagram below highlights basic navigation controls and map elements of the S
 
  
 1. Gear Icon - Navigate to the Setting Menu
-1. Tabs - Switch between the different tabs Routes/Drivers/Tickets
-1. Weather widget - automatically updated based on location
-1. Filter options based on what tab is selected
-1. List of routes, drivers or tickets depending on which tab is selected (with applied filters)
-1. Map - based on the service are that is covered, with the borders and boundaries of a country (or other entity such as district, city, state, etc.), along with borders of depots within that entity
-1. Button "Find my location on the map"
-1. Route marker with route number and current status color coded (Map layers)
-1. MC3111 ticket or Emergency request marker (Map layers)
-1. Route segments (Map layers). Routes are represented by different type of route segments: 
+2. Tabs - Switch between the different tabs Routes/Drivers/Tickets
+3. Weather widget - automatically updated based on location
+4. Filter options based on what tab is selected
+5. List of routes, drivers or tickets depending on which tab is selected (with applied filters)
+6. Map - based on the service area that is covered, with the borders and boundaries of a country (or other entity such as district, city, state, etc.), along with borders of depots within that entity
+7. "Find my location on the map" button
+8. Route marker with route number and current status color coded (Map layers)
+9. MC3111 ticket or Emergency request marker (Map layers)
+10. Route segments (Map layers). Routes are represented by different type of route segments: 
   - Emergency - Red
   - Primary - Blue
   - Neighborhood - Orange
-1. Road hazard boundry (Map layers)
-1. Road hazard marker
-1. Cluster of multiple markers
-1. Service area (Depot) boundary (Map layers)
-1. May layer button - displays a panel to select different map layers (Marker or Segements displayed on the map)
-1. Search bar - search address on the map to create address assignments
-1. Notification banner - displays active event estimates. Pressing on the banner opens up the Event Log
+11. Road hazard boundary (Map layers)
+12. Road hazard marker
+13. Cluster of multiple markers
+14. Service area (Depot) boundary (Map layers)
+15. Map layer button - displays a panel to select different map layers (Marker or Segements displayed on the map)
+16. Search bar - search address on the map to create address assignments
+17. Notification banner - displays active event estimates. Pressing on the banner opens up the Event Log
 
 ## Settings Menu <a name="-Setting-Menu"></a>
  
-Users can navigate to the Settings Menu by pressing the 'Gear' icon as specified in the diagram above. The menu opens to 'My Profile' page automatically. The following menu options are available:
+Users can navigate to the Settings Menu by pressing the 'Gear' icon as specified in the diagram above. The menu opens to the 'My Profile' page automatically. The following menu options are available:
 
 ![Screenshot 2021-03-03 130221](https://user-images.githubusercontent.com/79857237/109851092-43e86200-7c21-11eb-929d-708935a2c9b5.png)
 
@@ -77,13 +77,13 @@ Displays the current version of the app.
 
 ### Event Log <a name="-Event-Log"></a>
  
-The Event Log allows Supervisor users a closer look in the actions, the users and the timestamps of the actions for the current actice Event. As seen below, the log shows the time the action occurred in the system, what the action was, and who performed the action (user name or system). Actions may include creating an Assignment, activating a new Phase for a Depot.
+The Event Log allows Supervisor users a closer look at the actions, users and timestamps of the actions for the current actice Event. As seen below, the log shows the time the action occurred in the system, what the action was, and who performed the action (username or system). Actions may include creating an Assignment or activating a new Phase for a Depot.
 
 ![Screenshot 2021-03-03 130248](https://user-images.githubusercontent.com/79857237/109851103-477be900-7c21-11eb-875b-eb317f27273c.png)
 
 ## Map Layers <a name="-Map-Layers"></a>
  
-A user can access the Map Layers panel by pressing the Map Layers icon on the map (stack of layers icon as seen below). By selecting the elements from the panel, a user can specify which markers or segments to be displayed on the map, subjected to filters selected in the left-hand panel.
+A user can access the Map Layers panel by pressing the Map Layers icon on the map (stack of layers icon as shown below). By selecting the elements from the panel, a user can specify which markers or segments to be displayed on the map, subjected to filters selected in the left-hand panel.
 
 ![Screenshot 2021-03-03 130313](https://user-images.githubusercontent.com/79857237/109851111-4945ac80-7c21-11eb-82be-4de629453545.png)
 
