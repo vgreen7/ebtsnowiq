@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SOC Active Storm Ops
+title: Active Storm Ops
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com

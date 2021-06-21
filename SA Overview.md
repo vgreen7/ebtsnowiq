@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Supervisor Application
+title: Supervisor App
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com

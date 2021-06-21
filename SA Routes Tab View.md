@@ -1,10 +1,10 @@
 ---
 layout: page
-title: SA Routes Tab View
+title: Routes Tab View
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
-parent: Supervisor Application
+parent: Supervisor App
 nav_order: 3
 ---
 
