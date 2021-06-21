@@ -1,8 +1,8 @@
 ---
 layout: page
 title: SOC Active Storm Log/Report
-author: Eastbanc Technologies
-name: Eastbanc Technologies
+author: EastBanc Technologies
+name: EastBanc Technologies
 email: contact@eastbanctech.com
 ---
 
@@ -25,13 +25,13 @@ The Active Storm Log page is an Event Log that allows Admin users a closer look 
 
 ## Previous Event Log <a name="-Previous-Event-Log"></a>
 
-To view the Event Log for a previous Event, open the navigation menu and select Event Management option. After searching for the specific event, click 'Event Log' button as seen below, and the next page would display the Event Log for the specified Event in the same format as in the screenshot in the previous section above. 
+To view the Event Log for a previous Event, open the navigation menu and select the Event Management option. After searching for the specific event, click the 'Event Log' button as seen below, and the next page would display the Event Log for the specified Event in the same format as in the screenshot in the previous section above. 
 
 ![Screenshot 2021-03-04 144548](https://user-images.githubusercontent.com/79857237/110021439-b8420480-7cf8-11eb-8969-98448d54852d.png)
 
 ## Active Storm Report <a name="-Active-Storm-Report"></a>
 
-The Active Storm Report page allows Admin users to view Event Progress in the Statistics Dashboard, using widgets and graphs that are updated in near-real time. The default tab 'Storm Event' that opens is the overall county statistics for the Event with data such as when event activated and ended, predicted duration, active staff, miles plowed, total snowfall, and salt usage. More granular reporting can be found in other tabs: Phase, Route, Driver, and Salt Usage.
+The Active Storm Report page allows Admin users to view Event Progress in the Statistics Dashboard, using widgets and graphs that are updated in near-real time. The default tab 'Storm Event' that opens is the overall county statistics for the Event with data such as when the event activated and ended, predicted duration, active staff, miles plowed, total snowfall, and salt usage. More granular reporting can be found in other tabs: Phase, Route, Driver, and Salt Usage.
 
 ## Storm Event Tab <a name="-Storm-Event-Tab"></a>
 
@@ -63,6 +63,6 @@ This tab allows to filter Salt Usage statistics by Depot and Phase.
 
 ## Previous Event Reports <a name="-Previous-Event-Reports"></a>
 
-To view the Event Log for a previous Event, open the navigation menu and select Event Management option. After searching for the specific event, click 'Event Log' button as seen below, and the next page would display the Event Log for the specified Event in the same format as in the screenshot in the previous section above. 
+To view the Event Log for a previous Event, open the navigation menu and select the Event Management option. After searching for the specific event, click the 'Event Log' button as seen below, and the next page would display the Event Log for the specified Event in the same format as in the screenshot in the previous section above. 
 
 ![Screenshot 2021-03-04 144808](https://user-images.githubusercontent.com/79857237/110021477-c55ef380-7cf8-11eb-9f68-0fd54c2f2205.png)
