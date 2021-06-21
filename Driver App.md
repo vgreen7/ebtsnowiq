@@ -21,11 +21,11 @@ email: contact@eastbanctech.com
 **Both the Android and iOS applications have the same functionality.** <!-- and the screenshots below are a combination of both.**-->
 
 ## Login <a name="-Login"></a>
-The login screen below allows Driver users to enter the SnowIQ Driver Application (DA). Click the appropriate 'Login' button to be re-routed to enter the assigned User Name and Password for the application.
+The login screen below allows Driver users to enter the SnowIQ Driver Application (DA). Click the appropriate 'Login' button to be re-routed to enter the assigned username and password for the application.
 
 ![Screenshot 2021-03-02 131014](https://user-images.githubusercontent.com/79857237/109695112-8cd4e380-7b59-11eb-8c83-716743ad6fdf.png)
 
-Once logged into the DA, Drivers will see the screen below. The screens display two types of drivers logged in, a County Driver and a Contractor. The difference is identified in the status of the Driver. The County Driver, on the left, has a status of 'Ready' whereas the Contractor, on the right, is in 'Standby.' The circle next to the profile picture indicates that this a County Driver and a square is a Contractor. These icons are color coded to match the status.
+Once logged into the DA, Drivers will see the screen below. The screens display two types of Drivers logged in, a County Driver and a Contractor. The difference is identified in the status of the Driver. The County Driver, on the left, has a status of 'Ready' whereas the Contractor, on the right, is in 'Standby.' The circle next to the profile picture indicates that this a County Driver and a square is a Contractor. These icons are color coded to match the status.
 
 ![Screenshot 2021-03-03 100742](https://user-images.githubusercontent.com/79857237/109826057-6cb02d80-7c08-11eb-963d-7aa5d8c4175c.png)
 ![Screenshot 2021-03-03 100807](https://user-images.githubusercontent.com/79857237/109826066-6f128780-7c08-11eb-8104-982e42fc8283.png)
@@ -38,18 +38,22 @@ The diagram below highlights basic navigation controls and map elements of the D
 1. User Profile Picture, Name, and Status – pressing on the Profile picture opens the Navigation Drawer 
 2. Weather widget – automatically updated based on location
 3. Status bar  
-   3.1 If it is on active assignment, as seen in this diagram, the status bar includes the route number or address being worked, number of miles on the assignment, percentage completed, status of the assignment and progress bar
+   * If it is on active assignment, as seen in this diagram, the status bar includes the route number or address being worked, number of miles on the assignment, percentage completed, status of the assignment and progress bar
 
-   3.2 If it is in between assignments or no assignments, the system will display the appropriate notification to the user. 
+   * If it is in between assignments or no assignments, the system will display the appropriate notification to the user. 
 5. Map – based on the TBD
 6. "My current location on the map" pin
 7. Button to create Road Hazards
 8. Navigate button to get directions to the location from Google Maps
 9. Another Driver marker in near-real time with current status color coded 
-10. Route segments assigned to the Driver to work on. Routes are represented by different type of route segments: emergency - red, primary - blue, neighborhood - orange
-11. Breadcrumbs (green colored) appear in near-real time over the Route that the Driver has worked on already 
-12. Road hazard marker
-13. Button "Find my location on the map"
+10. Route segments assigned to the Driver to work on. Routes are represented by different type of route segments: 
+    * Emergency - red
+    * Primary - blue
+    * Neighborhood - orange
+  
+12. Breadcrumbs (green colored) appear in near-real time over the Route that the Driver has worked on already 
+13. Road hazard marker
+14. Button "Find my location on the map"
 
 ## Navigation Drawer <a name="-Navigation-Drawer"></a>
 Users can open the Navigation Drawer by pressing the User Profile picture icon as specified in the diagram above. The panel is divided into three sections:
@@ -94,8 +98,8 @@ When a Supervisor assigns a route, a ticket, or an address-specific assignment, 
 
 ![Screenshot 2021-03-02 142731](https://user-images.githubusercontent.com/79857237/109703426-759af380-7b63-11eb-9560-a2b63700389c.png)
 
-- Get directions to the location of the assignment by using the navigate button in the app (the blue arrow icon in the top right corner), which opens Google Maps to provide those   directions. 
-- Once the system starts tracking that the Driver is working on the assignment, i.e. the Driver's GPS location is on the assigned route or address, the system will change the       status of the Active Assignment to 'Started' in the status bar and begin displaying breadcrumbs to indicate the route that was worked on, as seen below. 
+- Get directions to the location of the assignment by using the navigate button in the app (the blue arrow icon in the top right corner), which opens Google Maps to provide directions. 
+- Once the system starts tracking that the Driver is working on the assignment, i.e. the Driver's GPS location is on the assigned route or address, the system will change the       status of the Active Assignment to 'Started' in the status bar and begin displaying breadcrumbs to indicate the route that was worked on, as shown below. 
 - Alternatively, the Driver can manually go to the Navigation drawer and press 'Start Assignment' as seen below. 
 
 ## Completing Assignment <a name="-Completing-Assignment"></a> 
@@ -108,7 +112,7 @@ This removes the assignment from the Status bar and also moves it from Active As
 ![Screenshot 2021-03-02 152604](https://user-images.githubusercontent.com/79857237/109710430-a7b05380-7b6b-11eb-8bae-3e85b576ac49.png)
 
 ## Completing Multi-Pass Assignment <a name="-Completing-Multi-Pass-Assignment"></a>
-If a Driver receives an Assignment with Multi-pass toggle on, it will be indicated in the notification and once the Driver completes a pass, they will press 'Complete Pass' in the Navigation drawer and will await further instructions from the supervisor as specified in the status bar as seen below. 
+If a Driver receives an Assignment with Multi-pass toggle on, it will be indicated in the notification. Once the Driver completes a pass, they will press 'Complete Pass' in the Navigation drawer and will await further instructions from the supervisor as specified in the status bar as seen below. 
   - If a Supervisor chooses another pass for this assignment, the Driver will receive the following notification to proceed work on the multi-pass assignment until completed         with the pass and repeat the steps as specified above.
 
 ![Screenshot 2021-03-02 152939](https://user-images.githubusercontent.com/79857237/109710812-20afab00-7b6c-11eb-82e8-5a7a16c4a02e.png)
@@ -127,8 +131,8 @@ When a Supervisor pauses a Driver, the Driver's status changes to 'Paused' and t
 ## Creating Road Hazard <a name="-Creating-Road-Hazard"></a>
 A Driver can create a road hazard on the map to warn other Drivers of the hazards on their routes, by following the steps below:
   - On the map, press the road hazard plus icon
-  - The system will display the following 'New road hazard' prompt
-  - Press the type of road hazard from the list and press 'Yes' to confirm the creation of a new road hazard on the next prompt
+  - The system will display the 'New road hazard' prompt shown below
+  - Choose the type of road hazard from the list and press 'Yes' to confirm the creation of a new road hazard on the next prompt
   - The system will display the hazards as either a road plate or a warning as seen below
     - Road plates (orange stacked layers marker): permanent hazard on the road
     - Temporary hazard (orange warning triangle marker): tree down/power line down, accident, etc.
