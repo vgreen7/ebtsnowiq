@@ -8,7 +8,8 @@ parent: Storm Operations Center
 nav_order: 6
 ---
 
-
+# User Management
+{: .no_toc }
 
 <details open markdown="block">
   <summary>
@@ -23,7 +24,7 @@ nav_order: 6
 
 The User Management view allows the Admin user to view all the users currently uploaded into the system as well as upload Excel files with new users, edit individual users, and Deactivate/ Reactivate users in the system.
 
-## Filters <a name="-Filters"></a>
+### Filters <a name="-Filters"></a>
 
 Using the filters at the top of the application allows the Admin user to narrow down the users displayed on the list. The following filters are available: User Login ID, Name, Roles (Admin, Driver, Inspector, Supervisor), Supervisor or Inspector assigned to the user, and the company the user works for. 
 
