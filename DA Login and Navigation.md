@@ -55,6 +55,7 @@ The diagram below highlights basic navigation controls and map elements of the D
 13. Road hazard marker
 14. Button "Find my location on the map"
 
+
 ### Navigation Drawer <a name="-Navigation-Drawer"></a>
 Users can open the Navigation Drawer by pressing the User Profile picture icon as specified in the diagram above. The panel is divided into three sections:
 
@@ -74,10 +75,12 @@ A user can press on Assignments' to view the Active Assignment, if there is one,
 
 ![Screenshot 2021-03-10 122607](https://user-images.githubusercontent.com/79857237/110672601-cfbc3a00-819d-11eb-9622-a5153ba5c232.png)
 
+
 ### Profile <a name="-Profile"></a>
 A user can press on 'Profile' to edit their name, phone number, and User Picture.
 
 ![Screenshot 2021-03-02 134830](https://user-images.githubusercontent.com/79857237/109698975-ffe05900-7b5d-11eb-8ea6-13c55b2c8a66.png)
+
 
 ### Salt Management <a name="-Salt-Management"></a>
 A Driver user can press on 'Salt Management' to record how much salt was loaded and returned by pressing 'Add Salt Usage Info.' The historical usage is saved in the list, as seen below. 

@@ -87,7 +87,7 @@ In order for the ticket to be worked on, it must go through a sequence of steps,
 
 ![Screenshot 2021-03-05 100355](https://user-images.githubusercontent.com/79857237/110134052-fee83b00-7d9a-11eb-92fc-7d2a941988e7.png)
 
-* Once the ticket is sent, the Supervisor will continue through the SnowIQ iPad Supervisor App to assign drivers to a ticket. (The process can be seen here.)
+* Once the ticket is sent, the Supervisor will continue through the SNOWiQ iPad Supervisor App to assign drivers to a ticket. (The process can be seen here.)
 
 ## Closing Tickets <a name="-Closing-Tickets"></a>
 

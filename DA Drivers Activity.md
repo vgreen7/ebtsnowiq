@@ -30,6 +30,7 @@ When a Supervisor assigns a route, a ticket, or an address-specific assignment, 
 - Once the system starts tracking that the Driver is working on the assignment, i.e. the Driver's GPS location is on the assigned route or address, the system will change the       status of the Active Assignment to 'Started' in the status bar and begin displaying breadcrumbs to indicate the route that was worked on, as shown below. 
 - Alternatively, the Driver can manually go to the Navigation drawer and press 'Start Assignment' as seen below. 
 
+
 ### Completing Assignment <a name="-Completing-Assignment"></a> 
 A Driver can complete their Active Assignment by opening the Navigation drawer and pressing 'Complete Assignment' as seen below.
 
@@ -38,6 +39,7 @@ A Driver can complete their Active Assignment by opening the Navigation drawer a
 This removes the assignment from the Status bar and also moves it from Active Assignments to History tab in the 'Assignments' panel in the Operations Menu. If the Driver has another Assignment in the queue (in the 'Future' tab in the 'Assignments' panel), then the Driver will receive the notification as seen below and will follow the process as specified in the section "Accepting Assignments" above.
 
 ![Screenshot 2021-03-02 152604](https://user-images.githubusercontent.com/79857237/109710430-a7b05380-7b6b-11eb-8bae-3e85b576ac49.png)
+
 
 ### Completing Multi-Pass Assignment <a name="-Completing-Multi-Pass-Assignment"></a>
 If a Driver receives an Assignment with Multi-pass toggle on, it will be indicated in the notification. Once the Driver completes a pass, they will press 'Complete Pass' in the Navigation drawer and will await further instructions from the supervisor as specified in the status bar as seen below. 
@@ -49,6 +51,7 @@ If a Driver receives an Assignment with Multi-pass toggle on, it will be indicat
 
 ![Screenshot 2021-03-02 153140](https://user-images.githubusercontent.com/79857237/109711112-7dab6100-7b6c-11eb-8522-9080ca93f77f.png)
 ![Screenshot 2021-03-02 153202](https://user-images.githubusercontent.com/79857237/109711121-813ee800-7b6c-11eb-98ab-3ad769315369.png)
+
 
 ### Paused/Resumed Assignment <a name="-Paused/Resumed-Assignment"></a>
 When a Supervisor pauses a Driver, the Driver's status changes to 'Paused' and the status bar is updated, as shown below. Once the Supervisor resumes the Driver, the previous Assignment is started again and the status returns to 'In Service.'
