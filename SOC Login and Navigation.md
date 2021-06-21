@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SOC Login and Navigation
+title: Login and Navigation
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com

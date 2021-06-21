@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SA Routes Tab View
+title: Routes Tab View
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
