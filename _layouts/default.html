@@ -65,9 +65,10 @@ layout: table_wrappers
         {% include nav.html pages=site.html_pages %}
       {% endif %}
     </nav>
-    {% toc %}
-    <nav>
 
+    <nav class="toc">
+    <!-- Using https://github.com/allejo/jekyll-toc -->
+    {% include toc.html html=content %}
     </nav>
 
     <footer class="site-footer">
