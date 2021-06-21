@@ -37,7 +37,8 @@ The depot filter defaults to the depot the Supervisor is assigned to and only th
 
 ### Driver Type <a name="-Driver-Type"></a>
 
-The Route Type filter allows users to filter by County or Contractor employees. County employees can be found on the map with a circular snowplow marker![Screenshot 2021-03-05 132949](https://user-images.githubusercontent.com/79857237/110158261-251bd400-7db7-11eb-9796-8878e26572b6.png)while contractors will be found with a square marker![Screenshot 2021-03-05 133125](https://user-images.githubusercontent.com/79857237/110158270-277e2e00-7db7-11eb-95c2-00c4c6b4e1e0.png) 
+The Route Type filter allows users to filter by County or Contractor employees. County employees can be found on the map with a circular snowplow marker while contractors will be found with a square marker
+![Screenshot 2021-03-05 132949](https://user-images.githubusercontent.com/79857237/110158261-251bd400-7db7-11eb-9796-8878e26572b6.png)![Screenshot 2021-03-05 133125](https://user-images.githubusercontent.com/79857237/110158270-277e2e00-7db7-11eb-95c2-00c4c6b4e1e0.png) 
 
 ### Driver Status <a name="-Driver-Status"></a>
 
