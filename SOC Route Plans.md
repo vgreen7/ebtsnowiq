@@ -4,6 +4,7 @@ title: SOC Route Plans
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
+parent: SOC Overview
 ---
 
 

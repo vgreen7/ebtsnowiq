@@ -4,6 +4,7 @@ title: SOC User Management
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
+parent: SOC Overview
 ---
 
 
