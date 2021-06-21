@@ -65,6 +65,11 @@ layout: table_wrappers
         {% include nav.html pages=site.html_pages %}
       {% endif %}
     </nav>
+    {% toc %}
+    <nav>
+
+    </nav>
+
     <footer class="site-footer">
       <a href="{{ site.webpage }}">{{ site.name }}</a><br>{{ site.email }}
     </footer>
@@ -198,8 +203,6 @@ layout: table_wrappers
       <div class="search-overlay"></div>
     {% endif %}
   </div>
-  <div class="toc">
-    <p>Table of Contents</p>
-  </div>
+
 </body>
 </html>

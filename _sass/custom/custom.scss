@@ -7,7 +7,7 @@
 //
 
 .toc {
-      z-index: 0;
+    z-index: 3;
     display: flex;
     flex-wrap: wrap;
     background-color: $sidebar-color;
@@ -59,6 +59,7 @@
 
   @include mq(lg) {
     margin-left: $nav-width;
+    margin-right: $nav-width;
   }
 }
 
