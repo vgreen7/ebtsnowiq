@@ -4,7 +4,7 @@ title: Guide and Term Dictionary
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
-nav_order: 2
+nav_order: 1
 parent: SNOWiQ Overview
 ---
 
