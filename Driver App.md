@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Driver Apps
+title: Driver App
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
