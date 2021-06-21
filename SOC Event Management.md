@@ -8,7 +8,8 @@ parent: Storm Operations Center
 nav_order: 4
 ---
 
-
+# Event Management
+{: .no_toc }
 
 <details open markdown="block">
   <summary>

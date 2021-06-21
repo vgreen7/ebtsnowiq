@@ -8,6 +8,9 @@ parent: Driver App
 nav_order: 1
 ---
 
+# Login and Navigation
+{: .no_toc }
+
 <details open markdown="block">
   <summary>
     <b>Table of contents</b>
@@ -17,9 +20,8 @@ nav_order: 1
 {:toc}
 </details>
 
-# Login and Navigation
 ## Login <a name="-Login"></a>
-The login screen below allows Driver users to enter the SNOWiQ Driver Application (DA). Click the appropriate 'Login' button to be re-routed to enter the assigned username and password for the application.
+The login screen below allows Driver users to enter the SnowIQ Driver Application (DA). Click the appropriate 'Login' button to be re-routed to enter the assigned username and password for the application.
 
 ![Screenshot 2021-03-02 131014](https://user-images.githubusercontent.com/79857237/109695112-8cd4e380-7b59-11eb-8c83-716743ad6fdf.png)
 
@@ -53,8 +55,10 @@ The diagram below highlights basic navigation controls and map elements of the D
 13. Road hazard marker
 14. Button "Find my location on the map"
 
-## Navigation Drawer <a name="-Navigation-Drawer"></a>
+
+### Navigation Drawer <a name="-Navigation-Drawer"></a>
 Users can open the Navigation Drawer by pressing the User Profile picture icon as specified in the diagram above. The panel is divided into three sections:
+
 #### User Profile details <a name="-User-Profile-details"></a>
 This section lists the profile details of logged in driver. To edit them, the user can press 'Profile' in the section below.
 
@@ -66,23 +70,25 @@ The Operations Menu as seen above is for a Driver without any active or future a
 
 ![Screenshot 2021-03-02 132549](https://user-images.githubusercontent.com/79857237/109696248-d671fe00-7b5a-11eb-8e2a-61ad4544589e.png)
 
-## Assignments <a name="-Assignments"></a>
+### Assignments <a name="-Assignments"></a>
 A user can press on Assignments' to view the Active Assignment, if there is one, any Future Assignments in the queue, and the History of assignments the driver worked on.
 
 ![Screenshot 2021-03-10 122607](https://user-images.githubusercontent.com/79857237/110672601-cfbc3a00-819d-11eb-9622-a5153ba5c232.png)
 
-## Profile <a name="-Profile"></a>
+
+### Profile <a name="-Profile"></a>
 A user can press on 'Profile' to edit their name, phone number, and User Picture.
 
 ![Screenshot 2021-03-02 134830](https://user-images.githubusercontent.com/79857237/109698975-ffe05900-7b5d-11eb-8ea6-13c55b2c8a66.png)
 
-## Salt Management <a name="-Salt-Management"></a>
+
+### Salt Management <a name="-Salt-Management"></a>
 A Driver user can press on 'Salt Management' to record how much salt was loaded and returned by pressing 'Add Salt Usage Info.' The historical usage is saved in the list, as seen below. 
 
 ![Screenshot 2021-03-02 135028](https://user-images.githubusercontent.com/79857237/109699211-46ce4e80-7b5e-11eb-8005-cbc2a66637a7.png)
 
-## About <a name="-About"></a>
+### About <a name="-About"></a>
 Displays the current version of the app.
 
-## Logout <a name="-Logout"></a>
+### Logout <a name="-Logout"></a>
 A user must logout at the end of each workday.
