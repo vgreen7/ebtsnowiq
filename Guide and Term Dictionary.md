@@ -44,7 +44,7 @@ This mobile application is used to create driver assignments for upcoming storm 
 ## Driver App (DA) <a name="-Driver-App"></a>
 **Audience: Drivers**
 
-This mobile application is accessed on plow drivers’ (contractor or county employee) mobile device. This application allows drivers to view their current assigned routes, their progress, and set the status of their route to Completed in order to move on to their next assignment.
+This mobile application is accessed on plow drivers’ (contractor or county employee) mobile device. This application allows drivers to view their current assigned routes, their progress, and set the status of their route to "Completed" in order to move on to their next assignment.
 
 ## Resident Portal (RP) <a name="-Resident-Portal-(RP)"></a>
 
@@ -58,7 +58,7 @@ The Admin's primary role is to plan upcoming storm events once storm season begi
 
 ## Supervisor <a name="-Supervisor"></a>
 
-Supervisors are managers over specific depots (potentially more than one) and are responsible for the management of phases and driver assignments. Supervisors also work with the Storm Operations Managerss during storm event planning to create phases and driver assignments. Supervisors have access to the SNOWiQ SOC for planning and the SNOWiQ Supervisor Application (SA) to create assignments, stop and start phases, and review 311 tickets for assignment. Supervisors can only view routes assigned to their depot, which is automatically set to their default depot. 
+Supervisors are managers over specific depots (potentially more than one) and are responsible for the management of phases and driver assignments. Supervisors also work with the Storm Operations Managers during storm events planning to create phases and driver assignments. Supervisors have access to the SNOWiQ SOC for planning and the SNOWiQ Supervisor Application (SA) to create assignments, stop and start phases, and review 311 tickets for assignment. Supervisors can only view routes assigned to their depot, which is automatically set to their default depot. 
 
 ## Inspector <a name="-Inspector"></a>
 
@@ -68,7 +68,7 @@ Currently Supervisors and Inspectors have the same access (both SA and SOC). The
 
 ## Driver <a name="-Driver"></a>
 
-Drivers are responsible for assignments sent to them by Storm Operations Managerss, supervisor, or inspectors. This could include a pre-determined route, a specific address, or queued assignments for multiple phases during a storm event. Assignments may include plowing, salting, or a combination of plowing and salting, or multi-pass assignments. Drivers will use the SNOWiQ Driver App on their mobile device to receive assignments and act on those assignments to completion.
+Drivers are responsible for assignments sent to them by Storm Operations Managers, supervisors, or inspectors. This could include a pre-determined route, a specific address, or queued assignments for multiple phases during a storm event. Assignments may include plowing, salting, a combination of plowing and salting, or multi-pass assignments. Drivers will use the SNOWiQ Driver App on their mobile device to receive assignments and act on those assignments to completion.
 
 ## Resident <a name="-Resident"></a>
 
@@ -94,10 +94,10 @@ A Depot is a centralized hub that manages a number of routes in the service area
 
 ## Driver <a name="-Driver"></a> 
 
-See ‘Driver’ Definition under the ‘Roles’ section above. When logged into the app, Storm Operations Managers, supervisors and inspectors will be able to see the driver markers on an interactive map along with their current status at the time (notated by a color specified in Status below). County employees can be found on the map with a circular snowplow markerwhile contractors will be found with a square marker.
+See ‘Driver’ Definition under the ‘Roles’ section above. When logged into the app, Storm Operations Managers, supervisors, and inspectors will be able to see the driver markers on an interactive map along with their current status at the time (notated by a color specified in Status below). County employees can be found on the map with a circular snowplow marker while contractors will be found with a square marker.
 
 ### Driver Status <a name="-Driver-Status"></a>
-  * Logged in (Contractor Only) –  is for Contract Drivers who have logged into the system, but have not accepted any new assignments or working on any active assignments. This status is for drivers awaiting a new status after logging in. (This status means no payment is being calculated for the driver, whether they just logged on or have been released.)
+  * Logged in (Contractor Only) –  is for Contract Drivers who have logged into the system, but have not accepted any new assignments and are not working on any active assignments. This status is for drivers awaiting a new status after logging in. (This status means no payment is being calculated for the driver, whether they just logged on or have been released.)
   * Standby (Contractor Only) – is for Contract drivers who are in position, awaiting assignment. This status is applied manually to a driver by their supervisor. (This status allows for calculation of payment by half of their rate.)  
   * Ready – is the default status for County Drivers after logging on. For Contract Drivers, it is applied manually by their supervisor to indicate that the driver is ready to begin work on another assignment. (This status allows for calculation of payment in the Contract Driver's full rate.)
   * Address Assignment – is for Drivers working on an address specific assignment.
@@ -141,7 +141,7 @@ An Assignment is a task created within a phase by a supervisor and assigned to a
 * Accepted - When a Driver has accepted the assignment.
 * Started - When a Driver has arrived at the destination, manually started the assignment, or resumed the assignment from a paused state.
 * Completed - When a Driver manually has completed the assignment or the supervisor has marked the route as complete/set all assignments for this route as completed.
-    * Completed Pendign - When a Driver manually completed a pass on a multi-pass assignment (the assignment is pending a review by the Supervisor to determine if another pass is needed)
+    * Completed Pending - When a Driver manually completed a pass on a multi-pass assignment (the assignment is pending a review by the Supervisor to determine if another pass is needed)
 * Cancelled - When the Supervisor cancels the assignment, either active or future.
 
 ![Screenshot 2021-03-04 080603](https://user-images.githubusercontent.com/79857237/109968419-afcdd780-7cc0-11eb-8e7f-b27ddda2d20d.png)
@@ -150,12 +150,12 @@ An Assignment is a task created within a phase by a supervisor and assigned to a
 
 M311 ticket requests are imported from the Montgomery County 311 system where residents report snow-related issues, whereas emergency tickets are specific requests from 3rd parties like emergency services to plow a route to a specific location.
 * SR ID - Service Request ID.
-* Description - details to request.
+* Description - request details.
 * Ticket Types:
     * Residential Tickets - imported MC311 tickets.
     * Emergency Tickets - requests from emergency services (EMS, Fire Dept) or address specific requests created by an Admin user.
-* Address - address of the ticker request.
-* Supervisor - who the ticker has been assigned to.
+* Address - address of the ticket request.
+* Supervisor - who the ticket has been assigned to.
 * Opened - date the ticket was opened. 
 * Depot - the depot this ticket belongs to. 
 * Route ID - which route is associated with the ticket.
@@ -170,7 +170,7 @@ M311 ticket requests are imported from the Montgomery County 311 system where re
     1. An Admin user manually closes a ticket that they deem invalid or that doesn't need work
     1. The system has checked the sevice request and found it invalid and set the ticket to closed
     1. The assigned driver has completed the task and marked the assignment as completed - which closes the ticket throughout all systems.
-  * Pending - The system found the ticket to be invalid and is preparing to close the ticket. 
+* Pending - The system found the ticket to be invalid and is preparing to close the ticket. 
 
 ![Screenshot 2021-03-03 154526](https://user-images.githubusercontent.com/79857237/109870337-fa574180-7c37-11eb-857e-39678822bb4d.png)
   
