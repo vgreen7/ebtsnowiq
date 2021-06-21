@@ -4,7 +4,8 @@ title: SOC Active Storm Log/Report
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
-parent: SOC Overview
+parent: Storm Operations Center
+nav_order: 3
 ---
 
 
