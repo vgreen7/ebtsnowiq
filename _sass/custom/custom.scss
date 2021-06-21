@@ -6,11 +6,6 @@
 // The basic two column layout
 //
 
-body {
-  display: flex;
-  flex-direction: row;
-}
-
 .toc {
     display: flex;
     flex-wrap: wrap;
@@ -58,7 +53,7 @@ body {
     position: relative;
     max-width: $content-width;
     margin-left: $nav-width-md;
-    margin-right: $nav-width-md
+    margin-right: $nav-width-md;
   }
 
   @include mq(lg) {
