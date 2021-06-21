@@ -9,7 +9,7 @@ nav_order: 2
 
 
 
-<details markdown="block">
+<details open markdown="block">
   <summary>
     <b>Table of contents</b>
   </summary>
