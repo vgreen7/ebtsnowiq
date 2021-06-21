@@ -4,7 +4,8 @@ title: SA Supervisor Activities
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
-parent: SA Overview
+parent: Supervisor Application
+nav_order: 2
 ---
 
 
