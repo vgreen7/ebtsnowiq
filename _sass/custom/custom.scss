@@ -6,7 +6,13 @@
 // The basic two column layout
 //
 
+.toc li.active > a {
+  color: #333;
+  font-weight: 500;
+}
 .toc {
+    list-style: none;
+    padding-right: 20px;
     right: 0;
     top:0;
     //margin-left: calc($nav-width-md + $content-width);
