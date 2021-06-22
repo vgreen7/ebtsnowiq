@@ -8,19 +8,7 @@ parent: Storm Operations Center
 nav_order: 7
 ---
 
-# Route Plans
-{: .no_toc }
-
-<details open markdown="block">
-  <summary>
-    <b>Table of contents</b>
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
-
-## Route Plans <a name="-Route-Plans"></a>
+# Route Plans <a name="-Route-Plans"></a>
 
 On the Route Plans page, an Admin user can view the currently used geo-location data for route lines and boundaries for each depot, the timestamp it was uploaded, and its current status. Additionally, the Admin can Upload Plan Files to update the data. Each event in the system is associated with a specific Route Plan version number. 
 

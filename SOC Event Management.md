@@ -8,19 +8,7 @@ parent: Storm Operations Center
 nav_order: 4
 ---
 
-# Event Management
-{: .no_toc }
-
-<details open markdown="block">
-  <summary>
-    <b>Table of contents</b>
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
-
-## Event Management <a name="-Event-Management"></a>
+# Event Management <a name="-Event-Management"></a>
 
 The Event Management page allows Admin users to create new storm events, edit Event details, create Phases, Activities for Depots during an event, as well as view Event Logs and Reports for each Event. 
 

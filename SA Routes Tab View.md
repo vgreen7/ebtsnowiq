@@ -8,19 +8,7 @@ parent: Supervisor App
 nav_order: 3
 ---
 
-# Routes Tab View
-{: .no_toc }
-
-<details open markdown="block">
-  <summary>
-    <b>Table of contents</b>
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
-
-## Routes Tab <a name="-Routes-Tab"></a>
+# Routes Tab View <a name="-Routes-Tab-View"></a>
 
 A panel on the left has three tabs: Routes, Drivers, and Tickets. The app opens to Routes, as seen below.
 

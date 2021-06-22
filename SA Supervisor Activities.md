@@ -8,20 +8,7 @@ parent: Supervisor App
 nav_order: 2
 ---
 
-# Supervisor Activities
-{: .no_toc }
-
-<details open markdown="block">
-  <summary>
-    <b>Table of contents</b>
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
-  
-
-## Assignments <a name="-Assignments"></a>
+# Supervisor Activities <a name="-Supervisor-Assignments"></a>
 ### Creating New Assignments <a name="-Creating-New-Assignments"></a>
 
 There are three ways of creating new assignments within the SA: 

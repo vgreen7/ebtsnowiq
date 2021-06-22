@@ -8,19 +8,7 @@ parent: Supervisor App
 nav_order: 5
 ---
 
-# Tickets Tab View
-{: .no_toc }
-
-<details open markdown="block">
-  <summary>
-    <b>Table of contents</b>
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
-
-## Tickets Tab <a name="-Tickets-Tab"></a>
+# Tickets Tab View <a name="-Tickets-Tab"></a>
 
 When Admin sends a new ticket to a Supervisor it will be appear as a ticket count on the Ticket tab for the Supervisor, as seen below.
 

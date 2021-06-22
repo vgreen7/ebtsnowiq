@@ -9,16 +9,6 @@ nav_order: 1
 ---
 
 # Guide and Term Dictionary
-{: .no_toc }
-
-<details open markdown="block">
-  <summary>
-    <b>Table of contents</b>
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
 
 
 ## What is SNOWiQ? <a name="-What-is-SNOWiQ?"></a>

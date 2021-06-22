@@ -9,16 +9,6 @@ nav_order: 2
 ---
 
 # Driver's Activity
-{: .no_toc }
-
-<details open markdown="block">
-  <summary>
-    <b>Table of contents</b>
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
 
 ##   Assignments <a name="-Assignments"></a>
 ###   Accepting and Working Assignments <a name="-Accepting-and-Working-Assignments"></a>
