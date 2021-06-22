@@ -11,10 +11,10 @@
 }
 
 .toc ul li{
-  margin-left: 3px;
+  margin-left: 2px;
 }
 .toc ul li li{
-  margin-left: 6px;
+  margin-left: 4px;
 }
 
 .toc li.active > a {
@@ -23,6 +23,7 @@
 }
 .toc {
     padding-top: 60px;
+    padding-left: 0;
     right: 0;
     top:0;
     //margin-left: calc($nav-width-md + $content-width);
