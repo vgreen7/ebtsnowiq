@@ -6,6 +6,10 @@
 // The basic two column layout
 //
 
+.toc b {
+  margin-left: 20px;
+}
+
 .toc ul{
   list-style: none;
   padding-left: 20px;
@@ -15,12 +19,12 @@
   font-weight: 500;
 }
 .toc {
-    padding-top: 60px;
     padding-left: 0;
     right: 0;
-    top:0;
+    top: 0;
+    bottom: 0;
+    overflow-y: scroll;
     //margin-left: calc($nav-width-md + $content-width);
-    display: flex;
     flex-wrap: wrap;
     background-color: $sidebar-color;
   
@@ -32,6 +36,7 @@
       flex-direction: column;
       border-left: $border $border-color;
       align-items: flex-end;
+      padding-top: 60px;
     }
   
     @include mq(lg) {
