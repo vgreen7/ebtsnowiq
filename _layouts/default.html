@@ -66,11 +66,6 @@ layout: table_wrappers
       {% endif %}
     </nav>
 
-    <nav class="toc">
-    <!-- Using https://github.com/allejo/jekyll-toc -->
-    {% include toc.html html=content %}
-    </nav>
-
     <footer class="site-footer">
       <a href="{{ site.webpage }}">{{ site.name }}</a><br>{{ site.email }}
     </footer>
@@ -204,6 +199,10 @@ layout: table_wrappers
       <div class="search-overlay"></div>
     {% endif %}
   </div>
+     <nav class="toc">
+    <!-- Using https://github.com/allejo/jekyll-toc -->
+    {% include toc.html html=content %}
+    </nav>
 
 </body>
 </html>
