@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Storm Operations Center
 author: EastBanc Technologies
 name: EastBanc Technologies

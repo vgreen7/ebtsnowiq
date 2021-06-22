@@ -9,16 +9,6 @@ nav_order: 2
 ---
 
 # Active Storm Ops
-{: .no_toc }
-
-<details open markdown="block">
-  <summary>
-    <b>Table of contents</b>
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
 
 ## Map Monitoring View <a name="-Map-Monitoring-View"></a>
 

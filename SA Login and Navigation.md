@@ -10,16 +10,6 @@ nav_order: 1
 ---
 
 # Login and Navigation
-{: .no_toc }
-
-<details open markdown="block">
-  <summary>
-    <b>Table of contents</b>
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
 
 
 ## Login <a name="Login"></a>

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Supervisor App
 author: EastBanc Technologies
 name: EastBanc Technologies
