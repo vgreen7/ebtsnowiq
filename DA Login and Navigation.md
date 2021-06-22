@@ -9,16 +9,6 @@ nav_order: 1
 ---
 
 # Login and Navigation
-{: .no_toc }
-
-<details open markdown="block">
-  <summary>
-    <b>Table of contents</b>
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
 
 ## Login <a name="-Login"></a>
 The login screen below allows Driver users to enter the SnowIQ Driver Application (DA). Click the appropriate 'Login' button to be re-routed to enter the assigned username and password for the application.

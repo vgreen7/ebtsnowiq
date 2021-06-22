@@ -8,19 +8,7 @@ parent: Supervisor App
 nav_order: 4
 ---
 
-# Drivers Tab View
-{: .no_toc }
-
-<details open markdown="block">
-  <summary>
-    <b>Table of contents</b>
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
-
-## Drivers Tab <a name="-Drivers-Tab"></a>
+# Drivers Tab View <a name="-Drivers-Tab-View"></a>
 
 The Drivers panel displays a list of drivers active in the system with their names and current statuses. The driver marker is displayed on the map (color coded based on status). Above the list there is a set of filters: by Depot, Route Type, and Route Status. Pressing on the name of the driver in the panel on the left takes the user to the [Driver Details](#-Driver-Details)
 

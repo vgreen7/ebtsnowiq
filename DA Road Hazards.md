@@ -9,16 +9,6 @@ nav_order: 3
 ---
 
 # Road Hazards
-{: .no_toc }
-
-<details open markdown="block">
-  <summary>
-    <b>Table of contents</b>
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
 
 ## Creating Road Hazard <a name="-Creating-Road-Hazard"></a>
 A Driver can create a road hazard on the map to warn other Drivers of the hazards on their routes, by following the steps below:

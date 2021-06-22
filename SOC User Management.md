@@ -8,19 +8,7 @@ parent: Storm Operations Center
 nav_order: 6
 ---
 
-# User Management
-{: .no_toc }
-
-<details open markdown="block">
-  <summary>
-    <b>Table of contents</b>
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
-
-## User Management <a name="-User-Management"></a>
+# User Management <a name="-User-Management"></a>
 
 The User Management view allows the Admin user to view all the users currently uploaded into the system as well as upload Excel files with new users, edit individual users, and Deactivate/ Reactivate users in the system.
 
