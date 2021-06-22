@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Driver App
 author: EastBanc Technologies
 name: EastBanc Technologies
