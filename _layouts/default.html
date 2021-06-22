@@ -7,6 +7,7 @@ layout: table_wrappers
 <html lang="{{ site.lang | default: 'en-US' }}">
 {% include head.html %}
 <body>
+  <script src="{{ base.url | prepend: site.url }}/assets/js/custom.js"></script>
   <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
     <symbol id="svg-link" viewBox="0 0 24 24">
       <title>Link</title>
@@ -71,7 +72,7 @@ layout: table_wrappers
     </footer>
   </div>
   <nav class="toc">
-    <h3>Table of Contents</h3>
+    <b>Table of Contents<b>
     <!-- Using https://github.com/allejo/jekyll-toc -->
     {% include toc.html html=content %}
   </nav>
