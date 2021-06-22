@@ -6,14 +6,16 @@
 // The basic two column layout
 //
 
-.toc li {
-    list-style: none;
-    padding-right: 1px;
-}
-
 .toc ul{
   list-style: none;
   padding-right: 1px;
+}
+
+.toc ul li{
+  margin-left: 3px;
+}
+.toc ul li li{
+  margin-left: 6px;
 }
 
 .toc li.active > a {
