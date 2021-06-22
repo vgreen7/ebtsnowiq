@@ -19,14 +19,12 @@
   font-weight: 500;
 }
 .toc {
-    display: block;
     padding-left: 0;
     right: 0;
     top: 0;
     bottom: 0;
     overflow-y: scroll;
     //margin-left: calc($nav-width-md + $content-width);
-    flex-wrap: wrap;
     background-color: $sidebar-color;
   
     @include mq(md) {
@@ -34,9 +32,7 @@
       position: fixed;
       width: $nav-width-md;
       height: 100%;
-      flex-direction: column;
       border-left: $border $border-color;
-      align-items: flex-end;
       padding-top: 60px;
     }
   
