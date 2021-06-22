@@ -9,16 +9,7 @@ nav_order: 3
 ---
 
 # Active Storm Log/Report
-{: .no_toc }
 
-<details open markdown="block">
-  <summary>
-    <b>Table of contents</b>
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
 
 ## Active Storm Log <a name="-Active-Storm-Log"></a>
 
