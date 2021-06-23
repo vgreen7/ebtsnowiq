@@ -11,7 +11,7 @@ nav_order: 3
 # Road Hazards
 
 <section id="Creating-Road-Hazards" markdown="1">
-## Creating Road Hazard <a name="-Creating-Road-Hazard"></a>
+## Creating Road Hazard<a name="-Creating-Road-Hazard"></a>
 A Driver can create a road hazard on the map to warn other Drivers of the hazards on their routes, by following the steps below:
   - On the map, press the road hazard plus icon
   - The system will display the 'New road hazard' prompt shown below
@@ -27,7 +27,7 @@ A Driver can create a road hazard on the map to warn other Drivers of the hazard
 </section>
 
 <section id="Deleting-Road-Hazards" markdown="1">
-## Deleting Road Hazard <a name="-Deleting-Road-Hazard"></a>
+## Deleting Road Hazard<a name="-Deleting-Road-Hazard"></a>
 A Driver can delete an existing road hazard from the map if it doesn't exist anymore: 
   - Press on an existing road hazard on the map
   - The system will display the following 'Road hazard info' prompt

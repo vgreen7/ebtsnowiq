@@ -9,7 +9,7 @@ nav_order: 2
 ---
 
 <section id="Drivers-Activity" markdown="1">
-# Driver's Activity<a name="Drivers-Activity"></a
+# Driver's Activity<a name="Drivers-Activity"></a>
 
 <section id="Assignments" markdown="1">
 ##   Assignments<a name="Assignments"></a>
