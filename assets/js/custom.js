@@ -1,13 +1,13 @@
 window.addEventListener('DOMContentLoaded', () => {
 
   const observer = new IntersectionObserver(entries => {
+    console.log("!");
     entries.forEach(entry => {
       const id = entry.target.getAttribute('id');
-      console.log(id);
       if (entry.intersectionRatio > 0) {
-        document.querySelector(`toc nav li a[href="#${id}"]`).parentElement.classList.add('active');
+        document.querySelector(`a[href="#${id}"]`).parentElement.classList.add('active');
       } else {
-        document.querySelector(`toc nav li a[href="#${id}"]`).parentElement.classList.remove('active');
+        document.querySelector(`a[href="#${id}"]`).parentElement.classList.remove('active');
       }
     });
   });
