@@ -1,5 +1,5 @@
 const root = document.querySelector('#root');
-const target = document.querySelectorAll('h1, h2, h3, h4, h5, h6');
+const target = document.querySelectorAll('section');
 const io_options = {
   root: root,
   rootMargin: '0px',
@@ -11,8 +11,8 @@ let io_observer;
 function io_callback (entries) {
   entries.forEach(function(entry){
     const ratio = entry.intersectionRatio;
-    id = entry.target.getAttribute('id');
-    
+    id = entry.target.getAttribute('id').toLowerCase();
+    console.log(id);
     if (ratio > 0) {
       document.querySelector(`a[href="#${id}"]`).parentElement.classList.add('active');
     }

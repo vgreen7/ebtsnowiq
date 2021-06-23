@@ -7,8 +7,8 @@ email: contact@eastbanctech.com
 parent: Storm Operations Center
 nav_order: 1
 ---
-
-# Login and Navigation 
+<section id="Login-and-Navigation" markdown="1">
+# Login and Navigation
 
 <section id="-Login" markdown="1">
 ## Login <a name="-Login"></a>
@@ -87,3 +87,5 @@ The Route Plans page allows Admin users to view the current version of geo-data 
 ![Screenshot 2021-03-04 110052](https://user-images.githubusercontent.com/79857237/109992281-1bbc3a00-7cd9-11eb-80da-f45513e3e0f0.png)
 </section>
 </section>
+</section>
+
