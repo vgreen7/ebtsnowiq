@@ -7,8 +7,9 @@ email: contact@eastbanctech.com
 parent: Driver App
 nav_order: 2
 ---
-<section id="Drivers-Activity"" markdown="1">
-# Driver's Activity
+
+<section id="Drivers-Activity" markdown="1">
+# Driver's Activity<a name="Drivers-Activity"></a>
 
 <section id="Assignments" markdown="1">
 ##   Assignments<a name="Assignments"></a>
@@ -48,12 +49,13 @@ If a Driver receives an Assignment with Multi-pass toggle on, it will be indicat
 ![Screenshot 2021-03-02 153202](https://user-images.githubusercontent.com/79857237/109711121-813ee800-7b6c-11eb-98ab-3ad769315369.png)
 </section>
 
-<section id="PausedResumed-Assignments" markdown="1">
 
+<section id="PausedResumed-Assignment" markdown="1">
 ### Paused/Resumed Assignment<a name="Paused/Resumed-Assignment"></a>
 When a Supervisor pauses a Driver, the Driver's status changes to 'Paused' and the status bar is updated, as shown below. Once the Supervisor resumes the Driver, the previous Assignment is started again and the status returns to 'In Service.'
 
 ![Screenshot 2021-03-02 153644](https://user-images.githubusercontent.com/79857237/109711680-2063df80-7b6d-11eb-8a71-4a969581a18d.png)
+
 </section>
 </section>
 </section>
