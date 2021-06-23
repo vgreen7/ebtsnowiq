@@ -9,17 +9,17 @@ nav_order: 3
 ---
 
 <section id="Active-Storm-Log/Report" markdown="1">
-# Active Storm Log/Report
+# Active Storm Log/Report <a name="Active-Storm-Log-Report"></a>
 
 <section id="Active-Storm-Log" markdown="1">
-## Active Storm Log <a name="-Active-Storm-Log"></a>
+## Active Storm Log <a name="Active-Storm-Log"></a>
 
 The Active Storm Log page is an Event Log that allows Admin users a closer look into the actions, the users, and timestamps of the actions for the current active Event. As seen below, the log shows the time the action occurred in the system, what the action was, and who performed it (user name or system). Actions may include creating an Assignment, activating a new Phase for a Depot, or changing the status of a Driver. 
 
 ![Screenshot 2021-03-04 144521](https://user-images.githubusercontent.com/79857237/110021432-b6784100-7cf8-11eb-811c-82d58b712cb1.png)
 
 <section id="Previous-Event-Log" markdown="1">
-### Previous Event Log <a name="-Previous-Event-Log"></a>
+### Previous Event Log <a name="Previous-Event-Log"></a>
 
 To view the Event Log for a previous Event, open the navigation menu and select the Event Management option. After searching for the specific event, click the 'Event Log' button as seen below, and the next page would display the Event Log for the specified Event in the same format as in the screenshot in the previous section above. 
 
@@ -28,18 +28,18 @@ To view the Event Log for a previous Event, open the navigation menu and select 
 </section>
 
 <section id="Active-Storm-Report" markdown="1">
-## Active Storm Report <a name="-Active-Storm-Report"></a>
+## Active Storm Report <a name="Active-Storm-Report"></a>
 
 The Active Storm Report page allows Admin users to view Event Progress in the Statistics Dashboard, using widgets and graphs that are updated in near-real time. The default tab 'Storm Event' that opens is the overall county statistics for the Event with data such as when the event activated and ended, predicted duration, active staff, miles plowed, total snowfall, and salt usage. More granular reporting can be found in other tabs: Phase, Route, Driver, and Salt Usage.
 
 <section id="Storm-Event-Tab" markdown="1">
-### Storm Event Tab <a name="-Storm-Event-Tab"></a>
+### Storm Event Tab <a name="Storm-Event-Tab"></a>
 
 ![Screenshot 2021-03-04 144609](https://user-images.githubusercontent.com/79857237/110022717-44a0f700-7cfa-11eb-8329-f97d33dcc0f8.png)
 </section>
 
 <section id="Phase-Tab" markdown="1">
-### Phase Tab <a name="-Phase-Tab"></a>
+### Phase Tab <a name="Phase-Tab"></a>
 
 This tab allows to filter the Phase Statistics by Depot.
 
@@ -47,7 +47,7 @@ This tab allows to filter the Phase Statistics by Depot.
 </section>
 
 <section id="Route-Tab" markdown="1">
-### Route Tab <a name="-Route-Tab"></a>
+### Route Tab <a name="Route-Tab"></a>
 
 This tab allows to filter the Route Statistics by Depot, Phase, and Route Type. 
 
@@ -55,7 +55,7 @@ This tab allows to filter the Route Statistics by Depot, Phase, and Route Type.
 </section>
 
 <section id="Driver-Tab" markdown="1">
-### Driver Tab <a name="-Driver-Tab"></a>
+### Driver Tab <a name="Driver-Tab"></a>
 
 This tab allows to view individual Driver statistics by searching for a specific Driver by name or ID. 
 
@@ -63,7 +63,7 @@ This tab allows to view individual Driver statistics by searching for a specific
 </section>
 
 <section id="Salt-Usage-Tab" markdown="1">
-### Salt Usage Tab <a name="-Salt-Usage-Tab"></a>
+### Salt Usage Tab <a name="Salt-Usage-Tab"></a>
 
 This tab allows to filter Salt Usage statistics by Depot and Phase. 
 
@@ -71,7 +71,7 @@ This tab allows to filter Salt Usage statistics by Depot and Phase.
 </section>
 
 <section id="Previous-Event-Reports" markdown="1">
-### Previous Event Reports <a name="-Previous-Event-Reports"></a>
+### Previous Event Reports <a name="Previous-Event-Reports"></a>
 
 To view the Event Log for a previous Event, open the navigation menu and select the Event Management option. After searching for the specific event, click the 'Event Log' button as seen below, and the next page would display the Event Log for the specified Event in the same format as in the screenshot in the previous section above. 
 
