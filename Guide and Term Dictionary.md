@@ -46,7 +46,7 @@ This mobile application is used to create driver assignments for upcoming storm 
 This mobile application is accessed on plow drivers’ (contractor or county employee) mobile device. This application allows drivers to view their current assigned routes, their progress, and set the status of their route to "Completed" in order to move on to their next assignment.
 </section>
 
-<section id="Resident-Portal-(RP)" markdown="1">
+<section id="Resident-Portal-RP" markdown="1">
 ### Resident Portal (RP)<a name="Resident-Portal-(RP)"></a>
 
 This web-based application allows residents of the county to view statistics about the current storm event and view data on the progress of different phases (salting, plowing, etc.).
@@ -54,7 +54,7 @@ This web-based application allows residents of the county to view statistics abo
 </section>
 </section>
 
-<section id="Roles-in-SNOWiQ-(SOC-User-Management)" markdown="1">
+<section id="Roles-in-SNOWiQ-SOC-User-Management" markdown="1">
 ## Roles in SNOWiQ (SOC-User Management)<a name="-SNOWiQ-(SOC-User-Management"></a>
 <section id="Admin" markdown="1">
 ### Admin<a name="Admin"></a>
@@ -99,7 +99,7 @@ When a Season is referenced in conjunction with SNOWiQ, it typically means a per
 </section>
 
 <section id="Event" markdown="1">
-### Event <a name="Event"></a>
+### Event<a name="Event"></a>
 
 An Event is a single entity created by a Storm Operations Manager to create a plan for an upcoming snow storm (typically 1-2 weeks before the actual storm).
 </section>
@@ -116,7 +116,7 @@ Phases are used during a Storm Event to define certain Activities to be done by 
 A Depot is a centralized hub that manages a number of routes in the service area. Typically, a single Supervisor manages a depot. A Depot can potentially have multiple Inspectors that manage individual routes within the service area.
 </section>
 
-<section id="Driver" markdown="1">
+<section id="Driver-1" markdown="1">
 ### Driver<a name="Driver"></a> 
 
 See ‘Driver’ Definition under the ‘Roles’ section above. When logged into the app, Storm Operations Managers, supervisors, and inspectors will be able to see the driver markers on an interactive map along with their current status at the time (notated by a color specified in Status below). County employees can be found on the map with a circular snowplow marker while contractors will be found with a square marker.
