@@ -9,7 +9,7 @@ nav_order: 1
 ---
 <section id="Guide-and-Term-Dictionary" markdown="1">
 # Guide and Term Dictionary
-</section>
+
 
 <section id="What-is-SNOWiQ" markdown="1">
 ## What is SNOWiQ?<a name="What-is-SNOWiQ"></a>
@@ -216,10 +216,7 @@ M311 ticket requests are imported from the Montgomery County 311 system where re
 </section>
 </section>
   
-   </section>
+</section>
 
-   </section>
-
-
-
-
+</section>
+</section>
