@@ -1,5 +1,5 @@
 const root = document.querySelector('#root');
-const target = document.querySelectorAll('h1, h2, h3, h4, h5, h6');
+const target = document.querySelectorAll('section');
 const io_options = {
   root: root,
   rootMargin: '0px',
