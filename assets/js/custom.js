@@ -24,4 +24,6 @@ function io_callback (entries) {
 };
 
 io_observer = new IntersectionObserver(io_callback, io_options);
-io_observer.observe(target);
+for(i =0; i < target.length; i++){
+  io_observer.observe(target[i]);
+}
