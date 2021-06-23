@@ -9,21 +9,21 @@ nav_order: 5
 ---
 
 <section id="Ticket-Request-Management" markdown="1">
-# MC311 Tickets Request Management <a name="-Ticket-Request-Management"></a>
+# MC311 Tickets Request Management <a name="Ticket-Request-Management"></a>
 
 The MC311 system is used by Montgomery County, MD to process ticket requests that come in during the snow storm. The SNOWiQ's MC311 Tickets page allows Admin users to send the ticket requests imported from MC311 to Supervisors who will in turn assign them to Drivers during an event. Additionally, users are able to create emergency request tickets for specific addresses.
 
 There are two ways to view the tickets: the List view and the Map View, as shown below:
 
 <section id="Ticket-List-View" markdown="1">
-## Ticket List View <a name="-Ticket-List-View"></a>
+## Ticket List View <a name="Ticket-List-View"></a>
 
 This view is a standard table that allows users to close (blue 'Close' button) or assign (blue 'Send' button) tickets to Supervisors. Additionally, there are multiple filters available to narrow down the list displayed: Service Request (SR) ID, Route Name/Number, Depot, Supervisors the ticket is assigned to, Status Indicator, and Type of Ticket. A user can also filter the tickets by the time they were opened and/or closed.  
 
 ![Screenshot 2021-03-05 100248](https://user-images.githubusercontent.com/79857237/110134030-f98af080-7d9a-11eb-9414-189512fa59c1.png)
 
 <section id="Ticket-Type" markdown="1">
-### Ticket Type <a name="-Ticket-Type"></a>
+### Ticket Type <a name="Ticket-Type"></a>
 
 The Ticket Type filter allows users to view the two different types of tickets. 
 
@@ -36,7 +36,7 @@ A checkmark on either type of ticket indicates that the ticket is closed and has
 </section>
 
 <section id="Ticket-Status" markdown="1">
-### Ticket Status <a name="-Ticket-Status"></a>
+### Ticket Status <a name="Ticket-Status"></a>
 
 The Ticket Status filter allows users to view any ticket set to a specific status. 
 
@@ -52,7 +52,7 @@ The Ticket Status filter allows users to view any ticket set to a specific statu
 </section>
 
 <section id="Ticket-Import-Validation-Rules" markdown="1">
-### Ticket Import Validation Rules <a name="-Ticket-Import-Validation-Rules"></a>
+### Ticket Import Validation Rules <a name="Ticket-Import-Validation-Rules"></a>
 
 System identifies the route by the address of the ticket and Checks if the route is being treated/plowed.
 
@@ -63,7 +63,7 @@ System identifies the route by the address of the ticket and Checks if the route
 </section>
 
 <section id="Ticket-Map-View" markdown="1">
-## Tickets Map View <a name="-Tickets-Map-View"></a>
+## Tickets Map View <a name="Tickets-Map-View"></a>
 
 This view provides a panel on the left that lists the tickets and their statuses and also a visual on the map of markers (color coded) that represent tickets to give users an idea of where the tickets are located in the service area. Additionally, clusters are visible when the map is zoomed out.
 
@@ -72,14 +72,14 @@ Clicking on the blue arrow next to the ticket in the left panel or on the marker
 ![Screenshot 2021-03-05 100331](https://user-images.githubusercontent.com/79857237/110134045-fd1e7780-7d9a-11eb-93fe-f3e16fac4b53.png)
 
 <section id="Clusters" markdown="1">
-### Clusters <a name="-Clusters"></a>
+### Clusters <a name="Clusters"></a>
 
 When a user zooms outs, markers with numbers inside them appear called 'clusters' that de-clutter the map and group together like markers. Clicking on a cluster allows the user to zoom in on that area and view the separated markers on the map. 
 </section>
 </section>
 
 <section id="Sending-Ticket-Requests" markdown="1">
-## Sending Ticket Requests <a name="-Sending-Ticket-Requests"></a>
+## Sending Ticket Requests <a name="Sending-Ticket-Requests"></a>
 
 In order for the ticket to be worked on, it must go through a sequence of steps, the first of which is to send the ticket to the Supervisor to create an assignment by following the steps below:
 
@@ -93,7 +93,7 @@ In order for the ticket to be worked on, it must go through a sequence of steps,
 </section>
 
 <section id="Closing-Tickets" markdown="1">
-## Closing Tickets <a name="-Closing-Tickets"></a>
+## Closing Tickets <a name="Closing-Tickets"></a>
 
 An Admin user can manually close the ticket if the ticket is deemed to be invalid, by following the steps below:
 
@@ -111,7 +111,7 @@ If the status of the ticket is 'Assigned' or 'In Progress' a warining prompt wil
 </section>
 
 <section id="Creating-Emergency-Ticket-Requests" markdown="1">
-## Creating Emergency Ticket Requests <a name="-Creating-Emergency-Ticket-Requests"></a>
+## Creating Emergency Ticket Requests <a name="Creating-Emergency-Ticket-Requests"></a>
 
 An Admin user can manually create an Emergency Ticket by following the steps below:
 
