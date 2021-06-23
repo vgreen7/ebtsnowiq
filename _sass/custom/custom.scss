@@ -19,6 +19,7 @@
   font-weight: 500;
 }
 .toc {
+    display:none;
     padding-left: 0;
     padding-right: 12px;
     right: 0;
@@ -29,6 +30,7 @@
     background-color: $sidebar-color;
   
     @include mq(md) {
+      display:block;
       //flex-wrap: nowrap;
       position: fixed;
       width: $nav-width-md;
