@@ -64,7 +64,7 @@ The Event Management page allows users to create new Events as storms are announ
 </section>
 
 <section id="MC311-Tickets" markdown="1">
-### MC311 Tickets<a name="-MC311-Tickets"></a>
+### MC311 Tickets<a name="MC311-Tickets"></a>
 
 The MC311 system is used by Montgomery County, MD to process emergency ticket requests that come in during the snow storm. The SNOWiQ's MC311 Tickets page allows Admin users to send emergency requests that come in from the MC311 system to Supervisors who will in turn assign them to Drivers during an event.
 
@@ -72,7 +72,7 @@ The MC311 system is used by Montgomery County, MD to process emergency ticket re
 </section>
 
 <section id="User-Management" markdown="1">
-### User Management <a name="-User-Management"></a>
+### User Management<a name="User-Management"></a>
 
 The User Management page allows Admin users to view and search for users, edit user information, activate/deactivate users, and upload new users into the portal.
 
