@@ -12,7 +12,7 @@ nav_order: 2
 # Active Storm Ops <a name="Active-Storm-Ops"></a>
 
 <section id="Map-Monitoring-View" markdown="1">
-## Map Monitoring View <a name=-Map-Monitoring-View"></a>
+## Map Monitoring View <a name="Map-Monitoring-View"></a>
 
 The Map Monitoring view is the first page that users see when logging in, which can also be accessed from the navigation menu on the left under 'Active Storm Ops' option. This page is used to view near-real time visual updates during a storm event. The Map Monitoring view consists of the following elements:
 
