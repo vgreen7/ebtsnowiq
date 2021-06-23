@@ -9,10 +9,10 @@ nav_order: 1
 ---
 
 <section id="Login-and-Navigation" markdown="1">
-# Login and Navigation
+# Login and Navigation<a name="Login-and-Navigation"></a>
 
 <section id="Login" markdown="1">
-## Login<a name="-Login"></a>
+## Login<a name="Login"></a>
 
 The login screen below allows users to enter into the SNOWiQ Storm Operations Center (SOC) web portal. Click the appropriate 'Login' button to be re-routed to enter the assigned User Name and Password for the application.
 
@@ -26,7 +26,7 @@ Once logged into the SOC, all users will see the Map Monitoring view as seen bel
 </section>
 
 <section id="Navigation" markdown="1">
-## Navigation<a name="-Navigation"></a>
+## Navigation<a name="Navigation"></a>
 
 Users can find the navigation menu to access the other pages in the portal by clicking the 'Menu' button (3 stacked lines) at the top left of the application. The options below are available in the left navigation menu bar:
 
@@ -57,7 +57,7 @@ The Active Storm Report page allows Admin users to look at the details of the Ev
 </section>
 
 <section id="Event-Management" markdown="1">
-### Event Management<a name="-Event-Mangement"></a>
+### Event Management<a name="Event-Management"></a>
 
 The Event Management page allows users to create new Events as storms are announced, create Phases within those events, archive active storms, and view reports on specific storms as well.
 
@@ -81,7 +81,7 @@ The User Management page allows Admin users to view and search for users, edit u
 </section>
 
 <section id="Route-Plans" markdown="1">
-### Route Plans<a name="-Route-Plans"></a>
+### Route Plans<a name="Route-Plans"></a>
 
 The Route Plans page allows Admin users to view the current version of geo-data used to map routes in a depot. Users can also use this page to upload a new file to update the route mapping within a depot.
 
@@ -89,3 +89,4 @@ The Route Plans page allows Admin users to view the current version of geo-data 
 </section>
 </section>
 </section>
+

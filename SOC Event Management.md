@@ -8,14 +8,16 @@ parent: Storm Operations Center
 nav_order: 4
 ---
 
-# Event Management <a name="-Event-Management"></a>
+<section id="Event-Management" markdown="1">
+# Event Management<a name="Event-Management"></a>
 
 The Event Management page allows Admin users to create new storm events, edit Event details, create Phases, Activities for Depots during an event, as well as view Event Logs and Reports for each Event. 
 
 
 ![Screenshot 2021-03-05 080423](https://user-images.githubusercontent.com/79857237/110120198-ba54a380-7d8a-11eb-8895-a9574449ca29.png)
 
-## Event Creation <a name="-Event-Creation"></a>
+<section id="Event-Creation" markdown="1">
+## Event Creation<a name="Event-Creation"></a>
 
 When a snow storm is approaching, to plan the event before it occurs (there are no restrictions in the system – 48 hours ahead should suffice), an Admin user can create a new storm event on the Event Management page by following the steps below:
 
@@ -34,7 +36,8 @@ When a snow storm is approaching, to plan the event before it occurs (there are 
   * Archived - only viewable after archived
   * Active - only one active event at a time
 
-### Phase Creation and Management <a name="-Phase-Creation-and-Management"></a>
+<section id="Phase-Creation-and-Management" markdown="1">
+### Phase Creation and Management<a name="Phase-Creation-and-Management"></a>
 
 Phases are used during a storm Event to define specific Activities that allow proper planning of Assignments for Drivers. Once the newly created Event is on the list, as described in the previous section, the Admin user can create and manage Phases by following the steps below:
 
@@ -88,8 +91,11 @@ Phases are used during a storm Event to define specific Activities that allow pr
   * This will navigate back to Phase Management page, where the newly created Phase is listed with the status 'New.' The following Phase management options are available: edit the Phase details (pencil icon), edit driver assignments (snow plow icon), activate the phase (play icon), and delete a phase (X icon).
 
     ![Screenshot 2021-03-05 080838](https://user-images.githubusercontent.com/79857237/110120289-da846280-7d8a-11eb-9895-6646d07beb07.png)
+</section>
+</section>
 
-## Event Activation and Phase Activation <a name="-Event-Activation-and-Phase-Activation"></a>
+<section id="Event-Activation-and-Phase-Activation" markdown="1">
+## Event Activation and Phase Activation<a name="Event-Activation-and-Phase-Activation"></a>
 
 Once the creation of Phases and Assignments is completed, the next step is to activate the Event, by following the steps below:
 
@@ -118,9 +124,10 @@ Once the creation of Phases and Assignments is completed, the next step is to ac
   ![Screenshot 2021-03-05 081046](https://user-images.githubusercontent.com/79857237/110120311-e40dca80-7d8a-11eb-9751-f8bb5b82eefa.png)
 
 * This completes the Event Activation. This means the Supervisor can begin monitoring the Event and Drivers can begin accepting Assignments. 
+</section>
 
-
-## Event Archiving <a name="-Event-Archiving"></a>
+<section id="Event-Archiving" markdown="1">
+## Event Archiving<a name="Event-Archiving"></a>
 
 Once the Event has been completed to the Admin's specifications, the Event can be closed out by clicking the 'Archive' button, as shown below. Archiving officially closes the Event in the system and allows activation of another event. 
 
@@ -129,15 +136,21 @@ Once the Event has been completed to the Admin's specifications, the Event can b
 If there are active assignments, the system will prompt with a warning as shown below. If the user clicks 'Archive' on this prompt, the system, in addition to closing out the Event, will close out and mark as 'completed' all outstanding phases and assignments that were still in progress.
 
 ![Screenshot 2021-03-05 081216](https://user-images.githubusercontent.com/79857237/110120323-e839e800-7d8a-11eb-9530-1d9fc3eccf28.png)
+</section>
 
-## Event Log <a name="-Event-Log"></a>
+<section id="Event-Log" markdown="1">
+## Event Log<a name="Event-Log"></a>
 
 The Event Log button, as shown below, allows users to view all actions taken during a Storm Event, wqhich includes assignment/event status changes, driver status changes, etc. More details can be found on **SOC - Active Storm Log/Report**
 
 ![Screenshot 2021-03-05 081243](https://user-images.githubusercontent.com/79857237/110120340-ed973280-7d8a-11eb-8892-f47a4d07f6b0.png)
+</section>
 
-## Event Report <a name="-Event-Report"></a>
+<section id="Event-Report" markdown="1">
+## Event Report<a name="Event-Report"></a>
 
 The Reports button, as shown below, provides a visual representation of statistical data in a dashboard format for the selected Event. More details can be found on **SOC - Active Storm Log/Report**
 
 ![Screenshot 2021-03-05 081310](https://user-images.githubusercontent.com/79857237/110120351-eff98c80-7d8a-11eb-9b88-dddc173993cd.png)
+</section>
+</section>
