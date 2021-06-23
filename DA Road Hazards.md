@@ -7,9 +7,10 @@ email: contact@eastbanctech.com
 parent: Driver App
 nav_order: 3
 ---
-
+<section id="Road-Hazards" markdown="1">
 # Road Hazards
 
+<section id="Creating-Road-Hazards" markdown="1">
 ## Creating Road Hazard <a name="-Creating-Road-Hazard"></a>
 A Driver can create a road hazard on the map to warn other Drivers of the hazards on their routes, by following the steps below:
   - On the map, press the road hazard plus icon
@@ -23,7 +24,9 @@ A Driver can create a road hazard on the map to warn other Drivers of the hazard
     
 ![Screenshot 2021-03-02 154417](https://user-images.githubusercontent.com/79857237/109712638-46d64a80-7b6e-11eb-99c8-de3918cd153e.png)
 ![Screenshot 2021-03-02 154441](https://user-images.githubusercontent.com/79857237/109712647-48a00e00-7b6e-11eb-8b88-f76186aa2895.png)
+</section>
 
+<section id="Deleting-Road-Hazards" markdown="1">
 ## Deleting Road Hazard <a name="-Deleting-Road-Hazard"></a>
 A Driver can delete an existing road hazard from the map if it doesn't exist anymore: 
   - Press on an existing road hazard on the map
@@ -32,3 +35,5 @@ A Driver can delete an existing road hazard from the map if it doesn't exist any
   - Once deleted, the marker is removed from the map for everyone
   
 ![Screenshot 2021-03-03 081910](https://user-images.githubusercontent.com/79857237/109811686-28696100-7bf9-11eb-95c4-f654c310f0c6.png)
+</section>
+</section>

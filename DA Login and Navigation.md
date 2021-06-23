@@ -97,7 +97,7 @@ Displays the current version of the app.
 </section>
 
 <section id="Logout" markdown="1">
-### Logout <a name="-Logout"></a>
+### Logout<a name="-Logout"></a>
 A user must logout at the end of each workday.
 </section>
 
