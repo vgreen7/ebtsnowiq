@@ -7,7 +7,6 @@ layout: table_wrappers
 <html lang="{{ site.lang | default: 'en-US' }}">
 {% include head.html %}
 <body>
-  <script src="{{ base.url | prepend: site.url }}/assets/js/custom.js"></script>
   <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
     <symbol id="svg-link" viewBox="0 0 24 24">
       <title>Link</title>
@@ -71,11 +70,15 @@ layout: table_wrappers
       <a href="{{ site.webpage }}">{{ site.name }}</a><br>{{ site.email }}
     </footer>
   </div>
+  
+  
   <nav class="toc">
     <!-- Using https://github.com/allejo/jekyll-toc -->
     <b>Table of Contents</b>
     {% include toc.html html=content %}
   </nav>
+  
+  
   <div class="main" id="top">
     <div id="main-header" class="main-header">
       {% if site.search_enabled != false %}
@@ -206,6 +209,7 @@ layout: table_wrappers
     {% endif %}
   </div>
 
+<script src="/ebtsnowiq/assets/js/custom.js"></script>
 
 </body>
 </html>
