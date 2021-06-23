@@ -37,7 +37,7 @@ This application is primarily used for planning purposes by the SOC Manager to p
 This mobile application is used to create driver assignments for upcoming storm events, create address specific route assignments, view and manage driver assignment progress, and view and manage 311 tickets that are assigned by Storm Operations Managers/Supervisors from the SOC.
 </section>
 
-<section id="-Driver-App">
+<section id="-Driver-App" markdown="1">
 ### Driver App (DA) <a name="-Driver-App"></a>
 **Audience: Drivers**
 
@@ -51,10 +51,14 @@ This web-based application allows residents of the county to view statistics abo
 
 </section>
 </section>
+
+
 ## Roles in SNOWiQ (SOC - User Management) <a name="-SNOWiQ-(SOC-User-Management"></a>
+<section id="-Admin" markdown="1">
 ### Admin <a name="-Admin"></a>
 
 The Admin's primary role is to plan upcoming storm events once storm season begins. They are responsible for creating the events in the Snow Operations Center (SOC), along with setting up the phases for supervisors to create assignments for drivers. They will mainly use the SNOWiQ SOC for planning and management.
+</section>
 
 ### Supervisor <a name="-Supervisor"></a>
 
