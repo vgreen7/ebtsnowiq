@@ -8,8 +8,8 @@ parent: Storm Operations Center
 nav_order: 5
 ---
 
-<section id="Ticket-Request-Management" markdown="1">
-# MC311 Tickets Request Management<a name="Ticket-Request-Management"></a>
+<section id="MC311-Ticket-Request-Management" markdown="1">
+# MC311 Ticket Request Management<a name="MC311-Ticket-Request-Management"></a>
 
 The MC311 system is used by Montgomery County, MD to process ticket requests that come in during the snow storm. The SNOWiQ's MC311 Tickets page allows Admin users to send the ticket requests imported from MC311 to Supervisors who will in turn assign them to Drivers during an event. Additionally, users are able to create emergency request tickets for specific addresses.
 
