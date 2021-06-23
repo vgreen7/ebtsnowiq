@@ -16,7 +16,7 @@ nav_order: 1
 
 The login screen below allows Supervisor users to enter into
 the SNOWiQ Supervisor Application. Click the 'Login' button
-to be re-routed to enter the assigned userame and password
+to be re-routed to enter the assigned username and password
 for the application.
 
 ![Screenshot 2021-03-03 122503](https://user-images.githubusercontent.com/79857237/109845806-84dd7800-7c1b-11eb-9143-8bbf7c4624fc.png)
