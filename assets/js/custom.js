@@ -1,5 +1,5 @@
 const root = document.querySelector('#root');
-const target = document.querySelector('h1, h2, h3, h4, h5, h6');
+const target = document.querySelectorAll('h1, h2, h3, h4, h5, h6');
 const io_options = {
   root: root,
   rootMargin: '0px',
@@ -9,7 +9,6 @@ const io_options = {
 let io_observer;
 
 function io_callback (entries) {
-  console.log("2");
   entries.forEach(function(entry){
     const ratio = entry.intersectionRatio;
     id = entry.target.getAttribute('id');
@@ -25,5 +24,4 @@ function io_callback (entries) {
 };
 
 io_observer = new IntersectionObserver(io_callback, io_options);
-console.log("1");
 io_observer.observe(target);
