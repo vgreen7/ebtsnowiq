@@ -14,6 +14,7 @@ On the Route Plans page, an Admin user can view the currently used geo-location 
 
 ![Screenshot 2021-03-05 115857](https://user-images.githubusercontent.com/79857237/110148015-4de99c80-7daa-11eb-8612-592ec23cff7d.png)
 
+<section id="-Uploading-Route-Plans" markdown="1">
 ## Uploading Route Plans <a name="-Uploading-Route-Plans"></a>
 
 An Admin can upload the geo-location data by following the steps below:
@@ -28,11 +29,13 @@ An Admin can upload the geo-location data by following the steps below:
 * Select the file.
 * Click 'Upload'.
 * Once the upload is complete, the  Admin will be able to review the depot in the Route Plans list to see if the new Route Plan upload is Active.
+</section>
 
+<section id="-Viewing-Archived-Routes" markdown="1">
 ## Viewing Archived Routes <a name="-Viewing-Archived-Routes"></a>
 
 Route Plans are automatically archived once new Route Plan files are uploaded. An Admin can view all the previous Route Plan versions and their upload timestamps by clicking on the name of the Depot in bold (below 'Gaithersburg East' was clicked and the accordion-style list expanded to show the history and the previously archived files). Do NOT click the blue x marker next to the Depot name.
 
 ![Screenshot 2021-03-05 115938](https://user-images.githubusercontent.com/79857237/110148031-517d2380-7daa-11eb-8e6e-b858218468b2.png)
-
+</section>
 
