@@ -10,7 +10,7 @@ let io_observer;
 
 function io_callback (entries) {
   console.log("2");
-  entries.ForEach(function(entry){
+  entries.forEach(function(entry){
     const ratio = entry.intersectionRatio;
     id = entry.target.getAttribute('id');
     
@@ -25,4 +25,5 @@ function io_callback (entries) {
 };
 
 io_observer = new IntersectionObserver(io_callback, io_options);
+console.log("1");
 io_observer.observe(target);
