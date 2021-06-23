@@ -10,8 +10,8 @@ nav_order: 1
 
 # Guide and Term Dictionary
 
-<section id="-What-is-SNOWiQ?" markdown="1">
-## What is SNOWiQ? <a name="-What-is-SNOWiQ?"></a>
+<section id="What-is-SNOWiQ?" markdown="1">
+## What is SNOWiQ?<a name="-What-is-SNOWiQ?"></a>
     
 SNOWiQ is a snowplow fleet management and reporting tool for municipalities, snow plow operators, and the public. Based on our TERRAiQ platform, SNOWiQ uses a combination of smartphone-based GPS and cloud technology, delivering a 360-degree view of individual contractor vehicles and your overall snow removal fleet, without costly hardware investments.  Your team and drivers simply log into the SNOWiQ app from the smartphones and devices they already own. SNOWiQ is a Software as a Service (SaaS) solution that combines your internal reporting needs with the convenience of a public dashboard—two mobile applications and a citizen web portal that satisfies all your vehicle tracking, business intelligence, and communication needs. SNOWiQ is designed to meet the unique needs of fleet supervisors, snowplow operators, and the public they serve.
 
@@ -22,30 +22,31 @@ SNOWiQ is a snowplow fleet management and reporting tool for municipalities, sno
 **For the Public** - SNOWiQ’s public portal provides residents and businesses with much-needed transparency into snow removal efforts. One portal shows when streets will be plowed, weather updates, and snow removal statistics.
 
 <section id="Application-Summaries" markdown="1">
-## Application Summaries <a name= "Application-Summaries"></a>
-<section id="-Storm-Operations-Center-(SOC)" markdown="1">
-### Storm Operations Center (SOC) <a name="-Storm-Operations-Center-(SOC)"></a> 
+## Application Summaries<a name= "Application-Summaries"></a>
+
+<section id="Storm-Operations-Center-(SOC)" markdown="1">
+### Storm Operations Center (SOC)<a name="-Storm-Operations-Center-(SOC)"></a> 
 **Audience: Storm Operations Managers and Supervisors**
 
 This application is primarily used for planning purposes by the SOC Manager to plan and create storm events, review and send 311 tickets to their respective depots, and view the current progress of all actions currently involved in the county. This application is Web-based but can be accessed on mobile devices (iPads, tablets, etc.), if needed. Old documentation refers to this web applications as Admin Portal.
 </section>
 
-<section id="-Supervisor-App" markdown="1">
-### Supervisor App (SA) <a name="-Supervisor-App"></a>
+<section id="Supervisor-App" markdown="1">
+### Supervisor App (SA)<a name="Supervisor-App"></a>
 **Audience: Supervisors and Inspectors**
 
 This mobile application is used to create driver assignments for upcoming storm events, create address specific route assignments, view and manage driver assignment progress, and view and manage 311 tickets that are assigned by Storm Operations Managers/Supervisors from the SOC.
 </section>
 
-<section id="-Driver-App" markdown="1">
-### Driver App (DA) <a name="-Driver-App"></a>
+<section id="Driver-App" markdown="1">
+### Driver App (DA)<a name="Driver-App"></a>
 **Audience: Drivers**
 
 This mobile application is accessed on plow drivers’ (contractor or county employee) mobile device. This application allows drivers to view their current assigned routes, their progress, and set the status of their route to "Completed" in order to move on to their next assignment.
 </section>
 
-<section id="-Resident-Portal-(RP)" markdown="1">
-### Resident Portal (RP) <a name="-Resident-Portal-(RP)"></a>
+<section id="Resident-Portal-(RP)" markdown="1">
+### Resident Portal (RP)<a name="Resident-Portal-(RP)"></a>
 
 This web-based application allows residents of the county to view statistics about the current storm event and view data on the progress of different phases (salting, plowing, etc.).
 
@@ -54,8 +55,8 @@ This web-based application allows residents of the county to view statistics abo
 
 
 ## Roles in SNOWiQ (SOC - User Management) <a name="-SNOWiQ-(SOC-User-Management"></a>
-<section id="-Admin" markdown="1">
-### Admin <a name="-Admin"></a>
+<section id="Admin" markdown="1">
+### Admin<a name="Admin"></a>
 
 The Admin's primary role is to plan upcoming storm events once storm season begins. They are responsible for creating the events in the Snow Operations Center (SOC), along with setting up the phases for supervisors to create assignments for drivers. They will mainly use the SNOWiQ SOC for planning and management.
 </section>
