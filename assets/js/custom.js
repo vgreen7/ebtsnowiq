@@ -1,5 +1,5 @@
 const root = document.querySelector('#root');
-const target = document.querySelectorAll('section');
+const target = document.querySelectorAll('span');
 const io_options = {
   root: root,
   rootMargin: '0px',
