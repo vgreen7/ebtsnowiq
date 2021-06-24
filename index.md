@@ -9,7 +9,7 @@ has_children: true
 has_toc: false
 ---
 
-# **Welcome to SNOWiQ APP**
+# **Welcome to the SNOWiQ App**
 
 ![Screenshot 2021-03-09 105249](https://user-images.githubusercontent.com/79857237/110498850-afb94780-80c5-11eb-8e2c-53f2f558a278.png)
 
