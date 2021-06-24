@@ -1,5 +1,5 @@
 # Site settings
-title: SNOWiQ App User Manual
+title: SNOWiQ User Manual
 author: 
 name: EastBanc Technologies
 description: "SNOWiQ app user manual on GH-Pages contact@eastbanctech.com"
@@ -16,8 +16,8 @@ color_scheme: foo
 
 # Aux links for the upper right navigation
 aux_links:
-  "SNOWiQ":
-    - "https://eastbanctech.com/products/snowiq/"
+  "Powered by TERRAiQ":
+    - "https://eastbanctech.com/products/terraiq/"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
