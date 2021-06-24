@@ -22,7 +22,12 @@ function io_callback (entries) {
 
 };
 
+function changePlatform (form) {
+  console.log(form.value);
+};
+
 io_observer = new IntersectionObserver(io_callback, io_options);
 for(i =0; i < target.length; i++){
   io_observer.observe(target[i]);
 }
+
