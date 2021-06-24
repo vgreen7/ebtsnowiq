@@ -74,7 +74,7 @@ layout: table_wrappers
   
   <nav class="toc">
 
-    <form onchange='if(this.value != "default") { changePlatform(this); }'>
+    <form id="platform_form" onchange='if(this.value != "default") { changePlatform(); }'>
       <label for="platform">Platform:</label>
       <select name="platform" id="platform">
         <option value="default">Default</option>

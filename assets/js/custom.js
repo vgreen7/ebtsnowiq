@@ -22,8 +22,8 @@ function io_callback (entries) {
 
 };
 
-function changePlatform (form) {
-  const platform = document.getElementById("myForm").value;
+function changePlatform () {
+  const platform = document.getElementById("platform_form").value;
   console.log(platform);
 };
 
