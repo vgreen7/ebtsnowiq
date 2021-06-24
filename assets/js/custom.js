@@ -22,7 +22,18 @@ function io_callback (entries) {
 
 };
 
+function changePlatform () {
+  platform = "-"+document.getElementById("platform").value;
+  platform = platform.replace("-default","");
+
+  images = document.querySelectorAll('img');
+  for(i=0; i< images.length; i++){
+    images[i].src = images[i].src.replace(".png","").replace("-android.png","").replace("-ios.png","")+platform+".png";
+  };
+};
+
 io_observer = new IntersectionObserver(io_callback, io_options);
 for(i =0; i < target.length; i++){
   io_observer.observe(target[i]);
 }
+

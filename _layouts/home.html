@@ -69,6 +69,18 @@ layout: table_wrappers
       <a href="{{ site.webpage }}">{{ site.name }}</a><br>{{ site.email }}
     </footer>
   </div>
+
+  <nav class="toc">
+    <div class="platform_form">
+      <b style="margin-left: 20px;">Platform:</b>
+      <select id="platform" onchange="changePlatform()">
+          <option value="default">Default</option>
+          <option value="ios">IOS</option>
+          <option value="android">Android</option>
+        </select>
+      </div>
+  </nav>
+
   <div class="main" id="top">
     <div id="main-header" class="main-header">
       {% if site.search_enabled != false %}
@@ -198,5 +210,8 @@ layout: table_wrappers
       <div class="search-overlay"></div>
     {% endif %}
   </div>
+
+  <script src="/ebtsnowiq/assets/js/custom.js"></script>
+
 </body>
 </html>
