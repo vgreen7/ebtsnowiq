@@ -55,6 +55,7 @@ font-weight: 500;
   display: flex;
   flex-wrap: wrap;
   background-color: $sidebar-color;
+  overflow-y: scroll;
 
   @include mq(md) {
     //flex-wrap: nowrap;
