@@ -22,10 +22,12 @@
   list-style: none;
   padding-left: 20px;
 }
+
 .toc li.active > a {
   color: #333;
   font-weight: 500;
 }
+
 .toc {
     display:none;
     padding-left: 0;
@@ -52,6 +54,7 @@
       min-width: $nav-width;
     }
 }
+
 .side-bar {
     z-index: 0;
     display: flex;
@@ -74,6 +77,10 @@
     }
 }
 
+.main img {
+    border: 5px solid #000000;   
+}
+
 .main {
   @include mq(md) {
     position: relative;
@@ -87,7 +94,6 @@
     margin-right: $nav-width;
   }
 }
-
 
 .site-title {
   padding-top: $sp-4;
