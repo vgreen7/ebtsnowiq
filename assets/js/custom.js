@@ -12,7 +12,6 @@ function io_callback (entries) {
   entries.forEach(function(entry){
     const ratio = entry.intersectionRatio;
     id = entry.target.getAttribute('id').toLowerCase();
-    console.log(id);
     if (ratio > 0) {
       document.querySelector(`a[href="#${id}"]`).parentElement.classList.add('active');
     }
