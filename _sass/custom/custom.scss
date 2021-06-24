@@ -49,13 +49,14 @@ font-weight: 500;
     min-width: $nav-width;
   }
 }
-
+.sidebar .nav-list{
+  overflow-y: scroll;
+}
 .side-bar {
   z-index: 0;
   display: flex;
   flex-wrap: wrap;
   background-color: $sidebar-color;
-  overflow-y: scroll;
 
   @include mq(md) {
     //flex-wrap: nowrap;
