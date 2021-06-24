@@ -74,14 +74,11 @@ layout: table_wrappers
   
   <nav class="toc">
 
-    <form id="platform_form" onchange='if(this.value != "default") { changePlatform(); }'>
-      <label for="platform">Platform:</label>
-      <select name="platform" id="platform">
+    <select id="platform" onchange="changePlatform()">
         <option value="default">Default</option>
         <option value="ios">IOS</option>
         <option value="android">Android</option>
       </select>
-    </form>
 
     <!-- Using https://github.com/allejo/jekyll-toc -->
     <b>Table of Contents</b>

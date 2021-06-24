@@ -71,14 +71,11 @@ layout: table_wrappers
   </div>
 
   <nav class="toc">
-    <form id="platform_form" onchange='if(this.value != "default") { changePlatform(); }'>
-      <label for="platform">Platform:</label>
-      <select name="platform" id="platform">
-        <option value="default">Default</option>
-        <option value="ios">IOS</option>
-        <option value="android">Android</option>
-      </select>
-    </form>
+    <select id="platform" onchange="changePlatform()">
+      <option value="default">Default</option>
+      <option value="ios">IOS</option>
+      <option value="android">Android</option>
+    </select>
   </nav>
 
   <div class="main" id="top">

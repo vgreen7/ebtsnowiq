@@ -23,8 +23,14 @@ function io_callback (entries) {
 };
 
 function changePlatform () {
-  const platform = document.getElementById("platform_form").value;
+  const platform = document.getElementById("platform").value;
   console.log(platform);
+
+  images = document.querySelectorAll('img');
+  for(i=0; i< images.length; i++){
+    images[i].src = images[i].src.replace(".png","")+"-"+platform+".png";
+    console.log(images[i].src);
+  };
 };
 
 io_observer = new IntersectionObserver(io_callback, io_options);
