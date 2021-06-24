@@ -23,13 +23,12 @@ function io_callback (entries) {
 };
 
 function changePlatform () {
-  const platform = document.getElementById("platform").value;
-  console.log(platform);
+  const platform = "-"+document.getElementById("platform").value;
+  platform = platform.replace("default","");
 
   images = document.querySelectorAll('img');
   for(i=0; i< images.length; i++){
-    images[i].src = images[i].src.replace(".png","").replace("-android","").replace("-ios","")+"-"+platform+".png";
-    console.log(images[i].src);
+    images[i].src = images[i].src.replace(".png","").replace("-android","").replace("-ios","")+platform+".png";
   };
 };
 
