@@ -49,9 +49,10 @@ font-weight: 500;
     min-width: $nav-width;
   }
 }
-.sidebar .nav-list{
+.sidebar .navigation{
   overflow-y: scroll;
 }
+
 .side-bar {
   z-index: 0;
   display: flex;
