@@ -23,7 +23,7 @@ function io_callback (entries) {
 };
 
 function changePlatform () {
-  const platform = "-"+document.getElementById("platform").value;
+  platform = "-"+document.getElementById("platform").value;
   platform = platform.replace("default","");
 
   images = document.querySelectorAll('img');
