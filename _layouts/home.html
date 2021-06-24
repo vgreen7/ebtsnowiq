@@ -71,11 +71,13 @@ layout: table_wrappers
   </div>
 
   <nav class="toc">
-    <select id="platform" onchange="changePlatform()">
-      <option value="default">Default</option>
-      <option value="ios">IOS</option>
-      <option value="android">Android</option>
-    </select>
+    <div class="platform_form">
+      <select id="platform" onchange="changePlatform()">
+          <option value="default">Default</option>
+          <option value="ios">IOS</option>
+          <option value="android">Android</option>
+        </select>
+      </div>
   </nav>
 
   <div class="main" id="top">
@@ -207,5 +209,8 @@ layout: table_wrappers
       <div class="search-overlay"></div>
     {% endif %}
   </div>
+
+  <script src="/ebtsnowiq/assets/js/custom.js"></script>
+
 </body>
 </html>
