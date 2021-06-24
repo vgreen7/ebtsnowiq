@@ -23,7 +23,8 @@ function io_callback (entries) {
 };
 
 function changePlatform (form) {
-  console.log(form.value);
+  const platform = document.getElementById("myForm").value;
+  console.log(platform);
 };
 
 io_observer = new IntersectionObserver(io_callback, io_options);
