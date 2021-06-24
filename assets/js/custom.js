@@ -24,7 +24,7 @@ function io_callback (entries) {
 
 function changePlatform () {
   platform = "-"+document.getElementById("platform").value;
-  platform = platform.replace("default","");
+  platform = platform.replace("-default","");
 
   images = document.querySelectorAll('img');
   for(i=0; i< images.length; i++){
