@@ -49,8 +49,8 @@ font-weight: 500;
     min-width: $nav-width;
   }
 }
-.sidebar .navigation{
-  overflow-y: scroll;
+.sidebar .navigation .nav-list{
+  overflow-y: auto;
 }
 
 .side-bar {
