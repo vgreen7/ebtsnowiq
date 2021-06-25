@@ -41,7 +41,7 @@ font-weight: 500;
     width: $nav-width-md;
     height: 100%;
     border-left: $border $border-color;
-    padding-top: 5px;
+    padding-top: 8px;
   }
 
   @include mq(lg) {
