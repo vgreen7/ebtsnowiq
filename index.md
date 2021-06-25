@@ -11,7 +11,7 @@ has_toc: false
 
 # **Welcome to the SNOWiQ**
 
-<img src="/image/home/home-image.png" width="700" height="1000"/>
+<img src="/ebtsnowiq/image/home/home-image.png" width="700" height="1000"/>
 
 
 SNOWiQ is a snowplow fleet management and reporting tool for municipalities, snow plow operators, and the public.  
