@@ -28,7 +28,7 @@ function changePlatform () {
 
   images = document.querySelectorAll('img');
   for(i=0; i< images.length; i++){
-    images[i].src = images[i].src.replace(".png","").replace("-android.png","").replace("-ios.png","")+platform+".png";
+    images[i].src = images[i].src.replace("-android.png","").replace("-ios.png","").replace(".png","")+platform+".png";
   };
 };
 
