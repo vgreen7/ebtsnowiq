@@ -44,6 +44,10 @@ for(i =0; i < target.length; i++){
 
 document.addEventListener('DOMContentLoaded', function() {
   plat = document.cookie.replace("platform=","").replace(";","");
+  if (plat == ""){
+    plat = "null";
+  };
+  
   document.getElementById("platform").value = plat;
 
   changePlatform();
