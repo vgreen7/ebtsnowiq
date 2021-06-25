@@ -115,7 +115,7 @@ If the status of the ticket is 'Assigned' or 'In Progress' a warining prompt wil
 
 An Admin user can manually create an Emergency Ticket by following the steps below:
 
-* Navigate to either the Active Storm Ops Map View of M311 Tickets Map View.
+* Navigate to either the Active Storm Ops Map View of MC311 Tickets Map View.
 * Click on the magnifying glass icon for the search bar to open on the map, as shown below.
 
 ![Screenshot 2021-03-05 100531](/image/portal/emergency-ticket.png)
@@ -133,7 +133,7 @@ An Admin user can manually create an Emergency Ticket by following the steps bel
 
 ![Screenshot 2021-03-05 100640](/image/portal/emergency-ticket3.png)
 
-* If the ticket was created while on the M311 Tickets Map View, the newly created ticket is added to the list on the panel to the left with a red asterisk like an Emergency Ticket. Its status is set to 'Sent' which means the process of sending it to the Supervisor has been completed.
+* If the ticket was created while on the MC311 Tickets Map View, the newly created ticket is added to the list on the panel to the left with a red asterisk like an Emergency Ticket. Its status is set to 'Sent' which means the process of sending it to the Supervisor has been completed.
 </section>
 </section>
 
