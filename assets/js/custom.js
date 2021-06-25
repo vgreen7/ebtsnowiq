@@ -32,8 +32,9 @@ function changePlatform () {
     images[i].src = images[i].src.replace("-android.png","").replace("-ios.png","").replace(".png","")+platform+".png";
   };
 
-  urlParams = new URLSearchParams(window.location.href);
+  urlParams = new URLSearchParams(window.location.search);
   urlParams.set("platform", document.getElementById("platform").value);
+  window.location.search = urlParams;
 };
 
 io_observer = new IntersectionObserver(io_callback, io_options);
@@ -45,6 +46,7 @@ document.addEventListener('DOMContentLoaded', function() {
   urlParams = new URLSearchParams(window.location.href);
 
   platform = urlParams.get("platform");
+  console.log(platform);
   document.getElementById("platform").value = platform;
 
   changePlatform();
