@@ -26,7 +26,7 @@ A Supervisor can assign a new driver to a route, by following the steps below:
 * From 'Routes Details' panel, tap 'Assign new drivers' as shown below
 
  
-![Screenshot 2021-03-08 083736](https://user-images.githubusercontent.com/79857237/110329789-11f14a00-7feb-11eb-8a12-3f481e17818d.png)
+![Screenshot 2021-03-08 083736](/image/supervisor/assigning-new-drivers.png)
 
 * In the 'Assign Drivers' dialogue complete the following:
   * Select type of Activity
@@ -37,7 +37,7 @@ A Supervisor can assign a new driver to a route, by following the steps below:
 
 * Tap 'Assign'
 
-![Screenshot 2021-03-08 083759](https://user-images.githubusercontent.com/79857237/110329796-13227700-7feb-11eb-81a5-8a9927656cd5.png)
+![Screenshot 2021-03-08 083759](/image/supervisor/assigning-new-drivers1.png)
 
 * This will add the assignment to the Route Details with the name of the Driver and the Assignment status of 'Pending' to indicate that the Assignment has been sent to the Driver but not accepted yet. It also adds the Assignment to the Future list of Assignments for the Driver, as can be seen in the next section. It also prompts the Driver in the Driver App (DA) to accept the Assignment
 </section>
@@ -49,7 +49,7 @@ A Supervisor can add a new task to a Driver, by preforming the following the ste
 
 * From the Driver Details panel, tap 'Add Task'
 
-![Screenshot 2021-03-08 083818](https://user-images.githubusercontent.com/79857237/110329800-14ec3a80-7feb-11eb-8c2c-bd0c983fb2fb.png)
+![Screenshot 2021-03-08 083818](/image/supervisor/adding-tasks.png)
 
 * In the 'Create Driver Assignment' dialogue complete the following:
   * Select type of Activity
@@ -59,11 +59,11 @@ A Supervisor can add a new task to a Driver, by preforming the following the ste
   * Select the route by either searching for a route number or pick from the routes available based on the selected Depot filter Depot, which defaults to the Supervisor's Depot
 * Tap 'Assign'
 
-![Screenshot 2021-03-08 083847](https://user-images.githubusercontent.com/79857237/110329811-16b5fe00-7feb-11eb-8a2a-e4b0b3c477c3.png)
+![Screenshot 2021-03-08 083847](/image/supervisor/adding-tasks1.png)
 
 * This will add the assignment to the Future list for the Driver, as seen below, with status of 'Pending' to indicate that the assignment has been sent to the Driver but not accepted yet. The system will prompt the Driver in the Driver App (DA) to accept the Assignment
 
-![Screenshot 2021-03-08 083910](https://user-images.githubusercontent.com/79857237/110329826-1ae21b80-7feb-11eb-86a8-6347086959c9.png)
+![Screenshot 2021-03-08 083910](/image/supervisor/adding-tasks2.png)
 </section>
 
 <section id="Creating-Address-Specific-Assignment" markdown="1">
@@ -73,7 +73,7 @@ A Supervisor can create an Assignment related to a specific address by following
 
 * From the Map Monitoring view (either tab: Routes, Drivers, or Tickets), tap the magnifying glass or search bar and enter the address for the assignment
 
-![Screenshot 2021-03-08 083933](https://user-images.githubusercontent.com/79857237/110329836-1ddd0c00-7feb-11eb-8cbb-af9305704945.png)
+![Screenshot 2021-03-08 083933](/image/supervisor/specific-assignment.png)
 
 * The system will display a location marker on the map
 * Tap the marker and fill out the address specific assignment prompt, as seen below
@@ -83,7 +83,7 @@ A Supervisor can create an Assignment related to a specific address by following
   * Select the driver by either searching for a driver by name in the search bar or pick from the drivers available based on the selected filters: Depot, defaulted to the Supervisor's Depot, and Driver Type: County or Contractor
 * Tap 'Assign'
 
-![Screenshot 2021-03-08 083954](https://user-images.githubusercontent.com/79857237/110329846-203f6600-7feb-11eb-8f4e-537296158c28.png) 
+![Screenshot 2021-03-08 083954](/image/supervisor/specific-assignment1.png) 
 
 * This will add the assignment
 </section>
@@ -98,7 +98,7 @@ A multi-pass Assignment (when assignment was created, the multi-pass toggle was 
 
 If a Supervisor selects 'Option 1' the system notifies the Driver to continue working on the assignment, i.e. make another pass. With 'Option 2' the system marks the multi-pass Assignment as Completed and removes it from the Driver's Active Assignments into the History tab
 
-![Screenshot 2021-03-08 084022](https://user-images.githubusercontent.com/79857237/110329854-22a1c000-7feb-11eb-866e-18f0600bd75e.png)
+![Screenshot 2021-03-08 084022](/image/supervisor/completing-multi-passes.png)
 </section>
 
 <section id="Cancelling-Assignments" markdown="1">
@@ -112,8 +112,8 @@ Supervisor can cancel assignments following these steps:
 * Swipe the Assignment you want to cancel to the left
 * Tap on Yes button
 
-![Screenshot 2021-03-08 084054](https://user-images.githubusercontent.com/79857237/110329859-23d2ed00-7feb-11eb-9a83-9010ed4aa258.png)
-![Screenshot 2021-03-08 084114](https://user-images.githubusercontent.com/79857237/110329865-259cb080-7feb-11eb-90ef-9ff5e4b38ac6.png)
+![Screenshot 2021-03-08 084054](/image/supervisor/cancelling-assignments.png)
+![Screenshot 2021-03-08 084114](/image/supervisor/cancelling-assignments1.png)
 </section>
 
 <section id="Routes" markdown="1">
@@ -123,7 +123,7 @@ Supervisor can cancel assignments following these steps:
 
 Once a Route has all its assignments completed, a Supervisor needs to change the status of that route to 'Inspected' to verify that the route is finished, by navigating to the Route Details panel and pressing 'Change Status' and then pressing 'Inspected' on the prompt.
  
-![Screenshot 2021-03-08 084142](https://user-images.githubusercontent.com/79857237/110329881-29303780-7feb-11eb-8964-dd90e4bde579.png)
+![Screenshot 2021-03-08 084142](/image/supervisor/inspecting-routes.png)
 </section>
 </section>
 
@@ -142,7 +142,7 @@ A Supervisor can assign an existing ticket to a Driver, by following the steps b
 * Select the ticket to assign
 * From 'Routes Details' panel, tap 'Assign Drivers'as shown below
 
-![Screenshot 2021-03-08 084205](https://user-images.githubusercontent.com/79857237/110329891-2af9fb00-7feb-11eb-9a0b-d859be5c4835.png)
+![Screenshot 2021-03-08 084205](/image/supervisor/assigning-drivers.png)
 
 * In the 'Assign Drivers' dialogue complete the following:
    * Select type of Activity
@@ -151,10 +151,10 @@ A Supervisor can assign an existing ticket to a Driver, by following the steps b
    * Select Driver by either searching for a driver by name in the search bar or pick from the drivers available based on the selected filters: Depot, defaulted to the Supervisor's Depot, and Driver Type: County or Contractor
 * Tap 'Assign'
 
-![Screenshot 2021-03-08 084224](https://user-images.githubusercontent.com/79857237/110329904-2f261880-7feb-11eb-9ba2-f1f2e275f491.png)
+![Screenshot 2021-03-08 084224](/image/supervisor/assigning-drivers.png)
 
 This will remove the 'New' tag from the ticket on the ticket list and change the color of the ticket marker on the map to yellow to indicate that the ticket status is 'Assigned' but not accepted by the Driver yet. It will also notify the Driver to accept the ticket assignment.  
-![Screenshot 2021-03-08 094149](https://user-images.githubusercontent.com/79857237/110336154-94c9d300-7ff2-11eb-971c-42a57cadfa6a.png)
+![Screenshot 2021-03-08 094149](/image/supervisor/yellow-logo.png)
 </section>
 
 <section id="Pausing-or-Resuming-Drivers" markdown="1">
@@ -166,12 +166,12 @@ When the Driver status is 'In Service', a Supervisor can pause an Active Assignm
 
 * From the Driver Details panel, tap 'Pause' and then 'Yes' on the verification prompt
 
-![Screenshot 2021-03-08 084245](https://user-images.githubusercontent.com/79857237/110329906-30574580-7feb-11eb-9c4e-6807aaf4f27c.png)
+![Screenshot 2021-03-08 084245](/image/supervisor/pausing-resuming-drivers.png)
 
 * The system pauses the Driver (status is changed to 'Paused') and notifies the Driver in the Driver App that their Assignment has been paused and to wait for further instructions
 * To resume the assignment, tap 'Resume' on the Driver that's been paused, as seen below
 
-![Screenshot 2021-03-08 084307](https://user-images.githubusercontent.com/79857237/110329915-32210900-7feb-11eb-9d94-8704b37ac7fd.png)
+![Screenshot 2021-03-08 084307](/image/supervisor/pausing-resuming-drivers1.png)
  </section>
  </section>
  </section>
@@ -187,14 +187,14 @@ A Supervisor can create a road hazard on the map to warn Drivers of the hazards 
 * The system will display the following 'New road hazard' prompt
 * Tap the type of road hazard from the list and tap 'Yes' to confirm the creation of a new road hazard on the next prompt
 
-![Screenshot 2021-03-08 084330](https://user-images.githubusercontent.com/79857237/110329921-33eacc80-7feb-11eb-9c3a-d92d8da3f682.png) 
+![Screenshot 2021-03-08 084330](/image/supervisor/creating-road-hazards.png) 
 
 * The system will display the hazards as either a road plate or a warning as seen below:
   * Road plates (orange stacked layes marker): permanent hazard on the road
   * Temporary hazard (orange warning triangle marker): tree down/power line down, accident, etc.
     **Note:** These hazards will appear on the map for all Supervisors and Drivers that are working in the same service area
 
- ![Screenshot 2021-03-08 084357](https://user-images.githubusercontent.com/79857237/110339740-7c5bb780-7ff6-11eb-84ad-e70abd257831.png)
+ ![Screenshot 2021-03-08 084357](/image/supervisor/creating-road-hazards1.png)
 </section>
 
 <section id="Deleting-Road-Hazards" markdown="1">
@@ -204,12 +204,12 @@ A Supervisor can delete an existing road hazard from the map if it doesn't exist
 
   * Press on an existing road hazard from the map if it doesn't exist anymore:
 
-![Screenshot 2021-03-08 084415](https://user-images.githubusercontent.com/79857237/110329939-377e5380-7feb-11eb-9adc-c07dec59bbaa.png)
+![Screenshot 2021-03-08 084415](/image/supervisor/deleting-road-hazards.png)
 
   * The system will display the following 'Road hazard info' prompt
   * Press 'Delete' and press 'Yes' on the next prompt to confirm deletion of the road hazard
 
-![Screenshot 2021-03-08 084435](https://user-images.githubusercontent.com/79857237/110329944-38af8080-7feb-11eb-81f0-aef08bb196e9.png)
+![Screenshot 2021-03-08 084435](/image/supervisor/deleting-road-hazards.png)
 
   * Once deleted, the marker is removed from the map for everyone
 

@@ -132,7 +132,7 @@ See ‘Driver’ Definition under the ‘Roles’ section above. When logged int
   * Paused  – is for when a supervisor manually pauses a driver. This puts all assignments in the driver's queue on hold until the Supervisors resumes the driver manually.
   * Offline  – is for users that are not logged into the SNOWiQ Driver Application, drivers that are out of range of the service area (out of range), or any drivers that are not able to broadcast/receive GPS coordinates to the system (out of service).
 
-  ![Screenshot 2021-03-04 080523](https://user-images.githubusercontent.com/79857237/109968410-ac3a5080-7cc0-11eb-8932-e682d1a32263.png)
+  ![Screenshot 2021-03-04 080523](/image/portal/driver-status.png)
 </section>
 </section>
 
@@ -161,7 +161,7 @@ A numbered geo-located path line within a depot that was previously uploaded int
 * Inspected - The route has had its assignment verified and finilized by an inspector.
 
 
-![Screenshot 2021-03-04 080543](https://user-images.githubusercontent.com/79857237/109968414-ae041400-7cc0-11eb-9048-34d65c9ec054.png)
+![Screenshot 2021-03-04 080543](/image/portal/route-status.png)
 </section>
 </section>  
 
@@ -180,7 +180,7 @@ An Assignment is a task created within a phase by a supervisor and assigned to a
     * Completed Pending - When a Driver manually completed a pass on a multi-pass assignment (the assignment is pending a review by the Supervisor to determine if another pass is needed)
 * Cancelled - When the Supervisor cancels the assignment, either active or future.
 
-![Screenshot 2021-03-04 080603](https://user-images.githubusercontent.com/79857237/109968419-afcdd780-7cc0-11eb-8e7f-b27ddda2d20d.png)
+![Screenshot 2021-03-04 080603](/image/portal/assignment-status.png)
 </section>
 </section>
 
@@ -212,7 +212,7 @@ MC311 ticket requests are imported from the Montgomery County 311 system where r
     1. The assigned driver has completed the task and marked the assignment as completed - which closes the ticket throughout all systems.
 * Pending - The system found the ticket to be invalid and is preparing to close the ticket. 
 
-![Screenshot 2021-03-03 154526](https://user-images.githubusercontent.com/79857237/109870337-fa574180-7c37-11eb-857e-39678822bb4d.png)
+![Screenshot 2021-03-03 154526](/image/portal/ticket-status.png)
 </section>
 </section> 
 </section>
