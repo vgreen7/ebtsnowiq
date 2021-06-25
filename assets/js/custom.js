@@ -33,7 +33,7 @@ function changePlatform () {
     images[i].src = images[i].src.replace("-android.png","").replace("-ios.png","").replace(".png","")+platform+".png";
   };
   
-  document.cookie = "platfrom="+platfrom_val+";";
+  document.cookie = "platfrom="+platform_val+;
   
 };
 
@@ -43,7 +43,7 @@ for(i =0; i < target.length; i++){
 }
 
 document.addEventListener('DOMContentLoaded', function() {
-  plat = document.cookie.replace("platform=","").replace(";","");
+  plat = document.cookie.replace("platform=","");
   if (plat == ""){
     plat = "null";
   };
