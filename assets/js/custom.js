@@ -22,7 +22,7 @@ function io_callback (entries) {
 
 };
 
-function changePlatform (first) {
+function changePlatform () {
 
   platform_val = document.getElementById("platform").value;
   platform = "-"+platform_val;
@@ -32,12 +32,9 @@ function changePlatform (first) {
   for(i=0; i< images.length; i++){
     images[i].src = images[i].src.replace("-android.png","").replace("-ios.png","").replace(".png","")+platform+".png";
   };
-
-  if(!first){
-  urlParams = new URLSearchParams(window.location.search);
-  urlParams.set("platform", platform_val);
-  window.location.search = urlParams;
-  };
+  
+  document.cookie = "platfrom="+platfrom_val+";";
+  
 };
 
 io_observer = new IntersectionObserver(io_callback, io_options);
@@ -46,11 +43,9 @@ for(i =0; i < target.length; i++){
 }
 
 document.addEventListener('DOMContentLoaded', function() {
-  urlParams = new URLSearchParams(window.location.search);
-
-  plat = urlParams.get("platform");
+  plat = document.cookie.replace("platform=","").replace(";","");
   document.getElementById("platform").value = plat;
 
-  changePlatform(true);
+  changePlatform();
   
 }, false);
