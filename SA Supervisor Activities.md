@@ -11,7 +11,7 @@ nav_order: 2
 # Supervisor Activities<a name="Supervisor-Assignments"></a>
 
 <section id="Creating-New-Assignments" markdown="1">
-### Creating New Assignments<a name="Creating-New-Assignments"></a>
+## Creating New Assignments<a name="Creating-New-Assignments"></a>
 
 There are three ways of creating new assignments within the SA: 
 1. From the Routes tab by pressing 'Assign new drivers'. 
@@ -19,7 +19,7 @@ There are three ways of creating new assignments within the SA:
 3. From the Map Monitoring view on either the Routes or Drivers
 
 <section id="Assigning-New-Drivers" markdown="1">
-#### Assigning New Drivers<a name="Assigning-New-Drivers"></a>
+### Assigning New Drivers<a name="Assigning-New-Drivers"></a>
 
 A Supervisor can assign a new driver to a route, by following the steps below:
 
@@ -43,7 +43,7 @@ A Supervisor can assign a new driver to a route, by following the steps below:
 </section>
 
 <section id="Adding-Tasks" markdown="1">
-#### Adding Tasks<a name="Adding-Tasks"></a>
+### Adding Tasks<a name="Adding-Tasks"></a>
 
 A Supervisor can add a new task to a Driver, by preforming the following the steps below:
 
@@ -67,7 +67,7 @@ A Supervisor can add a new task to a Driver, by preforming the following the ste
 </section>
 
 <section id="Creating-Address-Specific-Assignment" markdown="1">
-#### Creating Address Specific Assignment<a name="-Creating-Address-Specific-Assignment"></a>
+### Creating Address Specific Assignment<a name="-Creating-Address-Specific-Assignment"></a>
 
 A Supervisor can create an Assignment related to a specific address by following the steps below:
 
@@ -90,7 +90,7 @@ A Supervisor can create an Assignment related to a specific address by following
 </section>
 
 <section id="Completing-Assignments-for-Multi-Passes" markdown="1">
-### Completing Assignments for Multi-Passes<a name="Completing-Assignment-for-Multi-Passes"></a>
+## Completing Assignments for Multi-Passes<a name="Completing-Assignment-for-Multi-Passes"></a>
 
 A multi-pass Assignment (when assignment was created, the multi-pass toggle was switched to On) requires a Supervisor to determine the next step after each pass completed by the Driver. Once the Driver completes a pass, a Supervisor receives a 'Pass Completion Notice' prompt with the details about the assignment, including the number of passes made, as seen below. A Supervisor has two options: either 
 1. Tap 'Another Pass' to notify the Driver to continue working on the assignment or
@@ -102,7 +102,7 @@ If a Supervisor selects 'Option 1' the system notifies the Driver to continue wo
 </section>
 
 <section id="Cancelling-Assignments" markdown="1">
-### Cancelling Assignments<a name="Cancelling-Assignments"></a>
+## Cancelling Assignments<a name="Cancelling-Assignments"></a>
 
 Supervisor can cancel assignments following these steps:
 
@@ -114,7 +114,6 @@ Supervisor can cancel assignments following these steps:
 
 ![Screenshot 2021-03-08 084054](https://user-images.githubusercontent.com/79857237/110329859-23d2ed00-7feb-11eb-9a83-9010ed4aa258.png)
 ![Screenshot 2021-03-08 084114](https://user-images.githubusercontent.com/79857237/110329865-259cb080-7feb-11eb-90ef-9ff5e4b38ac6.png)
-</section>
 </section>
 
 <section id="Routes" markdown="1">
@@ -214,5 +213,6 @@ A Supervisor can delete an existing road hazard from the map if it doesn't exist
 
   * Once deleted, the marker is removed from the map for everyone
 
+</section>
 </section>
 </section>
