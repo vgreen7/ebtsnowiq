@@ -12,11 +12,11 @@ nav_order: 1
 
 <section id="Login" markdown="1">
 ## Login<a name="Login"></a>
-The login screen below allows Driver users to enter the SnowIQ Driver Application (DA). Click the appropriate 'Login' button to be re-routed to enter the assigned username and password for the application.
+The login screen below allows Driver users to enter the SNOWiQ Driver Application (DA). Click the appropriate 'Login' button to be re-routed to enter the assigned username and password for the application.
 
 ![Screenshot 2021-03-02 131014](/image/driver/login.png)
 
-Once logged into the DA, Drivers will see the screen below. The screens display two types of Drivers logged in, a County Driver and a Contractor. The difference is identified in the status of the Driver. The County Driver, on the left, has a status of 'Ready' whereas the Contractor, on the right, is in 'Standby.' The circle next to the profile picture indicates that this a County Driver and a square is a Contractor. These icons are color coded to match the status.
+Once logged into the DA, Drivers will see the screen below. The screens display two types of Drivers logged in, a County Driver and a Contractor. The difference is identified in the status of the Driver. The County Driver, on the left, has a status of 'Ready' whereas the Contractor, on the right, is in 'Standby.' The circle next to the profile picture indicates that this a County Driver and a square indicates a Contractor. These icons are color coded to match the status.
 
 ![Screenshot 2021-03-03 100742](/image/driver/login1.png)
 ![Screenshot 2021-03-03 100807](/image/driver/login2.png)
@@ -31,7 +31,7 @@ The diagram below highlights basic navigation controls and map elements of the D
 1. User Profile Picture, Name, and Status – pressing on the Profile picture opens the Navigation Drawer 
 2. Weather widget – automatically updated based on location
 3. Status bar  
-   * If it is on active assignment, as seen in this diagram, the status bar includes the route number or address being worked, number of miles on the assignment, percentage completed, status of the assignment and progress bar
+   * If it is on active assignment, as seen in this diagram, the status bar includes the route number or address being worked, number of miles on the assignment, percentage completed, status of the assignment, and progress bar
 
    * If it is in between assignments or no assignments, the system will display the appropriate notification to the user. 
 5. Map – based on the TBD
@@ -39,7 +39,7 @@ The diagram below highlights basic navigation controls and map elements of the D
 7. Button to create Road Hazards
 8. Navigate button to get directions to the location from Google Maps
 9. Another Driver marker in near-real time with current status color coded 
-10. Route segments assigned to the Driver to work on. Routes are represented by different type of route segments: 
+10. Route segments assigned to the Driver to work on. Routes are represented by different types of route segments: 
     * Emergency - red
     * Primary - blue
     * Neighborhood - orange
@@ -72,7 +72,7 @@ The Operations Menu as seen above is for a Driver without any active or future a
 
 <section id="Assignments" markdown="1">
 ### Assignments<a name="Assignments"></a>
-A user can press on Assignments' to view the Active Assignment, if there is one, any Future Assignments in the queue, and the History of assignments the driver worked on.
+A user can press on 'Assignments' to view the Active Assignment, if there is one, any Future Assignments in the queue, and the History of assignments the driver worked on.
 
 ![Screenshot 2021-03-10 122607](/image/driver/assignments.png)
 </section>

@@ -18,7 +18,7 @@ SNOWiQ is a snowplow fleet management and reporting tool for municipalities, sno
 
 **For Storm Operations Managers/Supervisors** - SNOWiQ’s easy-to-use application lets you visualize your contractor fleet in real-time, from city-wide fleet activity, down to individual neighborhoods. Prioritize fleet movements, dynamically assign, re-route, redeploy, or add drivers, from within the app. You can also enforce quality control, improve performance, time management, and customer service. 
 
-**For Snowplow Operators** - Municipal and contractor drivers can use smartphones they already own to advertise their availability, receive notifications when routes are assigned to them, seamlessly switch to Google maps for directions, and confirm when routes are completed.  
+**For Snowplow Operators** - Municipal and contractor drivers can use smartphones they already own to advertise their availability, receive notifications when routes are assigned to them, seamlessly switch to Google Maps for directions, and confirm when routes are completed.  
 
 **For the Public** - SNOWiQ’s public portal provides residents and businesses with much-needed transparency into snow removal efforts. One portal shows when streets will be plowed, weather updates, and snow removal statistics.
 </section>
@@ -125,12 +125,12 @@ See ‘Driver’ Definition under the ‘Roles’ section above. When logged int
 <section id="Driver-Status" markdown="1">
 #### Driver Status<a name="Driver-Status"></a>
   * Logged in (Contractor Only) –  is for Contract Drivers who have logged into the system, but have not accepted any new assignments and are not working on any active assignments. This status is for drivers awaiting a new status after logging in. (This status means no payment is being calculated for the driver, whether they just logged on or have been released.)
-  * Standby (Contractor Only) – is for Contract drivers who are in position, awaiting assignment. This status is applied manually to a driver by their supervisor. (This status allows for calculation of payment by half of their rate.)  
+  * Standby (Contractor Only) – is for Contract Drivers who are in position, awaiting assignment. This status is applied manually to a driver by their supervisor. (This status allows for calculation of payment by half of their rate.)  
   * Ready – is the default status for County Drivers after logging on. For Contract Drivers, it is applied manually by their supervisor to indicate that the driver is ready to begin work on another assignment. (This status allows for calculation of payment in the Contract Driver's full rate.)
   * Address Assignment – is for Drivers working on an address specific assignment.
   * In Service – is for Drivers who have accepted and started an assignment on a route.
-  * Paused  – is for when a supervisor manually pauses a driver. This puts all assignments in the driver's queue on hold until the Supervisors resumes the driver manually.
-  * Offline  – is for users that are not logged into the SNOWiQ Driver Application, drivers that are out of range of the service area (out of range), or any drivers that are not able to broadcast/receive GPS coordinates to the system (out of service).
+  * Paused – is for when a supervisor manually pauses a driver. This puts all assignments in the driver's queue on hold until the Supervisors resumes the driver manually.
+  * Offline – is for users that are not logged into the SNOWiQ Driver Application, drivers that are out of range of the service area (out of range), or any drivers that are not able to broadcast/receive GPS coordinates to the system (out of service).
 
   ![Screenshot 2021-03-04 080523](/image/portal/driver-status.png)
 </section>
