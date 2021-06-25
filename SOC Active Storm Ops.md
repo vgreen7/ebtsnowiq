@@ -21,7 +21,7 @@ The Map Monitoring view is the first page that users see when logging in, which 
   * A panel to the left of the map with two tabs for Routes and their current status and Drivers and their status
   * A set of filters above the map that allow to narrow or expand what is displayed on the map
 
-  ![Screenshot 2021-03-04 130851](https://user-images.githubusercontent.com/79857237/110009697-5c24b380-7ceb-11eb-9e08-bf29fbbbb6e4.png)  
+  ![Screenshot 2021-03-04 130851](/image/portal/map-monitoring-view.png)  
 
 <section id="Filters" markdown="1">
 ### Filters<a name="Filters"></a>
@@ -38,7 +38,7 @@ The Route Status filter allows users to view any routes set to a specific status
   * Completed - The route has had its assignment(s) completed by assigned driver(s) or the inspector/supervisor manually set the route to 'Completed' 
   * Inspected - The route has had its assignment verified and finalized by an inspector
 
-![Screenshot 2021-03-04 130914](https://user-images.githubusercontent.com/79857237/110009702-5e870d80-7ceb-11eb-9df6-4c299472e76c.png)  
+![Screenshot 2021-03-04 130914](/image/portal/route-status-filter.png)  
 </section>
 
 <section id="Priority" markdown="1">
@@ -52,7 +52,7 @@ Residential (Orange - neighborhood and Blue - primary) – These routes are for 
 
 Route segments (map layer). Routes are represented by different type of route segments: Emergency - Red, Primary - Blue, Neighborhood - Orange
 
-![Screenshot 2021-03-04 130935](https://user-images.githubusercontent.com/79857237/110009706-6050d100-7ceb-11eb-8ab8-430500fb1003.png)
+![Screenshot 2021-03-04 130935](/image/portal/priority-filter.png) 
 </section>
 
 <section id="Depot" markdown="1">
@@ -60,7 +60,7 @@ Route segments (map layer). Routes are represented by different type of route se
 
 The Depot filter allows users to select a depot within the county which narrows down what drivers and routes are displayed on the map and on the tabs to the left of the map.
 
-![Screenshot 2021-03-04 130957](https://user-images.githubusercontent.com/79857237/110009711-621a9480-7ceb-11eb-803f-5190b6b62db6.png)
+![Screenshot 2021-03-04 130957](/image/portal/depot.png) 
 </section>
 </section>
 </section>
@@ -70,7 +70,7 @@ The Depot filter allows users to select a depot within the county which narrows 
 
 The Routes tab located to the left of the map, as seen below, displays a list of routes with their corresponding route name/number and a status indicator (color coded – see markers), the total number of miles on the route, and the percentage of completion if there is an active assignment. Applying Filters above the map will filter the routes on this tab as well. Clicking on any of the route labels within the tab focuses on that single route on the map.
 
-![Screenshot 2021-03-04 131025](https://user-images.githubusercontent.com/79857237/110009718-647cee80-7ceb-11eb-934e-506f98f1c3f0.png)
+![Screenshot 2021-03-04 131025](/image/portal/routes-tab.png)
 </section>
 
 <section id="Drivers-Tab" markdown="1">
@@ -78,18 +78,18 @@ The Routes tab located to the left of the map, as seen below, displays a list of
 
 The Drivers tab to the right of the Routes tab, as seen below, displays a list of Drivers with their names and statuses (color coded – see markers and Status Descriptions). When selecting a Driver from the list, their details will be shown above their icon located on the map as seen below. It provides additional details like the Driver's photo, Supervisor name, and the last time the Driver was seen using the Driver App (DA). 
 
-![Screenshot 2021-03-04 131047](https://user-images.githubusercontent.com/79857237/110009729-68107580-7ceb-11eb-9615-c1f38acd75fa.png)
+![Screenshot 2021-03-04 131047](/image/portal/drivers-tab.png) 
 
 Clicking on the Blue arrow to the right of the Driver name produces the Driver's Profile panel, as seen below, with even more details.
 
-![Screenshot 2021-03-04 131111](https://user-images.githubusercontent.com/79857237/110009735-6a72cf80-7ceb-11eb-8a5e-13d7474ca999.png)
+![Screenshot 2021-03-04 131111](/image/portal/driver-profile-panel.png)
 </section>
 
 <section id="Markers" markdown="1">
 ## Markers<a name="Markers"></a>
 
-![Screenshot 2021-03-04 131133](https://user-images.githubusercontent.com/79857237/110009738-6c3c9300-7ceb-11eb-9043-9f97d516593c.png)
-![Screenshot 2021-03-04 131156](https://user-images.githubusercontent.com/79857237/110009757-7199dd80-7ceb-11eb-8033-c665e7f77eeb.png)
+![Screenshot 2021-03-04 131133](/image/portal/markers.png)
+![Screenshot 2021-03-04 131156](/image/portal/markers1.png)
 </section>
 
 <section id="Clusters" markdown="1">
