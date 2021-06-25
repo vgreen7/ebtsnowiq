@@ -39,7 +39,7 @@ font-weight: 500;
     //flex-wrap: nowrap;
     position: fixed;
     width: $nav-width-md;
-    height: 100%;
+    height: calc(100% - 60px);
     border-left: $border $border-color;
     padding-top: 8px;
   }
@@ -65,6 +65,7 @@ font-weight: 500;
     width: $nav-width-md;
     height: 60px;
     border-bottom: $border $border-color;
+    border-left: $border $border-color;
     line-height:60px;
   }
 
