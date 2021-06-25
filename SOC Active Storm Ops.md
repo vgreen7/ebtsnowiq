@@ -39,7 +39,7 @@ The Route Status filter allows users to view any routes set to a specific status
   * Inspected - The route has had its assignment verified and finalized by an inspector
 
 ![Screenshot 2021-03-04 130914](https://user-images.githubusercontent.com/79857237/110009702-5e870d80-7ceb-11eb-9df6-4c299472e76c.png)  
-</status>
+</section>
 
 <section id="Priority" markdown="1">
 #### Priority<a name="Priority"></a>
