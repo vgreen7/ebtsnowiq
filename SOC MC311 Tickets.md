@@ -63,7 +63,7 @@ System identifies the route by the address of the ticket and Checks if the route
 </section>
 
 <section id="Ticket-Map-View" markdown="1">
-## Tickets Map View<a name="Tickets-Map-View"></a>
+## Ticket Map View<a name="Tickets-Map-View"></a>
 
 This view provides a panel on the left that lists the tickets and their statuses and also a visual on the map of markers (color coded) that represent tickets to give users an idea of where the tickets are located in the service area. Additionally, clusters are visible when the map is zoomed out.
 
