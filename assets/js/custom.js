@@ -48,6 +48,7 @@ document.addEventListener('DOMContentLoaded', function() {
   urlParams = new URLSearchParams(window.location.href);
 
   platform = urlParams.get("platform");
+  console.log(platform);
   document.getElementById("platform").value = platform;
 
   changePlatform(true);
