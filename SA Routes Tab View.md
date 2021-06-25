@@ -14,7 +14,7 @@ A panel on the left has three tabs: Routes, Drivers, and Tickets. The app opens 
 
 The Route panel displays a list of routes with their corresponding route name/number, percentage of completion if there is an active assignment, the total number of miles on the route, and status indicator (color coded on the map). Above the list there is a set of filters: by Depot, Route Type, and Route Status.  
 
-![Screenshot 2021-03-05 125933](https://user-images.githubusercontent.com/79857237/110154855-c3f20180-7db2-11eb-8ac6-520e060ad1eb.png)
+![Screenshot 2021-03-05 125933](/image/supervisor/routes-tab.png)
 
 <section id="Route-Filters" markdown="1">
 ## Route Filters<a name="-Route-Filters"></a>
@@ -53,6 +53,6 @@ The Route Status filter allows users to view any routes set to a specific status
 
 Selecting a route label from the list focuses on that single route on the map, as shown below, and brings up the 'Route Details' panel on the left. The panel includes percentage of completion for a route if it's being worked on, progress bar of completion, the driver(s) assigned to the route, the driver's contact information, and the status of the route along with a timestamp of that status. On this 'Route Details' panel, the user is also able to 'Assign new drivers' to this route and review the near-real time progress of the driver by looking at the breadcrumbs on the route. Breadcrumbs appear as the driver completes the route as shown below. 
 
-![Screenshot 2021-03-05 130014](https://user-images.githubusercontent.com/79857237/110154859-c5bbc500-7db2-11eb-8069-dfff2db1ed25.png)
+![Screenshot 2021-03-05 130014](/image/supervisor/routes-details.png)
 </section>
 </section>

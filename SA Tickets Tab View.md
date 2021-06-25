@@ -12,13 +12,13 @@ nav_order: 5
 
 When Admin sends a new ticket to a Supervisor it will be appear as a ticket count on the Ticket tab for the Supervisor, as seen below.
 
-![Screenshot 2021-03-05 135134](https://user-images.githubusercontent.com/79857237/110160501-197ddc80-7dba-11eb-86d5-950839566500.png)  
+![Screenshot 2021-03-05 135134](/image/supervisor/tickets-tab.png)  
 
 After selecting the Tickets tab, the Tickets panel displays a list of tickets and a visual on the map of markers that represent tickets and their statuses to give users an indicator of where the tickets are located in the service area. Above the list, there is a set of filters: by Depot, Route, Ticket Status, and Ticket Type. 
    
 A new Ticket is notated with a 'New' tag and identified with a red asterisk marker on the map on the right. A checkmark on any type of ticket indicates that the ticket is closed.
 
-![Screenshot 2021-03-05 135157](https://user-images.githubusercontent.com/79857237/110160508-1be03680-7dba-11eb-9f9c-3202bc7d063c.png)
+![Screenshot 2021-03-05 135157](/image/supervisor/tickets-tab1.png)
 
 <section id="Ticket-Filters" markdown="1">
 ## Ticket Filters<a name="Ticket-Filters"></a>
@@ -63,7 +63,7 @@ Ticket Type filter allows users to filter by two different types of tickets.
 
 A Checkmark on either type of ticket indicates that the ticket is closed.
 
-  ![Screenshot 2021-03-05 135220](https://user-images.githubusercontent.com/79857237/110160519-1da9fa00-7dba-11eb-94ab-3270b23940ff.png)
+  ![Screenshot 2021-03-05 135220](/image/supervisor/ticket-type.png)
 </section>
 </section>
 
@@ -72,7 +72,7 @@ A Checkmark on either type of ticket indicates that the ticket is closed.
 
 Selecting a ticket label from the list focuses on that single ticket on the map and brings up the 'Ticket details' panel on the left. The panel includes all the relevant ticket information and allows the Supervisor to 'Assign drivers' to that ticket. 
 
-  ![Screenshot 2021-03-05 135243](https://user-images.githubusercontent.com/79857237/110160529-1f73bd80-7dba-11eb-8b66-da8d5899bdeb.png)
+  ![Screenshot 2021-03-05 135243](/image/supervisor/tickets-details.png)
 
 </section>
 </section>
