@@ -23,13 +23,17 @@ function io_callback (entries) {
 };
 
 function changePlatform () {
+
   platform = "-"+document.getElementById("platform").value;
-  platform = platform.replace("-default","");
+  platform = platform.replace("-null","");
 
   images = document.querySelectorAll('img');
   for(i=0; i< images.length; i++){
     images[i].src = images[i].src.replace("-android.png","").replace("-ios.png","").replace(".png","")+platform+".png";
   };
+
+  urlParams = new URLSearchParams(window.location.href);
+  urlParams.set("platform", document.getElementById("platform").value);
 };
 
 io_observer = new IntersectionObserver(io_callback, io_options);
@@ -37,3 +41,12 @@ for(i =0; i < target.length; i++){
   io_observer.observe(target[i]);
 }
 
+document.addEventListener('DOMContentLoaded', function() {
+  urlParams = new URLSearchParams(window.location.href);
+
+  platform = urlParams.get("platform");
+  document.getElementById("platform").value = platform;
+
+  changePlatform();
+  
+}, false);
