@@ -18,7 +18,7 @@ SNOWiQ is a snowplow fleet management and reporting tool for municipalities, sno
 
 **For Storm Operations Managers/Supervisors** - SNOWiQ’s easy-to-use application lets you visualize your contractor fleet in real-time, from city-wide fleet activity, down to individual neighborhoods. Prioritize fleet movements, dynamically assign, re-route, redeploy, or add drivers, from within the app. You can also enforce quality control, improve performance, time management, and customer service. 
 
-**For Snowplow Operators** - Municipal and contractor drivers can use smartphones they already own to advertise their availability, receive notifications when routes are assigned to them, seamlessly switch to Google maps for directions, and confirm when routes are completed.  
+**For Snowplow Operators** - Municipal and contractor drivers can use smartphones they already own to advertise their availability, receive notifications when routes are assigned to them, seamlessly switch to Google Maps for directions, and confirm when routes are completed.  
 
 **For the Public** - SNOWiQ’s public portal provides residents and businesses with much-needed transparency into snow removal efforts. One portal shows when streets will be plowed, weather updates, and snow removal statistics.
 </section>
@@ -125,14 +125,14 @@ See ‘Driver’ Definition under the ‘Roles’ section above. When logged int
 <section id="Driver-Status" markdown="1">
 #### Driver Status<a name="Driver-Status"></a>
   * Logged in (Contractor Only) –  is for Contract Drivers who have logged into the system, but have not accepted any new assignments and are not working on any active assignments. This status is for drivers awaiting a new status after logging in. (This status means no payment is being calculated for the driver, whether they just logged on or have been released.)
-  * Standby (Contractor Only) – is for Contract drivers who are in position, awaiting assignment. This status is applied manually to a driver by their supervisor. (This status allows for calculation of payment by half of their rate.)  
+  * Standby (Contractor Only) – is for Contract Drivers who are in position, awaiting assignment. This status is applied manually to a driver by their supervisor. (This status allows for calculation of payment by half of their rate.)  
   * Ready – is the default status for County Drivers after logging on. For Contract Drivers, it is applied manually by their supervisor to indicate that the driver is ready to begin work on another assignment. (This status allows for calculation of payment in the Contract Driver's full rate.)
   * Address Assignment – is for Drivers working on an address specific assignment.
   * In Service – is for Drivers who have accepted and started an assignment on a route.
-  * Paused  – is for when a supervisor manually pauses a driver. This puts all assignments in the driver's queue on hold until the Supervisors resumes the driver manually.
-  * Offline  – is for users that are not logged into the SNOWiQ Driver Application, drivers that are out of range of the service area (out of range), or any drivers that are not able to broadcast/receive GPS coordinates to the system (out of service).
+  * Paused – is for when a supervisor manually pauses a driver. This puts all assignments in the driver's queue on hold until the Supervisors resumes the driver manually.
+  * Offline – is for users that are not logged into the SNOWiQ Driver Application, drivers that are out of range of the service area (out of range), or any drivers that are not able to broadcast/receive GPS coordinates to the system (out of service).
 
-  ![Screenshot 2021-03-04 080523](https://user-images.githubusercontent.com/79857237/109968410-ac3a5080-7cc0-11eb-8932-e682d1a32263.png)
+  ![Screenshot 2021-03-04 080523](/image/portal/driver-status.png)
 </section>
 </section>
 
@@ -161,7 +161,7 @@ A numbered geo-located path line within a depot that was previously uploaded int
 * Inspected - The route has had its assignment verified and finilized by an inspector.
 
 
-![Screenshot 2021-03-04 080543](https://user-images.githubusercontent.com/79857237/109968414-ae041400-7cc0-11eb-9048-34d65c9ec054.png)
+![Screenshot 2021-03-04 080543](/image/portal/route-status.png)
 </section>
 </section>  
 
@@ -180,7 +180,7 @@ An Assignment is a task created within a phase by a supervisor and assigned to a
     * Completed Pending - When a Driver manually completed a pass on a multi-pass assignment (the assignment is pending a review by the Supervisor to determine if another pass is needed)
 * Cancelled - When the Supervisor cancels the assignment, either active or future.
 
-![Screenshot 2021-03-04 080603](https://user-images.githubusercontent.com/79857237/109968419-afcdd780-7cc0-11eb-8e7f-b27ddda2d20d.png)
+![Screenshot 2021-03-04 080603](/image/portal/assignment-status.png)
 </section>
 </section>
 
@@ -212,7 +212,7 @@ MC311 ticket requests are imported from the Montgomery County 311 system where r
     1. The assigned driver has completed the task and marked the assignment as completed - which closes the ticket throughout all systems.
 * Pending - The system found the ticket to be invalid and is preparing to close the ticket. 
 
-![Screenshot 2021-03-03 154526](https://user-images.githubusercontent.com/79857237/109870337-fa574180-7c37-11eb-857e-39678822bb4d.png)
+![Screenshot 2021-03-03 154526](/image/portal/ticket-status.png)
 </section>
 </section> 
 </section>
