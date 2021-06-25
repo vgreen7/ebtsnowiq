@@ -24,7 +24,8 @@ function io_callback (entries) {
 
 function changePlatform (first) {
 
-  platform = "-"+document.getElementById("platform").value;
+  platform_val = document.getElementById("platform").value;
+  platform = "-"+platform_val;
   platform = platform.replace("-null","");
 
   images = document.querySelectorAll('img');
@@ -34,7 +35,7 @@ function changePlatform (first) {
 
   if(!first){
   urlParams = new URLSearchParams(window.location.search);
-  urlParams.set("platform", document.getElementById("platform").value);
+  urlParams.set("platform", platform_val);
   window.location.search = urlParams;
   };
 };
@@ -45,11 +46,10 @@ for(i =0; i < target.length; i++){
 }
 
 document.addEventListener('DOMContentLoaded', function() {
-  urlParams = new URLSearchParams(window.location.href);
+  urlParams = new URLSearchParams(window.location.search);
 
-  platform = urlParams.get("platform");
-  console.log(platform);
-  document.getElementById("platform").value = platform;
+  plat = urlParams.get("platform");
+  document.getElementById("platform").value = plat;
 
   changePlatform(true);
   
