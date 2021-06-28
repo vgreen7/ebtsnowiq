@@ -9,7 +9,7 @@ has_children: true
 has_toc: false
 ---
 
-# **Welcome to the SNOWiQ**
+# **Welcome to SNOWiQ**
 
 <img src="/ebtsnowiq/image/home/home-image.png" width="700" height="1000"/>
 
