@@ -4,7 +4,7 @@ title: Installing Driver App
 author: EastBanc Technologies
 name: EastBanc Technologies
 email: contact@eastbanctech.com
-parent: SNOWiQ Overview
+parent: Driver App
 nav_order: 1
 platform: true
 ---
