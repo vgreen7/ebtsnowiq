@@ -6,6 +6,7 @@ name: EastBanc Technologies
 email: contact@eastbanctech.com
 parent: Driver App
 nav_order: 2
+platform: true
 ---
 
 <section id="Drivers-Activity" markdown="1">

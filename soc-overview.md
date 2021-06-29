@@ -6,6 +6,7 @@ name: EastBanc Technologies
 email: contact@eastbanctech.com
 nav_order: 2
 has_children: true
+platform: false
 ---
 
 ## Storm Operations Center (SOC) <a name="-Storm-Operations-Center-(SOC)"></a> 
