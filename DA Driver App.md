@@ -6,6 +6,7 @@ name: EastBanc Technologies
 email: contact@eastbanctech.com
 nav_order: 4
 has_children: true
+platform: false
 ---
 
 ## Driver App (DA) <a name="-Driver-App"></a>

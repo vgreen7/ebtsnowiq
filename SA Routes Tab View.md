@@ -6,6 +6,7 @@ name: EastBanc Technologies
 email: contact@eastbanctech.com
 parent: Supervisor App
 nav_order: 3
+platform: true
 ---
 <section id="Routes-Tab-View" markdown="1">
 # Routes Tab View<a name="-Routes-Tab-View"></a>

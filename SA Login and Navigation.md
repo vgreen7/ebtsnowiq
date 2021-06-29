@@ -6,7 +6,7 @@ name: EastBanc Technologies
 email: contact@eastbanctech.com
 parent: Supervisor App
 nav_order: 1
-
+platform: true
 ---
 <section id="Login-and-Navigation" markdown="1">
 # Login and Navigation
@@ -49,7 +49,7 @@ The diagram below highlights basic navigation controls and map elements of the S
   - Emergency - Red
   - Primary - Blue
   - Neighborhood - Orange
-11. Road hazard boundary (Map layers)
+11. Residential route boundary (Map layers)
 12. Road hazard marker
 13. Cluster of multiple markers
 14. Service area (Depot) boundary (Map layers)

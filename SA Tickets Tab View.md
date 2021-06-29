@@ -6,6 +6,7 @@ name: EastBanc Technologies
 email: contact@eastbanctech.com
 parent: Supervisor App
 nav_order: 5
+platform: true
 ---
 <section id="Tickets-Tab-View" markdown="1">
 # Tickets Tab View<a name="Tickets-Tab-View"></a>
