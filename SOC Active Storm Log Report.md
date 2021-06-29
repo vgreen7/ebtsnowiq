@@ -75,7 +75,7 @@ This tab allows to filter Salt Usage statistics by Depot and Phase.
 
 To view the Event Log for a previous Event, open the navigation menu and select the Event Management option. After searching for the specific event, click the 'Event Log' button as seen below, and the next page would display the Event Log for the specified Event in the same format as in the screenshot in the previous section above. 
 
-![Screenshot 2021-03-04 144808](/image/portal/previou-event-reports.png)
+![Screenshot 2021-03-04 144808](/image/portal/previous-event-reports.png)
 </section>
 </section>
 </section>
