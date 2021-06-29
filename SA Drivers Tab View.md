@@ -6,6 +6,7 @@ name: EastBanc Technologies
 email: contact@eastbanctech.com
 parent: Supervisor App
 nav_order: 4
+platform: true
 ---
 <section id="Drivers-Tab-View" markdown="1">
 # Driver's Tab View<a name="-Drivers-Tab-View"></a>

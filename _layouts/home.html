@@ -71,6 +71,7 @@ layout: table_wrappers
   </div>
 
   <nav class="toc">
+    {% if page.platform == true %}
     <div class="platform_form">
       <b style="margin-left: 20px;">Platform:</b>
       <select id="platform" onchange="changePlatform()">
@@ -79,6 +80,7 @@ layout: table_wrappers
           <option value="android">Android</option>
         </select>
       </div>
+    {% endif %}
   </nav>
 
   <div class="main" id="top">

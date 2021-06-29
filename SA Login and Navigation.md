@@ -6,7 +6,7 @@ name: EastBanc Technologies
 email: contact@eastbanctech.com
 parent: Supervisor App
 nav_order: 1
-
+platform: true
 ---
 <section id="Login-and-Navigation" markdown="1">
 # Login and Navigation
