@@ -7,6 +7,7 @@ email: contact@eastbanctech.com
 nav_order: 1
 has_children: true
 has_toc: false
+platform: false
 ---
 
 # **Welcome to SNOWiQ**
