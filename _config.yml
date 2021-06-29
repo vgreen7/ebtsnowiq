@@ -8,6 +8,8 @@ webpage: https://eastbanctech.com/
 
 plugins:
   - jekyll-toc
+  - jekyll-remote-theme
+  - "jekyll-seo-tag"
 
 # Build settings
 remote_theme: pmarsceill/just-the-docs
