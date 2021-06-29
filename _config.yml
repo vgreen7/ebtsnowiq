@@ -7,7 +7,6 @@ email: contact@eastbanctech.com
 webpage: https://eastbanctech.com/
 
 plugins:
-  - jekyll-toc
   - jekyll-remote-theme
   - "jekyll-seo-tag"
 
