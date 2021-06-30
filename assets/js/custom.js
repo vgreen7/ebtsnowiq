@@ -30,7 +30,7 @@ function changePlatform () {
 
   images = document.querySelectorAll('img');
   for(i=0; i< images.length; i++){
-    images[i].src = images[i].src.replace("-android.png","").replace("-ios.png","").replace(".png","")+platform+".png";
+    images[i].src = images[i].src.replace("-android.png","").replace("-ios.png","").replace("-.png").replace(".png","")+platform+".png";
   };
   
   document.cookie = "platform="+platform_val+";";
